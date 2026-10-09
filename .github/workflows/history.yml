@@ -1,0 +1,25 @@
+name: History Download (5 saal)
+on: workflow_dispatch
+permissions:
+  contents: write
+concurrency:
+  group: smart-money
+  cancel-in-progress: false
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python history.py 5
+      - run: |
+          git config user.name "smart-money-bot"
+          git config user.email "smart-money-bot@users.noreply.github.com"
+          git add data/hist
+          git commit -m "History data" || echo "No changes"
+          git pull --rebase
+          git push
