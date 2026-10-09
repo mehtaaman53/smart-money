@@ -1,0 +1,794 @@
+{
+ "triggers": 1373,
+ "laggards": 5068,
+ "all": {
+  "f20": {
+   "n": 5019,
+   "avg": 0.6,
+   "median": -0.7,
+   "win%": 47,
+   "big>20%": 4
+  },
+  "f60": {
+   "n": 4820,
+   "avg": 1.5,
+   "median": -1.6,
+   "win%": 45,
+   "big>20%": 13
+  },
+  "f120": {
+   "n": 4501,
+   "avg": 2.8,
+   "median": -2.8,
+   "win%": 45,
+   "big>20%": 21
+  }
+ },
+ "in_base": {
+  "f20": {
+   "n": 3226,
+   "avg": 0.3,
+   "median": -0.9,
+   "win%": 45,
+   "big>20%": 3
+  },
+  "f60": {
+   "n": 3072,
+   "avg": 0.2,
+   "median": -1.9,
+   "win%": 44,
+   "big>20%": 11
+  },
+  "f120": {
+   "n": 2909,
+   "avg": 0.5,
+   "median": -3.5,
+   "win%": 44,
+   "big>20%": 18
+  }
+ },
+ "small_groups_2_6": {
+  "f20": {
+   "n": 2657,
+   "avg": 0.5,
+   "median": -0.6,
+   "win%": 47,
+   "big>20%": 4
+  },
+  "f60": {
+   "n": 2535,
+   "avg": 1.0,
+   "median": -2.0,
+   "win%": 45,
+   "big>20%": 13
+  },
+  "f120": {
+   "n": 2373,
+   "avg": 1.7,
+   "median": -4.2,
+   "win%": 43,
+   "big>20%": 20
+  }
+ },
+ "small_and_base": {
+  "f20": {
+   "n": 1683,
+   "avg": 0.1,
+   "median": -0.8,
+   "win%": 46,
+   "big>20%": 3
+  },
+  "f60": {
+   "n": 1589,
+   "avg": -0.5,
+   "median": -2.6,
+   "win%": 43,
+   "big>20%": 10
+  },
+  "f120": {
+   "n": 1516,
+   "avg": -0.6,
+   "median": -5.2,
+   "win%": 41,
+   "big>20%": 18
+  }
+ },
+ "baseline_f60": {
+  "n": 200000,
+  "avg": -0.4,
+  "median": -3.0,
+  "win%": 42,
+  "big>20%": 13
+ },
+ "baseline_f120": {
+  "n": 200000,
+  "avg": -0.4,
+  "median": -5.3,
+  "win%": 41,
+  "big>20%": 19
+ },
+ "best_groups": [
+  {
+   "group": "Shipbuilding",
+   "count": 17,
+   "mean": 35.0,
+   "median": 28.600000381469727
+  },
+  {
+   "group": "Batteries",
+   "count": 3,
+   "mean": 27.200000762939453,
+   "median": -1.899999976158142
+  },
+  {
+   "group": "Welding / Industrial Consumables",
+   "count": 3,
+   "mean": 24.899999618530273,
+   "median": 27.600000381469727
+  },
+  {
+   "group": "Transformers (Small)",
+   "count": 9,
+   "mean": 23.100000381469727,
+   "median": 26.5
+  },
+  {
+   "group": "Power T&D Equipment",
+   "count": 72,
+   "mean": 17.100000381469727,
+   "median": 13.199999809265137
+  },
+  {
+   "group": "Explosives",
+   "count": 20,
+   "mean": 15.800000190734863,
+   "median": 18.200000762939453
+  },
+  {
+   "group": "Mining (Iron Ore / Coal)",
+   "count": 4,
+   "mean": 15.0,
+   "median": 22.0
+  },
+  {
+   "group": "Rubber Chemicals / Carbon Black",
+   "count": 7,
+   "mean": 13.699999809265137,
+   "median": -2.799999952316284
+  },
+  {
+   "group": "Steel (Small/Long)",
+   "count": 35,
+   "mean": 13.100000381469727,
+   "median": 0.6000000238418579
+  },
+  {
+   "group": "Refining (Standalone)",
+   "count": 11,
+   "mean": 12.399999618530273,
+   "median": 11.199999809265137
+  },
+  {
+   "group": "Defence (Pvt)",
+   "count": 77,
+   "mean": 12.300000190734863,
+   "median": 0.4000000059604645
+  },
+  {
+   "group": "Defence (PSU)",
+   "count": 95,
+   "mean": 12.100000381469727,
+   "median": 0.6000000238418579
+  }
+ ],
+ "worst_groups": [
+  {
+   "group": "Ports & Logistics",
+   "count": 50,
+   "mean": -7.5,
+   "median": -5.0
+  },
+  {
+   "group": "Personal Care / FMCG",
+   "count": 67,
+   "mean": -7.699999809265137,
+   "median": -8.300000190734863
+  },
+  {
+   "group": "Seafood / Shrimp",
+   "count": 20,
+   "mean": -8.0,
+   "median": -13.0
+  },
+  {
+   "group": "Amines / Solvents",
+   "count": 18,
+   "mean": -8.0,
+   "median": -8.5
+  },
+  {
+   "group": "IT Services (Large)",
+   "count": 21,
+   "mean": -8.5,
+   "median": -9.899999618530273
+  },
+  {
+   "group": "Cement (Large)",
+   "count": 35,
+   "mean": -8.600000381469727,
+   "median": -6.800000190734863
+  },
+  {
+   "group": "Airlines / Airports",
+   "count": 3,
+   "mean": -10.300000190734863,
+   "median": -10.600000381469727
+  },
+  {
+   "group": "Life Insurance",
+   "count": 26,
+   "mean": -11.600000381469727,
+   "median": -11.0
+  }
+ ],
+ "examples": {
+  "Rice (Basmati)": [
+   {
+    "date": "2022-04-04",
+    "leader": "CLSEL",
+    "laggards": "KRBL",
+    "f60": 12.699999809265137
+   },
+   {
+    "date": "2022-06-17",
+    "leader": "KOHINOOR",
+    "laggards": "KRBL,CLSEL",
+    "f60": 21.0
+   },
+   {
+    "date": "2022-08-18",
+    "leader": "KRBL",
+    "laggards": "CLSEL,KOHINOOR",
+    "f60": -5.199999809265137
+   },
+   {
+    "date": "2022-12-30",
+    "leader": "GRMOVER",
+    "laggards": "KRBL,CLSEL,KOHINOOR,SARVESHWAR",
+    "f60": 5.800000190734863
+   },
+   {
+    "date": "2023-07-21",
+    "leader": "SARVESHWAR",
+    "laggards": "KRBL,GRMOVER,CLSEL",
+    "f60": -3.4000000953674316
+   },
+   {
+    "date": "2023-09-20",
+    "leader": "CLSEL",
+    "laggards": "KOHINOOR,SARVESHWAR",
+    "f60": 7.0
+   },
+   {
+    "date": "2023-12-06",
+    "leader": "KOHINOOR",
+    "laggards": "KRBL,LTFOODS,GRMOVER,CLSEL,SARVESHWAR",
+    "f60": 19.899999618530273
+   },
+   {
+    "date": "2024-02-05",
+    "leader": "SARVESHWAR",
+    "laggards": "KRBL,LTFOODS,GRMOVER,CLSEL,KOHINOOR",
+    "f60": -11.800000190734863
+   },
+   {
+    "date": "2024-06-07",
+    "leader": "LTFOODS",
+    "laggards": "KRBL,GRMOVER,CLSEL,KOHINOOR,SARVESHWAR",
+    "f60": 7.099999904632568
+   },
+   {
+    "date": "2024-08-08",
+    "leader": "CLSEL",
+    "laggards": "KRBL,LTFOODS,GRMOVER,KOHINOOR,SARVESHWAR",
+    "f60": 8.100000381469727
+   },
+   {
+    "date": "2024-12-09",
+    "leader": "SARVESHWAR",
+    "laggards": "KRBL,LTFOODS,GRMOVER,CLSEL,KOHINOOR",
+    "f60": 7.199999809265137
+   },
+   {
+    "date": "2025-05-19",
+    "leader": "KRBL,CLSEL",
+    "laggards": "LTFOODS,GRMOVER,KOHINOOR,SARVESHWAR",
+    "f60": 11.100000381469727
+   },
+   {
+    "date": "2025-08-08",
+    "leader": "KRBL",
+    "laggards": "LTFOODS,GRMOVER,CLSEL,KOHINOOR,SARVESHWAR",
+    "f60": -13.899999618530273
+   },
+   {
+    "date": "2025-11-19",
+    "leader": "GRMOVER",
+    "laggards": "KRBL,LTFOODS,CLSEL,SARVESHWAR",
+    "f60": -1.5
+   },
+   {
+    "date": "2026-02-12",
+    "leader": "LTFOODS",
+    "laggards": "KRBL,GRMOVER,CLSEL,KOHINOOR,SARVESHWAR",
+    "f60": -3.700000047683716
+   },
+   {
+    "date": "2026-08-14",
+    "leader": "KOHINOOR",
+    "laggards": "KRBL,LTFOODS,GRMOVER,CLSEL,SARVESHWAR",
+    "f60": NaN
+   }
+  ],
+  "Oleochemicals / Surfactants": [
+   {
+    "date": "2022-05-31",
+    "leader": "FINEORG",
+    "laggards": "GALAXYSURF,GODREJIND",
+    "f60": -1.2000000476837158
+   },
+   {
+    "date": "2022-09-14",
+    "leader": "FINEORG",
+    "laggards": "GALAXYSURF,GODREJIND",
+    "f60": -9.5
+   },
+   {
+    "date": "2022-12-09",
+    "leader": "GODREJIND",
+    "laggards": "FINEORG,GALAXYSURF",
+    "f60": -10.699999809265137
+   },
+   {
+    "date": "2023-06-06",
+    "leader": "FINEORG",
+    "laggards": "GALAXYSURF,GODREJIND",
+    "f60": -12.0
+   },
+   {
+    "date": "2023-08-23",
+    "leader": "GODREJIND",
+    "laggards": "FINEORG,GALAXYSURF",
+    "f60": -4.199999809265137
+   },
+   {
+    "date": "2023-11-06",
+    "leader": "GALAXYSURF",
+    "laggards": "FINEORG,GODREJIND",
+    "f60": -1.5
+   },
+   {
+    "date": "2024-01-01",
+    "leader": "GODREJIND",
+    "laggards": "GALAXYSURF",
+    "f60": -17.100000381469727
+   },
+   {
+    "date": "2024-04-29",
+    "leader": "GODREJIND",
+    "laggards": "FINEORG,GALAXYSURF",
+    "f60": 4.599999904632568
+   },
+   {
+    "date": "2024-07-01",
+    "leader": "FINEORG",
+    "laggards": "GALAXYSURF,GODREJIND",
+    "f60": 17.299999237060547
+   },
+   {
+    "date": "2024-09-02",
+    "leader": "GODREJIND",
+    "laggards": "FINEORG,GALAXYSURF",
+    "f60": 2.0
+   },
+   {
+    "date": "2025-06-06",
+    "leader": "GODREJIND",
+    "laggards": "FINEORG,GALAXYSURF",
+    "f60": -0.20000000298023224
+   },
+   {
+    "date": "2026-02-24",
+    "leader": "FINEORG",
+    "laggards": "GALAXYSURF,GODREJIND",
+    "f60": -6.199999809265137
+   },
+   {
+    "date": "2026-05-07",
+    "leader": "GODREJIND",
+    "laggards": "FINEORG,GALAXYSURF",
+    "f60": 2.0
+   },
+   {
+    "date": "2026-07-10",
+    "leader": "GODREJIND",
+    "laggards": "GALAXYSURF",
+    "f60": 21.399999618530273
+   }
+  ],
+  "Precision Engineering": [
+   {
+    "date": "2022-04-07",
+    "leader": "PARAS",
+    "laggards": "MTARTECH",
+    "f60": -14.100000381469727
+   },
+   {
+    "date": "2022-08-01",
+    "leader": "PARAS",
+    "laggards": "MTARTECH",
+    "f60": 23.0
+   },
+   {
+    "date": "2022-12-02",
+    "leader": "MTARTECH",
+    "laggards": "PARAS,HARSHA",
+    "f60": -11.100000381469727
+   },
+   {
+    "date": "2023-05-02",
+    "leader": "MTARTECH",
+    "laggards": "PARAS,HARSHA",
+    "f60": -1.399999976158142
+   },
+   {
+    "date": "2023-07-11",
+    "leader": "PARAS",
+    "laggards": "MTARTECH,PTCIL,HARSHA",
+    "f60": 11.800000190734863
+   },
+   {
+    "date": "2023-12-14",
+    "leader": "PTCIL",
+    "laggards": "MTARTECH,PARAS,HARSHA",
+    "f60": -17.299999237060547
+   },
+   {
+    "date": "2024-02-22",
+    "leader": "HARSHA",
+    "laggards": "AZAD,MTARTECH,PARAS,PTCIL",
+    "f60": -1.399999976158142
+   },
+   {
+    "date": "2024-04-26",
+    "leader": "HARSHA",
+    "laggards": "AZAD,MTARTECH,PARAS,PTCIL",
+    "f60": 52.400001525878906
+   },
+   {
+    "date": "2024-11-20",
+    "leader": "MTARTECH",
+    "laggards": "AZAD,PARAS,PTCIL,HARSHA",
+    "f60": 8.5
+   },
+   {
+    "date": "2025-04-28",
+    "leader": "PARAS",
+    "laggards": "AZAD,MTARTECH,UNIMECH,PTCIL,HARSHA",
+    "f60": -0.6000000238418579
+   },
+   {
+    "date": "2025-07-04",
+    "leader": "ROSSTECH",
+    "laggards": "AZAD,MTARTECH,UNIMECH,PARAS,PTCIL",
+    "f60": -2.5999999046325684
+   },
+   {
+    "date": "2025-09-17",
+    "leader": "MTARTECH",
+    "laggards": "AZAD,UNIMECH,PARAS,PTCIL,HARSHA,ROSSTECH",
+    "f60": 3.299999952316284
+   },
+   {
+    "date": "2026-01-30",
+    "leader": "MTARTECH",
+    "laggards": "AZAD,UNIMECH,PARAS,PTCIL,HARSHA,ROSSTECH",
+    "f60": 18.299999237060547
+   },
+   {
+    "date": "2026-04-10",
+    "leader": "ROSSTECH",
+    "laggards": "AZAD,MTARTECH,UNIMECH,PARAS,PTCIL,HARSHA",
+    "f60": 34.79999923706055
+   },
+   {
+    "date": "2026-06-05",
+    "leader": "PARAS",
+    "laggards": "AZAD,UNIMECH,PTCIL,HARSHA",
+    "f60": 17.0
+   },
+   {
+    "date": "2026-08-04",
+    "leader": "UNIMECH",
+    "laggards": "MTARTECH,PARAS,PTCIL,HARSHA,ROSSTECH",
+    "f60": NaN
+   }
+  ],
+  "Hospitals": [
+   {
+    "date": "2022-07-18",
+    "leader": "ASTERDM",
+    "laggards": "APOLLOHOSP,MAXHEALTH,FORTIS,NH,KIMS,RAINBOW,SHALBY,KRSNAA",
+    "f60": 1.2999999523162842
+   },
+   {
+    "date": "2022-09-15",
+    "leader": "MAXHEALTH",
+    "laggards": "APOLLOHOSP,NH,KIMS,RAINBOW,ASTERDM,KRSNAA",
+    "f60": 7.199999809265137
+   },
+   {
+    "date": "2023-01-03",
+    "leader": "SHALBY",
+    "laggards": "APOLLOHOSP,MAXHEALTH,FORTIS,NH,MEDANTA,KIMS,RAINBOW,ASTERDM,KRSNAA",
+    "f60": 11.699999809265137
+   },
+   {
+    "date": "2023-03-14",
+    "leader": "MAXHEALTH",
+    "laggards": "APOLLOHOSP,FORTIS,NH,KIMS,RAINBOW,ASTERDM,SHALBY,KRSNAA",
+    "f60": 4.199999809265137
+   },
+   {
+    "date": "2023-05-15",
+    "leader": "MAXHEALTH",
+    "laggards": "APOLLOHOSP,FORTIS,NH,MEDANTA,KIMS,ASTERDM,SHALBY,KRSNAA",
+    "f60": 2.799999952316284
+   },
+   {
+    "date": "2023-07-11",
+    "leader": "FORTIS",
+    "laggards": "APOLLOHOSP,MAXHEALTH,NH,RAINBOW,KRSNAA",
+    "f60": -11.300000190734863
+   },
+   {
+    "date": "2023-09-05",
+    "leader": "SHALBY",
+    "laggards": "APOLLOHOSP,MAXHEALTH,FORTIS,NH,MEDANTA,KIMS,RAINBOW,ASTERDM,YATHARTH,KRSNAA",
+    "f60": 2.4000000953674316
+   },
+   {
+    "date": "2023-11-17",
+    "leader": "NH",
+    "laggards": "APOLLOHOSP,MAXHEALTH,FORTIS,MEDANTA,KIMS,RAINBOW,ASTERDM,YATHARTH,JLHL,SHALBY,KRSNAA",
+    "f60": 0.6000000238418579
+   },
+   {
+    "date": "2024-01-23",
+    "leader": "MAXHEALTH",
+    "laggards": "APOLLOHOSP,FORTIS,NH,MEDANTA,KIMS,RAINBOW,ASTERDM,YATHARTH,JLHL,SHALBY,KRSNAA",
+    "f60": 3.5999999046325684
+   },
+   {
+    "date": "2024-04-15",
+    "leader": "ASTERDM",
+    "laggards": "APOLLOHOSP,MAXHEALTH,FORTIS,NH,MEDANTA,KIMS,RAINBOW,YATHARTH,JLHL,SHALBY,KRSNAA",
+    "f60": -13.0
+   },
+   {
+    "date": "2024-06-13",
+    "leader": "KRSNAA",
+    "laggards": "APOLLOHOSP,MAXHEALTH,FORTIS,NH,MEDANTA,KIMS,RAINBOW,ASTERDM,YATHARTH,JLHL,SHALBY",
+    "f60": -1.899999976158142
+   },
+   {
+    "date": "2024-08-21",
+    "leader": "YATHARTH",
+    "laggards": "APOLLOHOSP,MAXHEALTH,FORTIS,NH,MEDANTA,KIMS,RAINBOW,JLHL,SHALBY,KRSNAA",
+    "f60": 6.199999809265137
+   },
+   {
+    "date": "2024-10-24",
+    "leader": "ASTERDM",
+    "laggards": "APOLLOHOSP,MAXHEALTH,FORTIS,NH,MEDANTA,KIMS,YATHARTH,JLHL,SHALBY,KRSNAA",
+    "f60": 3.4000000953674316
+   },
+   {
+    "date": "2025-02-25",
+    "leader": "NH",
+    "laggards": "APOLLOHOSP,MAXHEALTH,FORTIS,MEDANTA,KIMS,RAINBOW,ASTERDM,YATHARTH,JLHL,SHALBY,KRSNAA",
+    "f60": -1.7000000476837158
+   },
+   {
+    "date": "2025-07-03",
+    "leader": "ASTERDM",
+    "laggards": "APOLLOHOSP,MAXHEALTH,FORTIS,NH,MEDANTA,KIMS,RAINBOW,YATHARTH,JLHL,SHALBY,KRSNAA",
+    "f60": 9.699999809265137
+   },
+   {
+    "date": "2025-09-05",
+    "leader": "SHALBY",
+    "laggards": "APOLLOHOSP,MAXHEALTH,NH,KIMS,RAINBOW,ASTERDM,JLHL,KRSNAA",
+    "f60": 0.0
+   },
+   {
+    "date": "2025-11-17",
+    "leader": "NH",
+    "laggards": "APOLLOHOSP,MAXHEALTH,FORTIS,MEDANTA,KIMS,RAINBOW,ASTERDM,YATHARTH,JLHL,SHALBY,KRSNAA",
+    "f60": -7.199999809265137
+   },
+   {
+    "date": "2026-05-04",
+    "leader": "ASTERDM",
+    "laggards": "APOLLOHOSP,MAXHEALTH,FORTIS,NH,MEDANTA,KIMS,RAINBOW,YATHARTH,JLHL,SHALBY,KRSNAA",
+    "f60": -3.0999999046325684
+   },
+   {
+    "date": "2026-08-26",
+    "leader": "YATHARTH",
+    "laggards": "APOLLOHOSP,MAXHEALTH,FORTIS,NH,MEDANTA,KIMS,RAINBOW,ASTERDM,JLHL,SHALBY,KRSNAA",
+    "f60": NaN
+   }
+  ],
+  "Shipbuilding": [
+   {
+    "date": "2022-04-08",
+    "leader": "MAZDOCK",
+    "laggards": "GRSE,COCHINSHIP",
+    "f60": 2.9000000953674316
+   },
+   {
+    "date": "2022-08-15",
+    "leader": "MAZDOCK",
+    "laggards": "GRSE,COCHINSHIP",
+    "f60": 81.80000305175781
+   },
+   {
+    "date": "2023-03-31",
+    "leader": "COCHINSHIP",
+    "laggards": "MAZDOCK,GRSE",
+    "f60": 25.799999237060547
+   },
+   {
+    "date": "2023-06-05",
+    "leader": "MAZDOCK",
+    "laggards": "GRSE,COCHINSHIP",
+    "f60": 54.5
+   },
+   {
+    "date": "2023-08-15",
+    "leader": "GRSE",
+    "laggards": "MAZDOCK,COCHINSHIP",
+    "f60": 16.600000381469727
+   },
+   {
+    "date": "2024-04-03",
+    "leader": "COCHINSHIP",
+    "laggards": "MAZDOCK,GRSE",
+    "f60": 120.5
+   },
+   {
+    "date": "2025-04-29",
+    "leader": "GRSE,COCHINSHIP",
+    "laggards": "MAZDOCK",
+    "f60": -15.899999618530273
+   },
+   {
+    "date": "2025-11-14",
+    "leader": "GRSE",
+    "laggards": "MAZDOCK,COCHINSHIP",
+    "f60": 0.10000000149011612
+   },
+   {
+    "date": "2026-04-29",
+    "leader": "GRSE,COCHINSHIP",
+    "laggards": "MAZDOCK,SWANDEF",
+    "f60": 3.5
+   }
+  ],
+  "Cables & Wires": [
+   {
+    "date": "2022-07-25",
+    "leader": "UNIVCABLES",
+    "laggards": "POLYCAB,KEI,FINCABLES",
+    "f60": 16.0
+   },
+   {
+    "date": "2022-10-13",
+    "leader": "UNIVCABLES",
+    "laggards": "POLYCAB,KEI,FINCABLES,PARACABLES",
+    "f60": 45.5
+   },
+   {
+    "date": "2022-12-14",
+    "leader": "POLYCAB",
+    "laggards": "KEI,FINCABLES,PARACABLES,UNIVCABLES",
+    "f60": 40.400001525878906
+   },
+   {
+    "date": "2023-02-15",
+    "leader": "FINCABLES",
+    "laggards": "POLYCAB,KEI,PARACABLES,UNIVCABLES",
+    "f60": 7.400000095367432
+   },
+   {
+    "date": "2023-04-26",
+    "leader": "KEI",
+    "laggards": "POLYCAB,FINCABLES,PARACABLES,UNIVCABLES",
+    "f60": -1.7000000476837158
+   },
+   {
+    "date": "2023-07-18",
+    "leader": "POLYCAB",
+    "laggards": "KEI,FINCABLES,PARACABLES,UNIVCABLES",
+    "f60": 14.399999618530273
+   },
+   {
+    "date": "2023-11-21",
+    "leader": "KEI",
+    "laggards": "POLYCAB,RRKABEL,FINCABLES,PARACABLES,UNIVCABLES",
+    "f60": -12.699999809265137
+   },
+   {
+    "date": "2024-03-13",
+    "leader": "DIACABS",
+    "laggards": "POLYCAB,KEI,RRKABEL,FINCABLES,PARACABLES,UNIVCABLES",
+    "f60": 23.799999237060547
+   },
+   {
+    "date": "2024-05-10",
+    "leader": "POLYCAB",
+    "laggards": "KEI,RRKABEL,FINCABLES,DIACABS,PARACABLES",
+    "f60": 12.399999618530273
+   },
+   {
+    "date": "2024-08-01",
+    "leader": "DIACABS",
+    "laggards": "POLYCAB,KEI,RRKABEL,FINCABLES,PARACABLES,UNIVCABLES",
+    "f60": -8.199999809265137
+   },
+   {
+    "date": "2024-10-02",
+    "leader": "POLYCAB",
+    "laggards": "KEI,RRKABEL,FINCABLES,DIACABS,PARACABLES,UNIVCABLES",
+    "f60": -12.199999809265137
+   },
+   {
+    "date": "2025-05-12",
+    "leader": "RRKABEL",
+    "laggards": "POLYCAB,KEI,FINCABLES,DIACABS,PARACABLES,UNIVCABLES",
+    "f60": 17.299999237060547
+   },
+   {
+    "date": "2025-07-11",
+    "leader": "DIACABS",
+    "laggards": "POLYCAB,KEI,RRKABEL,FINCABLES,PARACABLES,UNIVCABLES",
+    "f60": -2.700000047683716
+   },
+   {
+    "date": "2025-11-14",
+    "leader": "UNIVCABLES",
+    "laggards": "POLYCAB,KEI,RRKABEL,FINCABLES,DIACABS,PARACABLES",
+    "f60": 4.0
+   },
+   {
+    "date": "2026-02-10",
+    "leader": "FINCABLES",
+    "laggards": "POLYCAB,KEI,RRKABEL,DIACABS,PARACABLES,UNIVCABLES",
+    "f60": 19.899999618530273
+   },
+   {
+    "date": "2026-04-28",
+    "leader": "RRKABEL",
+    "laggards": "POLYCAB,KEI,FINCABLES,DIACABS,PARACABLES,UNIVCABLES",
+    "f60": 23.100000381469727
+   },
+   {
+    "date": "2026-07-24",
+    "leader": "DIACABS",
+    "laggards": "POLYCAB,KEI,RRKABEL,FINCABLES,PARACABLES,UNIVCABLES",
+    "f60": NaN
+   }
+  ]
+ }
+}
