@@ -4,7 +4,9 @@ Input: data/bhav.parquet, data/universe.csv, data/industry.csv, data/deals.csv
 Output: docs/data.json + docs/index.html, data/stages.csv (history), Telegram alert (sirf naye 🧲/🚀)
 """
 import os, json, datetime as dt
+import warnings
 import numpy as np, pandas as pd
+warnings.filterwarnings("ignore", category=RuntimeWarning)
 import pipeline as P
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
@@ -63,14 +65,15 @@ def stock_signals(g):
 
 
 def industry_stage(m):
-    rng, bo_ind, surge = m["range30"], m["ind_breakout"], m["turn_surge"]
-    if (bo_ind and surge >= 1.3) or (m["n_breakout"] >= 3 and m["pct_breakout"] >= 25):
+    rng, surge = m["range30"], m["turn_surge"]
+    not_down = (m["ret60"] if m["ret60"] is not None and not pd.isna(m["ret60"]) else 0) >= -5
+    if (m["ind_breakout"] and surge >= 1.3) or (m["n_breakout"] >= 3 and m["pct_breakout"] >= 25 and m["ret5"] > 0):
         return "breakout"
-    if rng <= BASE_RANGE_IND and m["ud"] >= 1.3 and m["deliv_ratio"] >= 1.1:
+    if rng <= BASE_RANGE_IND and m["ud"] >= 1.3 and m["deliv_ratio"] >= 1.1 and not_down:
         return "accum"
     if m["ret20"] >= 5 and m["pct_above50"] >= 50 and m["ud"] < 0.8 and m["near_hi"]:
         return "distrib"
-    if rng <= BASE_RANGE_IND and m["dry"] <= 0.9:
+    if rng <= BASE_RANGE_IND and m["dry"] <= 0.9 and not_down and m["near_top"]:
         return "base"
     if m["ret20"] >= 4 and m["pct_above50"] >= 55:
         return "running"
@@ -124,7 +127,8 @@ def main():
         rng = (idx.iloc[-BASE_DAYS:].max() / idx.iloc[-BASE_DAYS:].min() - 1) * 100
         m = {
             "name": name, "n": len(mem), "range30": rng,
-            "ind_breakout": bool((idx.iloc[-5:] > idx.iloc[-BASE_DAYS - 6:-5].max()).any()),
+            "ind_breakout": bool(idx.iloc[-1] > idx.iloc[-BASE_DAYS - 6:-5].max() and idx.iloc[-1] >= idx.iloc[-6]),
+            "near_top": bool(idx.iloc[-1] >= 0.95 * idx.iloc[-BASE_DAYS:].max()),
             "turn_surge": tt.iloc[-5:].mean() / tt.iloc[-50:].mean() if tt.iloc[-50:].mean() else 1,
             "dry": tt.iloc[-10:].mean() / tt.iloc[-50:].mean() if tt.iloc[-50:].mean() else 1,
             "near_hi": bool(idx.iloc[-1] >= 0.95 * idx.iloc[-60:].max()),
