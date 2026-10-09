@@ -80,25 +80,8 @@ def industry_stage(m):
     return "quiet"
 
 
-def main():
-    h = pd.read_parquet(os.path.join(ROOT, "data", "bhav.parquet"))
-    u = pd.read_csv(os.path.join(ROOT, "data", "universe.csv"))
-    ind = pd.read_csv(os.path.join(ROOT, "data", "industry.csv"))
-    deals_p = os.path.join(ROOT, "data", "deals.csv")
-    deals = pd.read_csv(deals_p) if os.path.exists(deals_p) else pd.DataFrame()
-    ok = set(u[u["ok"]]["symbol"])
-    h = P.adjust_prices(h[h["symbol"].isin(ok)])
-    last = h["date"].max()
-    imap = ind.set_index("symbol")["industry"].to_dict()
-
-    # bulk/block buys last ~20 din
-    buys = {}
-    if len(deals):
-        dd = deals.copy()
-        dd["d"] = pd.to_datetime(dd["Date"], format="%d-%b-%Y", errors="coerce")
-        dd = dd[(dd["d"] >= last - pd.Timedelta(days=30)) & (dd["Buy/Sell"].astype(str).str.upper() == "BUY")]
-        buys = dd.groupby("Symbol").size().to_dict()
-
+def compute(h, imap, buys):
+    """h = adjusted bhav (cutoff tak). Industries ki list (stage ke saath) return."""
     sig = {}
     for s, g in h.groupby("symbol"):
         x = stock_signals(g.sort_values("date"))
@@ -159,6 +142,29 @@ def main():
         inds.append(m)
 
     inds.sort(key=lambda m: (ORDER.index(m["stage"]), -(m["score"] or 0)))
+    return inds
+
+
+def main():
+    h = pd.read_parquet(os.path.join(ROOT, "data", "bhav.parquet"))
+    u = pd.read_csv(os.path.join(ROOT, "data", "universe.csv"))
+    ind = pd.read_csv(os.path.join(ROOT, "data", "industry.csv"))
+    deals_p = os.path.join(ROOT, "data", "deals.csv")
+    deals = pd.read_csv(deals_p) if os.path.exists(deals_p) else pd.DataFrame()
+    ok = set(u[u["ok"]]["symbol"])
+    h = P.adjust_prices(h[h["symbol"].isin(ok)])
+    last = h["date"].max()
+    imap = ind.set_index("symbol")["industry"].to_dict()
+
+    # bulk/block buys last ~20 din
+    buys = {}
+    if len(deals):
+        dd = deals.copy()
+        dd["d"] = pd.to_datetime(dd["Date"], format="%d-%b-%Y", errors="coerce")
+        dd = dd[(dd["d"] >= last - pd.Timedelta(days=30)) & (dd["Buy/Sell"].astype(str).str.upper() == "BUY")]
+        buys = dd.groupby("Symbol").size().to_dict()
+
+    inds = compute(h, imap, buys)
 
     # stage history → naye 🧲/🚀
     hist_p = os.path.join(ROOT, "data", "stages.csv")
@@ -174,7 +180,7 @@ def main():
 
     data = {"asof": last.strftime("%d %b %Y"),
             "generated": dt.datetime.now(dt.timezone(dt.timedelta(hours=5, minutes=30))).strftime("%d %b %Y, %I:%M %p IST"),
-            "universe": int(len(ok)), "with_industry": int(len(S)), "industries": inds,
+            "universe": int(len(ok)), "with_industry": int(sum(m["n"] for m in inds)), "industries": inds,
             "stages": STAGES, "order": ORDER, "first_run": len(prev_map) == 0}
     os.makedirs(OUT, exist_ok=True)
     json.dump(data, open(os.path.join(OUT, "data.json"), "w"), separators=(",", ":"))

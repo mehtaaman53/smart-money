@@ -1,0 +1,476 @@
+{
+ "from": "2026-02-20",
+ "to": "2026-10-02",
+ "cuts": 33,
+ "summary": {
+  "accum": {
+   "signals": 60,
+   "before20": {
+    "n": 60,
+    "avg": 1.32,
+    "median": 1.41,
+    "win": 62.0
+   },
+   "after20": {
+    "n": 55,
+    "avg": 0.91,
+    "median": 1.3,
+    "win": 56.0
+   },
+   "after60": {
+    "n": 28,
+    "avg": 1.13,
+    "median": -0.71,
+    "win": 43.0
+   }
+  },
+  "base": {
+   "signals": 215,
+   "before20": {
+    "n": 215,
+    "avg": -0.23,
+    "median": -0.43,
+    "win": 45.0
+   },
+   "after20": {
+    "n": 178,
+    "avg": -0.29,
+    "median": -0.48,
+    "win": 46.0
+   },
+   "after60": {
+    "n": 89,
+    "avg": -1.15,
+    "median": -2.16,
+    "win": 39.0
+   }
+  },
+  "breakout": {
+   "signals": 183,
+   "before20": {
+    "n": 183,
+    "avg": 4.41,
+    "median": 3.65,
+    "win": 83.0
+   },
+   "after20": {
+    "n": 176,
+    "avg": 0.15,
+    "median": 0.27,
+    "win": 53.0
+   },
+   "after60": {
+    "n": 133,
+    "avg": 0.79,
+    "median": 0.24,
+    "win": 53.0
+   }
+  }
+ },
+ "best": [
+  {
+   "date": "2026-07-10",
+   "industry": "Oil & Gas E&P",
+   "stage": "base",
+   "before20": -2.31,
+   "after20": 3.62,
+   "after60": 29.19
+  },
+  {
+   "date": "2026-04-17",
+   "industry": "Communication Equipment",
+   "stage": "breakout",
+   "before20": 5.4,
+   "after20": 11.55,
+   "after60": 28.98
+  },
+  {
+   "date": "2026-05-08",
+   "industry": "Electronics & Computer Distribution",
+   "stage": "breakout",
+   "before20": 7.41,
+   "after20": 0.64,
+   "after60": 27.97
+  },
+  {
+   "date": "2026-03-20",
+   "industry": "Computer Hardware",
+   "stage": "accum",
+   "before20": 10.13,
+   "after20": 1.3,
+   "after60": 27.44
+  },
+  {
+   "date": "2026-06-05",
+   "industry": "Electronics & Computer Distribution",
+   "stage": "breakout",
+   "before20": 0.64,
+   "after20": 10.05,
+   "after60": 27.37
+  },
+  {
+   "date": "2026-05-29",
+   "industry": "Electronics & Computer Distribution",
+   "stage": "base",
+   "before20": 6.11,
+   "after20": 8.23,
+   "after60": 26.74
+  },
+  {
+   "date": "2026-06-12",
+   "industry": "Internet Content & Information",
+   "stage": "base",
+   "before20": -2.95,
+   "after20": 7.97,
+   "after60": 26.59
+  },
+  {
+   "date": "2026-02-27",
+   "industry": "Computer Hardware",
+   "stage": "breakout",
+   "before20": 10.36,
+   "after20": 3.01,
+   "after60": 25.56
+  },
+  {
+   "date": "2026-03-13",
+   "industry": "Oil & Gas E&P",
+   "stage": "accum",
+   "before20": 9.33,
+   "after20": 11.94,
+   "after60": 24.59
+  },
+  {
+   "date": "2026-07-03",
+   "industry": "Luxury Goods",
+   "stage": "base",
+   "before20": 1.57,
+   "after20": 8.46,
+   "after60": 22.35
+  },
+  {
+   "date": "2026-05-15",
+   "industry": "Auto & Truck Dealerships",
+   "stage": "accum",
+   "before20": -4.27,
+   "after20": 4.31,
+   "after60": 21.83
+  },
+  {
+   "date": "2026-07-10",
+   "industry": "Luxury Goods",
+   "stage": "breakout",
+   "before20": 5.66,
+   "after20": 4.86,
+   "after60": 20.9
+  },
+  {
+   "date": "2026-05-15",
+   "industry": "Oil & Gas Refining & Marketing",
+   "stage": "base",
+   "before20": -2.63,
+   "after20": 9.74,
+   "after60": 20.69
+  },
+  {
+   "date": "2026-04-10",
+   "industry": "Electronics & Computer Distribution",
+   "stage": "breakout",
+   "before20": 7.18,
+   "after20": 7.41,
+   "after60": 20.11
+  },
+  {
+   "date": "2026-06-12",
+   "industry": "Electronics & Computer Distribution",
+   "stage": "accum",
+   "before20": -3.06,
+   "after20": 13.65,
+   "after60": 19.47
+  }
+ ],
+ "worst": [
+  {
+   "date": "2026-06-19",
+   "industry": "Tobacco",
+   "stage": "base",
+   "before20": -8.85,
+   "after20": -15.96,
+   "after60": -38.54
+  },
+  {
+   "date": "2026-06-12",
+   "industry": "Business Equipment & Supplies",
+   "stage": "breakout",
+   "before20": 5.95,
+   "after20": -16.19,
+   "after60": -23.92
+  },
+  {
+   "date": "2026-06-05",
+   "industry": "Business Equipment & Supplies",
+   "stage": "base",
+   "before20": 1.45,
+   "after20": -7.01,
+   "after60": -21.88
+  },
+  {
+   "date": "2026-04-10",
+   "industry": "Tobacco",
+   "stage": "base",
+   "before20": -0.61,
+   "after20": -6.04,
+   "after60": -21.2
+  },
+  {
+   "date": "2026-06-12",
+   "industry": "Utilities - Independent Power Producers",
+   "stage": "base",
+   "before20": 2.12,
+   "after20": -7.49,
+   "after60": -20.03
+  },
+  {
+   "date": "2026-07-10",
+   "industry": "Mortgage Finance",
+   "stage": "accum",
+   "before20": 1.23,
+   "after20": -7.3,
+   "after60": -19.23
+  },
+  {
+   "date": "2026-05-29",
+   "industry": "Utilities - Independent Power Producers",
+   "stage": "breakout",
+   "before20": -0.25,
+   "after20": -6.99,
+   "after60": -19.16
+  },
+  {
+   "date": "2026-05-29",
+   "industry": "Broadcasting",
+   "stage": "breakout",
+   "before20": 6.83,
+   "after20": -7.01,
+   "after60": -18.9
+  },
+  {
+   "date": "2026-06-19",
+   "industry": "Resorts & Casinos",
+   "stage": "accum",
+   "before20": 1.34,
+   "after20": -2.12,
+   "after60": -17.9
+  },
+  {
+   "date": "2026-06-26",
+   "industry": "Mortgage Finance",
+   "stage": "breakout",
+   "before20": 2.47,
+   "after20": -3.56,
+   "after60": -17.61
+  }
+ ],
+ "recent": [
+  {
+   "date": "2026-10-02",
+   "industry": "Capital Markets (Brokers/AMC)",
+   "stage": "base",
+   "before20": 2.89,
+   "after20": NaN,
+   "after60": NaN
+  },
+  {
+   "date": "2026-10-02",
+   "industry": "Commodity Chemicals",
+   "stage": "base",
+   "before20": 3.3,
+   "after20": NaN,
+   "after60": NaN
+  },
+  {
+   "date": "2026-10-02",
+   "industry": "Drug Manufacturers - General",
+   "stage": "base",
+   "before20": 3.46,
+   "after20": NaN,
+   "after60": NaN
+  },
+  {
+   "date": "2026-10-02",
+   "industry": "Luxury Goods",
+   "stage": "base",
+   "before20": 7.19,
+   "after20": NaN,
+   "after60": NaN
+  },
+  {
+   "date": "2026-10-02",
+   "industry": "Medical Instruments & Supplies",
+   "stage": "base",
+   "before20": 5.16,
+   "after20": NaN,
+   "after60": NaN
+  },
+  {
+   "date": "2026-10-02",
+   "industry": "Tools & Accessories",
+   "stage": "base",
+   "before20": 3.84,
+   "after20": NaN,
+   "after60": NaN
+  },
+  {
+   "date": "2026-09-25",
+   "industry": "Biotechnology",
+   "stage": "breakout",
+   "before20": 3.6,
+   "after20": NaN,
+   "after60": NaN
+  },
+  {
+   "date": "2026-09-25",
+   "industry": "Conglomerates",
+   "stage": "base",
+   "before20": -2.87,
+   "after20": NaN,
+   "after60": NaN
+  },
+  {
+   "date": "2026-09-25",
+   "industry": "Defence & Aerospace",
+   "stage": "base",
+   "before20": 0.93,
+   "after20": NaN,
+   "after60": NaN
+  },
+  {
+   "date": "2026-09-25",
+   "industry": "Diagnostics & Research",
+   "stage": "base",
+   "before20": -0.04,
+   "after20": NaN,
+   "after60": NaN
+  },
+  {
+   "date": "2026-09-25",
+   "industry": "Electrical Equipment",
+   "stage": "base",
+   "before20": 0.26,
+   "after20": NaN,
+   "after60": NaN
+  },
+  {
+   "date": "2026-09-25",
+   "industry": "Farm Products",
+   "stage": "base",
+   "before20": 1.7,
+   "after20": NaN,
+   "after60": NaN
+  },
+  {
+   "date": "2026-09-25",
+   "industry": "Integrated Freight & Logistics",
+   "stage": "base",
+   "before20": -3.46,
+   "after20": NaN,
+   "after60": NaN
+  },
+  {
+   "date": "2026-09-25",
+   "industry": "Lodging",
+   "stage": "base",
+   "before20": 2.43,
+   "after20": NaN,
+   "after60": NaN
+  },
+  {
+   "date": "2026-09-25",
+   "industry": "Rental & Leasing Services",
+   "stage": "accum",
+   "before20": 7.03,
+   "after20": NaN,
+   "after60": NaN
+  },
+  {
+   "date": "2026-09-25",
+   "industry": "Resorts & Casinos",
+   "stage": "breakout",
+   "before20": 7.13,
+   "after20": NaN,
+   "after60": NaN
+  },
+  {
+   "date": "2026-09-25",
+   "industry": "Textiles",
+   "stage": "base",
+   "before20": 2.68,
+   "after20": NaN,
+   "after60": NaN
+  },
+  {
+   "date": "2026-09-25",
+   "industry": "Waste Management",
+   "stage": "breakout",
+   "before20": 8.09,
+   "after20": NaN,
+   "after60": NaN
+  },
+  {
+   "date": "2026-09-18",
+   "industry": "Advertising Agencies",
+   "stage": "base",
+   "before20": -0.19,
+   "after20": NaN,
+   "after60": NaN
+  },
+  {
+   "date": "2026-09-18",
+   "industry": "Airports & Air Services",
+   "stage": "base",
+   "before20": 8.23,
+   "after20": NaN,
+   "after60": NaN
+  },
+  {
+   "date": "2026-09-18",
+   "industry": "Auto Ancillary",
+   "stage": "base",
+   "before20": 0.51,
+   "after20": NaN,
+   "after60": NaN
+  },
+  {
+   "date": "2026-09-18",
+   "industry": "Auto Manufacturers",
+   "stage": "base",
+   "before20": -1.7,
+   "after20": NaN,
+   "after60": NaN
+  },
+  {
+   "date": "2026-09-18",
+   "industry": "Building Products & Equipment",
+   "stage": "base",
+   "before20": -0.85,
+   "after20": NaN,
+   "after60": NaN
+  },
+  {
+   "date": "2026-09-18",
+   "industry": "Communication Equipment",
+   "stage": "base",
+   "before20": 5.0,
+   "after20": NaN,
+   "after60": NaN
+  },
+  {
+   "date": "2026-09-18",
+   "industry": "Electronic Components",
+   "stage": "accum",
+   "before20": 4.88,
+   "after20": NaN,
+   "after60": NaN
+  }
+ ]
+}

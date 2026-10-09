@@ -25,6 +25,7 @@ svg.sp{width:100%;height:44px;display:block;margin-top:6px}
 .card.open .det{display:block}
 table{width:100%;border-collapse:collapse;font-size:12px}th,td{padding:4px 5px;border-bottom:1px solid var(--line);text-align:right;white-space:nowrap}th:first-child,td:first-child{text-align:left}th{color:var(--mut);font-weight:600;position:sticky;top:0;background:var(--card)}
 .tag{display:inline-block;border-radius:4px;padding:0 4px;font-size:10.5px;margin-left:2px;color:#fff}
+.tvb{margin-top:8px;border:1px solid var(--line);background:var(--soft);color:var(--fg);border-radius:8px;padding:4px 10px;font-size:12px;cursor:pointer}
 .help{font-size:12.5px;color:var(--mut);background:var(--card);border:1px solid var(--line);border-radius:12px;padding:10px 12px;margin-top:16px}
 </style>
 </head>
@@ -44,9 +45,12 @@ const $=id=>document.getElementById(id), esc=x=>String(x??"").replace(/[&<>"]/g,
 const f=(x,s="")=>x==null?"–":x+s, pc=x=>x==null?"–":`<span class="${x>=0?"pos":"neg"}">${x>=0?"+":""}${x}%</span>`;
 $("asof").textContent=`Data till ${D.asof} · updated ${D.generated} · ${D.universe} stocks scan (${D.with_industry} with industry) · ${D.industries.length} industries`;
 let show=new Set(["breakout","accum","base"]),q="";
-function bar(){$("bar").innerHTML=D.order.map(k=>{const n=D.industries.filter(m=>m.stage===k).length;return `<span class="chip ${show.has(k)?"on":""}" data-k="${k}">${D.stages[k]} (${n})</span>`}).join("")+`<input type="search" id="q" placeholder="Industry ya stock dhundo…" value="${esc(q)}">`;
+function bar(){$("bar").innerHTML=D.order.map(k=>{const n=D.industries.filter(m=>m.stage===k).length;return `<span class="chip ${show.has(k)?"on":""}" data-k="${k}">${D.stages[k]} (${n})</span>`}).join("")+`<button class="chip" id="dlall">⬇ TradingView: sab (🚀🧲🏗️)</button><input type="search" id="q" placeholder="Industry ya stock dhundo…" value="${esc(q)}">`;
  document.querySelectorAll(".chip").forEach(c=>c.onclick=()=>{const k=c.dataset.k;show.has(k)?show.delete(k):show.add(k);bar();render()});
- $("q").oninput=e=>{q=e.target.value.toLowerCase();render()}}
+ $("q").oninput=e=>{q=e.target.value.toLowerCase();render()};
+ $("dlall").onclick=()=>{const L=D.industries.filter(m=>["breakout","accum","base"].includes(m.stage));
+  dl(`smart_money_${D.asof.replace(/ /g,"_")}.txt`,L.map(m=>`###${D.stages[m.stage].replace(/[^A-Za-z]/g,"")} - ${m.name},`+m.stocks.map(s=>"NSE:"+s.s).join(",")).join(","))}}
+function dl(name,txt){const a=document.createElement("a");a.href=URL.createObjectURL(new Blob([txt],{type:"text/plain"}));a.download=name;document.body.appendChild(a);a.click();a.remove()}
 function spark(v,col){if(!v||v.length<2)return"";const mn=Math.min(...v),mx=Math.max(...v),W=300,H=44,X=i=>i*W/(v.length-1),Y=x=>H-3-(x-mn)/(mx-mn||1)*(H-6);
  const b=Math.max(0,v.length-30);return `<svg class="sp" viewBox="0 0 ${W} ${H}" preserveAspectRatio="none"><rect x="${X(b)}" y="0" width="${W-X(b)}" height="${H}" fill="var(--soft)"/><path d="${v.map((x,i)=>(i?"L":"M")+X(i).toFixed(1)+","+Y(x).toFixed(1)).join("")}" fill="none" stroke="${col}" stroke-width="1.6" vector-effect="non-scaling-stroke"/></svg>`}
 function card(m){const col=COL[m.stage];
@@ -56,6 +60,7 @@ function card(m){const col=COL[m.stage];
  ${spark(m.spark,col)}
  <div class="m"><span>Delivery <b>${f(m.deliv_per,"%")}</b></span><span>Del↑ <b>${f(m.deliv_ratio,"x")}</b></span><span>Vol <b>${f(m.turn_surge,"x")}</b></span><span>U/D <b>${f(m.ud)}</b></span><span>Range(6w) <b>${f(m.range30,"%")}</b></span></div>
  <div class="m"><span>BO <b>${m.n_breakout}</b></span><span>52H <b>${m.n_new52}</b></span><span>Base <b>${m.n_base}</b></span><span>&gt;50DMA <b>${f(m.pct_above50,"%")}</b></span><span>Bulk <b>${m.bulk_buys}</b></span></div>
+ <button class="tvb" data-n="${esc(m.name)}">⬇ TradingView list</button>
  <div class="lead">Lead: ${m.stocks.slice(0,4).map(s=>`<b>${esc(s.s)}</b>${tags(s)}`).join(" · ")}</div>
  <div class="det"><table><tr><th>Stock</th><th>Price</th><th>1M</th><th>Deliv</th><th>Del↑</th><th>Vol</th><th></th></tr>
  ${m.stocks.map(s=>`<tr><td>${esc(s.s)}</td><td>${f(s.c)}</td><td>${pc(s.r20)}</td><td>${f(s.dp,"%")}</td><td>${f(s.dr,"x")}</td><td>${f(s.vr,"x")}</td><td>${tags(s)}</td></tr>`).join("")}</table></div></div>`}
@@ -64,6 +69,8 @@ function render(){let h="";
   if(q)L=L.filter(m=>m.name.toLowerCase().includes(q)||m.stocks.some(s=>s.s.toLowerCase().includes(q)));
   if(!L.length)return;h+=`<div class="sec">${D.stages[k]} <small>(${L.length})</small></div><div class="grid">${L.map(card).join("")}</div>`});
  $("out").innerHTML=h||`<div class="sub" style="margin-top:20px">Kuch nahi mila. Upar se stage chuno.</div>`;
- document.querySelectorAll(".card").forEach(c=>c.onclick=e=>{if(e.target.closest("table"))return;c.classList.toggle("open")})}
+ document.querySelectorAll(".card").forEach(c=>c.onclick=e=>{if(e.target.closest("table"))return;c.classList.toggle("open")});
+ document.querySelectorAll(".tvb").forEach(b=>b.onclick=e=>{e.stopPropagation();const m=D.industries.find(x=>x.name===b.dataset.n);
+  dl(m.name.replace(/[^A-Za-z0-9]+/g,"_")+".txt",m.stocks.map(s=>"NSE:"+s.s).join(","))})}
 bar();render();
 </script></body></html>
