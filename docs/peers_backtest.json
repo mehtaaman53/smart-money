@@ -1,0 +1,117 @@
+{
+ "groups": 177,
+ "triggers": 1070,
+ "laggards_all": {
+  "f20": {
+   "n": 2116,
+   "avg": 0.5,
+   "median": -1.0,
+   "win%": 45,
+   "big>20%": 4
+  },
+  "f60": {
+   "n": 1990,
+   "avg": 0.6,
+   "median": -2.4,
+   "win%": 43,
+   "big>20%": 12
+  },
+  "f120": {
+   "n": 1800,
+   "avg": 0.2,
+   "median": -4.0,
+   "win%": 42,
+   "big>20%": 18
+  }
+ },
+ "laggards_in_base": {
+  "f20": {
+   "n": 1378,
+   "avg": 0.5,
+   "median": -0.7,
+   "win%": 47,
+   "big>20%": 3
+  },
+  "f60": {
+   "n": 1271,
+   "avg": 0.3,
+   "median": -1.7,
+   "win%": 44,
+   "big>20%": 10
+  },
+  "f120": {
+   "n": 1164,
+   "avg": 0.2,
+   "median": -3.0,
+   "win%": 44,
+   "big>20%": 16
+  }
+ },
+ "leaders_f60": {
+  "n": 990,
+  "avg": 0.4,
+  "median": -2.9,
+  "win%": 45,
+  "big>20%": 15
+ },
+ "baseline_f60": {
+  "n": 200000,
+  "avg": -0.4,
+  "median": -3.0,
+  "win%": 42,
+  "big>20%": 12
+ },
+ "by_size_f60": {
+  "2-4": {
+   "n": 1029,
+   "avg": 2.4,
+   "median": -2.6,
+   "win%": 43,
+   "big>20%": 16
+  },
+  "5-10": {
+   "n": 412,
+   "avg": -1.8,
+   "median": -3.2,
+   "win%": 40,
+   "big>20%": 6
+  },
+  "11-99": {
+   "n": 549,
+   "avg": -0.8,
+   "median": -1.4,
+   "win%": 46,
+   "big>20%": 9
+  }
+ },
+ "examples": [
+  {
+   "stock": "FINEORG",
+   "group": "Specialty Chemicals #14",
+   "members": [
+    "FINEORG",
+    "GALAXYSURF"
+   ]
+  },
+  {
+   "stock": "KRBL",
+   "group": "Packaged Foods #4",
+   "members": [
+    "CLSEL",
+    "KRBL"
+   ]
+  },
+  {
+   "stock": "LTFOODS",
+   "group": null
+  },
+  {
+   "stock": "AZAD",
+   "group": null
+  },
+  {
+   "stock": "MTARTECH",
+   "group": null
+  }
+ ]
+}
