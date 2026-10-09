@@ -78,7 +78,8 @@ def adjust_prices(h):
     h["_cum"] = h.iloc[::-1].groupby("symbol")["_f"].cumprod().iloc[::-1]
     h["_cum"] = h.groupby("symbol")["_cum"].shift(-1).fillna(1.0)
     for c in ["open", "high", "low", "close", "prev_close"]:
-        h[c] = h[c] * h["_cum"]
+        if c in h:
+            h[c] = h[c] * h["_cum"]
     h["volume_adj"] = h["volume"] / h["_cum"]
     return h.drop(columns=["_f", "_cum"])
 

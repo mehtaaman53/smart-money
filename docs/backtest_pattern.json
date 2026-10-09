@@ -1,0 +1,495 @@
+{
+ "from": "2021-10-11",
+ "to": "2026-10-08",
+ "runs": {
+  "W40_R35": {
+   "signals": 12003,
+   "before20": {
+    "n": 11998,
+    "avg": 2.5,
+    "median": 2.0,
+    "win%": 60,
+    "big_win%(>20%)": 2
+   },
+   "after20": {
+    "n": 11778,
+    "avg": 0.0,
+    "median": -1.4,
+    "win%": 43,
+    "big_win%(>20%)": 5
+   },
+   "after60": {
+    "n": 11181,
+    "avg": 0.0,
+    "median": -3.0,
+    "win%": 43,
+    "big_win%(>20%)": 13
+   },
+   "after120": {
+    "n": 10380,
+    "avg": 0.1,
+    "median": -5.1,
+    "win%": 41,
+    "big_win%(>20%)": 19
+   },
+   "after60_gira_hua": {
+    "n": 5586,
+    "avg": -0.8,
+    "median": -4.1,
+    "win%": 40,
+    "big_win%(>20%)": 12
+   },
+   "after60_bina_gire": {
+    "n": 5595,
+    "avg": 0.8,
+    "median": -1.6,
+    "win%": 46,
+    "big_win%(>20%)": 14
+   }
+  },
+  "W40_R50": {
+   "signals": 14804,
+   "before20": {
+    "n": 14800,
+    "avg": 5.2,
+    "median": 4.2,
+    "win%": 68,
+    "big_win%(>20%)": 8
+   },
+   "after20": {
+    "n": 14560,
+    "avg": 0.1,
+    "median": -1.4,
+    "win%": 43,
+    "big_win%(>20%)": 6
+   },
+   "after60": {
+    "n": 13860,
+    "avg": 0.0,
+    "median": -3.3,
+    "win%": 42,
+    "big_win%(>20%)": 14
+   },
+   "after120": {
+    "n": 12770,
+    "avg": 0.2,
+    "median": -5.5,
+    "win%": 41,
+    "big_win%(>20%)": 20
+   },
+   "after60_gira_hua": {
+    "n": 7541,
+    "avg": -0.7,
+    "median": -4.4,
+    "win%": 40,
+    "big_win%(>20%)": 13
+   },
+   "after60_bina_gire": {
+    "n": 6319,
+    "avg": 0.9,
+    "median": -1.9,
+    "win%": 45,
+    "big_win%(>20%)": 14
+   }
+  },
+  "W60_R35": {
+   "signals": 6094,
+   "before20": {
+    "n": 6091,
+    "avg": 0.9,
+    "median": 0.3,
+    "win%": 52,
+    "big_win%(>20%)": 1
+   },
+   "after20": {
+    "n": 5983,
+    "avg": -0.1,
+    "median": -1.1,
+    "win%": 44,
+    "big_win%(>20%)": 4
+   },
+   "after60": {
+    "n": 5694,
+    "avg": -0.1,
+    "median": -2.8,
+    "win%": 42,
+    "big_win%(>20%)": 12
+   },
+   "after120": {
+    "n": 5214,
+    "avg": 0.0,
+    "median": -4.5,
+    "win%": 41,
+    "big_win%(>20%)": 18
+   },
+   "after60_gira_hua": {
+    "n": 2759,
+    "avg": -0.6,
+    "median": -3.8,
+    "win%": 39,
+    "big_win%(>20%)": 11
+   },
+   "after60_bina_gire": {
+    "n": 2935,
+    "avg": 0.3,
+    "median": -1.9,
+    "win%": 44,
+    "big_win%(>20%)": 12
+   }
+  },
+  "W60_R50": {
+   "signals": 9099,
+   "before20": {
+    "n": 9095,
+    "avg": 2.7,
+    "median": 1.7,
+    "win%": 58,
+    "big_win%(>20%)": 5
+   },
+   "after20": {
+    "n": 8937,
+    "avg": 0.0,
+    "median": -1.4,
+    "win%": 43,
+    "big_win%(>20%)": 5
+   },
+   "after60": {
+    "n": 8505,
+    "avg": -0.1,
+    "median": -3.1,
+    "win%": 42,
+    "big_win%(>20%)": 13
+   },
+   "after120": {
+    "n": 7724,
+    "avg": 0.2,
+    "median": -5.3,
+    "win%": 41,
+    "big_win%(>20%)": 19
+   },
+   "after60_gira_hua": {
+    "n": 4720,
+    "avg": -0.2,
+    "median": -3.9,
+    "win%": 40,
+    "big_win%(>20%)": 13
+   },
+   "after60_bina_gire": {
+    "n": 3785,
+    "avg": 0.1,
+    "median": -2.2,
+    "win%": 43,
+    "big_win%(>20%)": 13
+   }
+  }
+ },
+ "industry": {
+  "before20": {
+   "n": 122,
+   "avg": 0.3,
+   "median": -0.4,
+   "win%": 44,
+   "big_win%(>20%)": 0
+  },
+  "after20": {
+   "n": 121,
+   "avg": 0.2,
+   "median": -0.5,
+   "win%": 48,
+   "big_win%(>20%)": 1
+  },
+  "after60": {
+   "n": 116,
+   "avg": 0.2,
+   "median": -0.7,
+   "win%": 46,
+   "big_win%(>20%)": 2
+  },
+  "after120": {
+   "n": 108,
+   "avg": 0.2,
+   "median": -2.2,
+   "win%": 44,
+   "big_win%(>20%)": 8
+  },
+  "signals": 122
+ },
+ "industry_examples": [
+  {
+   "industry": "Diagnostics & Research",
+   "date": "2023-06-20",
+   "before20": 0.0,
+   "after20": 2.7,
+   "after60": -2.8,
+   "after120": -4.1
+  },
+  {
+   "industry": "Diagnostics & Research",
+   "date": "2023-08-24",
+   "before20": -2.7,
+   "after20": -1.4,
+   "after60": -2.8,
+   "after120": -16.0
+  },
+  {
+   "industry": "Diagnostics & Research",
+   "date": "2026-07-28",
+   "before20": 1.7,
+   "after20": 4.3,
+   "after60": NaN,
+   "after120": NaN
+  },
+  {
+   "industry": "Drug Manufacturers - General",
+   "date": "2023-07-13",
+   "before20": 1.8,
+   "after20": 1.0,
+   "after60": -6.0,
+   "after120": -4.9
+  },
+  {
+   "industry": "Drug Manufacturers - General",
+   "date": "2026-05-12",
+   "before20": -2.4,
+   "after20": 7.4,
+   "after60": 14.0,
+   "after120": NaN
+  },
+  {
+   "industry": "Drug Manufacturers - General",
+   "date": "2026-07-28",
+   "before20": 2.6,
+   "after20": -0.9,
+   "after60": NaN,
+   "after120": NaN
+  },
+  {
+   "industry": "Medical Care Facilities",
+   "date": "2022-09-30",
+   "before20": 3.8,
+   "after20": 3.2,
+   "after60": 10.9,
+   "after120": 13.7
+  },
+  {
+   "industry": "Medical Care Facilities",
+   "date": "2023-06-21",
+   "before20": 4.6,
+   "after20": 4.4,
+   "after60": -0.5,
+   "after120": 2.3
+  },
+  {
+   "industry": "Medical Care Facilities",
+   "date": "2024-08-28",
+   "before20": 3.7,
+   "after20": 2.8,
+   "after60": 13.4,
+   "after120": 17.4
+  },
+  {
+   "industry": "Medical Care Facilities",
+   "date": "2025-05-29",
+   "before20": -7.5,
+   "after20": 0.7,
+   "after60": 13.0,
+   "after120": 13.7
+  },
+  {
+   "industry": "Medical Care Facilities",
+   "date": "2025-08-04",
+   "before20": 5.1,
+   "after20": 2.3,
+   "after60": 5.9,
+   "after120": -0.8
+  },
+  {
+   "industry": "Medical Care Facilities",
+   "date": "2025-09-16",
+   "before20": -2.0,
+   "after20": 4.4,
+   "after60": 0.9,
+   "after120": 3.8
+  },
+  {
+   "industry": "Medical Care Facilities",
+   "date": "2025-11-24",
+   "before20": 0.0,
+   "after20": -3.8,
+   "after60": -3.5,
+   "after120": 3.5
+  },
+  {
+   "industry": "Pharma (Generic)",
+   "date": "2023-07-26",
+   "before20": -0.1,
+   "after20": 2.6,
+   "after60": -3.3,
+   "after120": 3.2
+  }
+ ],
+ "stock_examples": {
+  "KRBL": [
+   {
+    "date": "2023-06-20",
+    "after20": -2.2,
+    "after60": 8.1,
+    "close": 350.4
+   },
+   {
+    "date": "2023-08-11",
+    "after20": 2.8,
+    "after60": -10.8,
+    "close": 404.2
+   },
+   {
+    "date": "2023-10-10",
+    "after20": 2.4,
+    "after60": -15.1,
+    "close": 385.1
+   },
+   {
+    "date": "2024-08-30",
+    "after20": -2.9,
+    "after60": 3.5,
+    "close": 331.2
+   },
+   {
+    "date": "2025-08-04",
+    "after20": 19.8,
+    "after60": -2.7,
+    "close": 411.1
+   }
+  ],
+  "PINELABS": [
+   {
+    "date": "2026-08-06",
+    "after20": 0.3,
+    "after60": null,
+    "close": 133.7
+   }
+  ]
+ },
+ "industry_best": [
+  {
+   "industry": "Paper & Paper Products",
+   "date": "2022-03-09",
+   "before20": 0.2,
+   "after20": 25.7,
+   "after60": 28.6,
+   "after120": 61.6
+  },
+  {
+   "industry": "Utilities - Independent Power Producers",
+   "date": "2023-08-24",
+   "before20": 14.5,
+   "after20": 15.1,
+   "after60": 28.3,
+   "after120": 64.5
+  },
+  {
+   "industry": "Marine Shipping",
+   "date": "2025-08-07",
+   "before20": 0.3,
+   "after20": 0.3,
+   "after60": 18.3,
+   "after120": 27.2
+  },
+  {
+   "industry": "Marine Shipping",
+   "date": "2023-10-19",
+   "before20": 1.2,
+   "after20": -0.9,
+   "after60": 16.6,
+   "after120": 29.3
+  },
+  {
+   "industry": "Financial Data & Stock Exchanges",
+   "date": "2023-07-17",
+   "before20": 5.4,
+   "after20": 2.2,
+   "after60": 14.8,
+   "after120": 27.5
+  },
+  {
+   "industry": "Drug Manufacturers - General",
+   "date": "2026-05-12",
+   "before20": -2.4,
+   "after20": 7.4,
+   "after60": 14.0,
+   "after120": NaN
+  },
+  {
+   "industry": "Medical Care Facilities",
+   "date": "2024-08-28",
+   "before20": 3.7,
+   "after20": 2.8,
+   "after60": 13.4,
+   "after120": 17.4
+  },
+  {
+   "industry": "Marine Shipping",
+   "date": "2025-12-04",
+   "before20": 6.2,
+   "after20": 3.6,
+   "after60": 13.4,
+   "after120": 21.0
+  },
+  {
+   "industry": "Telecom Services",
+   "date": "2023-07-19",
+   "before20": -1.0,
+   "after20": 1.7,
+   "after60": 13.2,
+   "after120": 13.8
+  },
+  {
+   "industry": "Medical Care Facilities",
+   "date": "2025-05-29",
+   "before20": -7.5,
+   "after20": 0.7,
+   "after60": 13.0,
+   "after120": 13.7
+  },
+  {
+   "industry": "Confectioners",
+   "date": "2026-06-19",
+   "before20": -6.7,
+   "after20": 2.7,
+   "after60": 12.7,
+   "after120": NaN
+  },
+  {
+   "industry": "EPC / Construction",
+   "date": "2022-10-10",
+   "before20": 2.4,
+   "after20": 3.1,
+   "after60": 12.3,
+   "after120": 13.0
+  },
+  {
+   "industry": "Mortgage Finance",
+   "date": "2022-11-07",
+   "before20": -2.8,
+   "after20": 3.0,
+   "after60": 12.0,
+   "after120": -0.0
+  },
+  {
+   "industry": "Medical Care Facilities",
+   "date": "2022-09-30",
+   "before20": 3.8,
+   "after20": 3.2,
+   "after60": 10.9,
+   "after120": 13.7
+  },
+  {
+   "industry": "EPC / Construction",
+   "date": "2023-07-17",
+   "before20": 3.2,
+   "after20": 7.4,
+   "after60": 10.7,
+   "after120": 12.7
+  }
+ ]
+}
