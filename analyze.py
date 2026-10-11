@@ -8,6 +8,7 @@ import warnings
 import numpy as np, pandas as pd
 warnings.filterwarnings("ignore", category=RuntimeWarning)
 import pipeline as P
+import next_up as NU
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(ROOT, "docs")
@@ -182,6 +183,10 @@ def main():
             "generated": dt.datetime.now(dt.timezone(dt.timedelta(hours=5, minutes=30))).strftime("%d %b %Y, %I:%M %p IST"),
             "universe": int(len(ok)), "with_industry": int(sum(m["n"] for m in inds)), "industries": inds,
             "stages": STAGES, "order": ORDER, "first_run": len(prev_map) == 0}
+    try:
+        data["nextup"] = NU.compute(h)
+    except Exception as e:
+        print("next_up fail:", e); data["nextup"] = {"items": []}
     os.makedirs(OUT, exist_ok=True)
     json.dump(data, open(os.path.join(OUT, "data.json"), "w"), separators=(",", ":"))
     tpl = open(os.path.join(ROOT, "template.html"), encoding="utf-8").read()
@@ -189,9 +194,39 @@ def main():
     print({k: sum(1 for m in inds if m["stage"] == k) for k in ORDER})
 
     # alert: sirf naye breakout / accumulation
-    fresh = [m for m in inds if m["stage"] in ("breakout", "accum") and (m["new"] or data["first_run"])]
+    # alert: sirf naye "🎯 Agla number" (theme strong) — purane late breakout alerts band
+    al_p = os.path.join(ROOT, "data", "nextup_alerted.csv")
+    done = pd.read_csv(al_p) if os.path.exists(al_p) else pd.DataFrame(columns=["group", "first_trigger"])
+    seen = set(zip(done["group"], done["first_trigger"]))
+    fresh = [x for x in data["nextup"]["items"] if x["strong"] and (x["group"], x["first_trigger"]) not in seen]
     if fresh and os.environ.get("SEND_ALERT") == "1":
-        send_alert(data, fresh)
+        send_nextup_alert(data, fresh)
+        done = pd.concat([done, pd.DataFrame([{"group": x["group"], "first_trigger": x["first_trigger"]} for x in fresh])])
+        done.to_csv(al_p, index=False)
+
+
+def send_nextup_alert(data, fresh):
+    import requests
+    tok = (os.environ.get("TELEGRAM_BOT_TOKEN") or "").strip()
+    chat = (os.environ.get("TELEGRAM_CHAT_ID") or "").strip()
+    if not tok or not chat:
+        print("Telegram secrets nahi"); return
+    L = [f"🎯 *Agla Number — {data['asof']}*", "_Group ka ek share bhaaga, theme strong hai — baaki peers dekho_", ""]
+    for x in fresh[:8]:
+        lead = ", ".join(f"{l['s']} ({'+' if (l['move'] or 0) >= 0 else ''}{l['move']}%)" for l in x["leaders"])
+        L.append(f"*{x['group']}* (theme 3M: {'+' if x['theme'] >= 0 else ''}{x['theme']}% vs market)")
+        L.append(f"   Bhaaga: {lead}")
+        L.append(f"   Agla number: {', '.join(l['s'] for l in x['laggards'][:5])}")
+    url = os.environ.get("DASHBOARD_URL", "")
+    if url:
+        L += ["", f"Dashboard: {url}"]
+    L += ["", "_Educational data. Har baar nahi chalta — stop-loss zaroori._"]
+    txt = "\n".join(L)
+    r = requests.post(f"https://api.telegram.org/bot{tok}/sendMessage",
+                      data={"chat_id": chat, "text": txt, "parse_mode": "Markdown", "disable_web_page_preview": "true"}, timeout=30)
+    if r.status_code != 200:
+        requests.post(f"https://api.telegram.org/bot{tok}/sendMessage", data={"chat_id": chat, "text": txt.replace("*", "").replace("_", "")}, timeout=30)
+    print("Telegram:", r.status_code)
 
 
 def send_alert(data, fresh):

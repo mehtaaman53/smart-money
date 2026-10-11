@@ -26,12 +26,21 @@ svg.sp{width:100%;height:44px;display:block;margin-top:6px}
 table{width:100%;border-collapse:collapse;font-size:12px}th,td{padding:4px 5px;border-bottom:1px solid var(--line);text-align:right;white-space:nowrap}th:first-child,td:first-child{text-align:left}th{color:var(--mut);font-weight:600;position:sticky;top:0;background:var(--card)}
 .tag{display:inline-block;border-radius:4px;padding:0 4px;font-size:10.5px;margin-left:2px;color:#fff}
 .tvb{margin-top:8px;border:1px solid var(--line);background:var(--soft);color:var(--fg);border-radius:8px;padding:4px 10px;font-size:12px;cursor:pointer}
+.nu{background:var(--card);border:2px solid #f59e0b;border-radius:14px;padding:12px;margin:12px 0}
+.nuh{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.ng{border-top:1px solid var(--line);padding:9px 0}.ng:first-child{border-top:0}
+.ng .gh{display:flex;justify-content:space-between;gap:8px;flex-wrap:wrap}.ng.weak{opacity:.55}
+.lg{display:flex;flex-wrap:wrap;gap:6px;margin-top:6px}.lg span{background:var(--soft);border:1px solid var(--line);border-radius:8px;padding:3px 8px;font-size:12.5px}
 .help{font-size:12.5px;color:var(--mut);background:var(--card);border:1px solid var(--line);border-radius:12px;padding:10px 12px;margin-top:16px}
 </style>
 </head>
 <body><div class="wrap">
 <h1>💰 Smart Money — Industry Scanner</h1>
 <div class="sub" id="asof"></div>
+<div class="nu"><div class="nuh"><b>🎯 Agla Number</b> <span class="sub">— group ka ek share abhi bhaaga hai, theme strong hai, ye peers abhi nahi chale</span> <button class="chip" id="dlnu">⬇ TradingView</button></div>
+<div id="nu"></div>
+<div class="sub" style="margin-top:6px">5 saal ka test: aise peers ne 3 mahine mein avg +2.9%, 6 mahine mein +4.5% market se extra diya (random share: –0.4%). Lagbhag aadhi baar hi chalta hai — kamaai bade winners se, isliye <b>stop-loss zaroori</b>. ⚪ = theme kamzor (test mein kaam nahi kiya, sirf jaankari).</div></div>
+<div class="sec" style="margin-top:22px">📊 Industry stages <small>(🚀 Breakout / 🏃 Running = pehle hi chal chuka — peeche mat bhaago)</small></div>
 <div class="bar" id="bar"></div>
 <div id="out"></div>
 <div class="help"><b>Stage ka matlab:</b> 🚀 <b>Breakout</b> = volume ke saath base toda / kai stocks ek saath breakout · 🧲 <b>Accumulation</b> = tight range, kharidari wale din zyada volume, delivery badh rahi · 🏗️ <b>Base</b> = tight range, volume sookh raha (taiyaari) · 🏃 <b>Running</b> = trend mein · ⚠️ <b>Distribution</b> = upar hai par bechne wale din bhaari · 😴 Quiet<br>
@@ -44,7 +53,12 @@ const COL={breakout:"#16a34a",accum:"#7c3aed",base:"#2563eb",running:"#0891b2",d
 const $=id=>document.getElementById(id), esc=x=>String(x??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const f=(x,s="")=>x==null?"–":x+s, pc=x=>x==null?"–":`<span class="${x>=0?"pos":"neg"}">${x>=0?"+":""}${x}%</span>`;
 $("asof").textContent=`Data till ${D.asof} · updated ${D.generated} · ${D.universe} stocks scan (${D.with_industry} with industry) · ${D.industries.length} industries`;
-let show=new Set(["breakout","accum","base"]),q="";
+let show=new Set(["accum","base"]),q="";
+const NU=(D.nextup&&D.nextup.items)||[];
+$("nu").innerHTML=NU.length?NU.map(x=>`<div class="ng ${x.strong?"":"weak"}"><div class="gh"><b>${x.strong?"🎯":"⚪"} ${esc(x.group)}</b><span class="sub">Theme 3M vs market: ${pc(x.theme)}</span></div>
+ <div class="sub">Bhaaga: ${x.leaders.map(l=>`<b>${esc(l.s)}</b> (${l.since}, ${pc(l.move)})`).join(" · ")}</div>
+ <div class="lg">${x.laggards.map(l=>`<span title="Price ${f(l.c)} · 60-din high se ${f(l.from_hi,"%")} · range ${f(l.rng,"%")} · vol ${f(l.vr,"x")} · delivery ${f(l.dp,"%")}"><b>${esc(l.s)}</b> ${pc(l.r20)} <small>· high se ${f(l.from_hi,"%")}</small></span>`).join("")}</div></div>`).join(""):`<div class="sub">Abhi koi naya trigger nahi.</div>`;
+$("dlnu").onclick=()=>dl(`agla_number_${D.asof.replace(/ /g,"_")}.txt`,NU.filter(x=>x.strong).map(x=>`###${x.group.replace(/[^A-Za-z0-9 ]/g,"")},`+x.laggards.map(l=>"NSE:"+l.s).join(",")).join(","));
 function bar(){$("bar").innerHTML=D.order.map(k=>{const n=D.industries.filter(m=>m.stage===k).length;return `<span class="chip ${show.has(k)?"on":""}" data-k="${k}">${D.stages[k]} (${n})</span>`}).join("")+`<button class="chip" id="dlall">⬇ TradingView: sab (🚀🧲🏗️)</button><input type="search" id="q" placeholder="Industry ya stock dhundo…" value="${esc(q)}">`;
  document.querySelectorAll(".chip").forEach(c=>c.onclick=()=>{const k=c.dataset.k;show.has(k)?show.delete(k):show.add(k);bar();render()});
  $("q").oninput=e=>{q=e.target.value.toLowerCase();render()};
