@@ -1,11 +1,11 @@
 {
- "updated": "22 Oct 2026 12:24 AM IST",
+ "updated": "23 Oct 2026 12:18 AM IST",
  "bhav_days": 286,
- "last_date": "2026-10-21",
- "stocks_total": 2946,
+ "last_date": "2026-10-22",
+ "stocks_total": 2945,
  "stocks_ok": 2215,
  "removed": {
-  "low liquidity": 723,
+  "low liquidity": 722,
   "circuit stock": 8
  },
  "series_ok": {
@@ -13,7 +13,7 @@
   "BE": 111,
   "BZ": 3
  },
- "industry_known": 1973,
+ "industry_known": 1972,
  "industries": 125,
- "deals_rows": 1430
+ "deals_rows": 1545
 }
