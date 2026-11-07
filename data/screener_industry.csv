@@ -1,0 +1,2159 @@
+symbol,basic_industry,industry,sector,macro,mcap_cr
+BAJAJ-AUTO,2/3 Wheelers,Automobiles,Automobile and Auto Components,Consumer Discretionary,299536.0
+TVSMOTOR,2/3 Wheelers,Automobiles,Automobile and Auto Components,Consumer Discretionary,213395.0
+EICHERMOT,2/3 Wheelers,Automobiles,Automobile and Auto Components,Consumer Discretionary,210544.0
+HEROMOTOCO,2/3 Wheelers,Automobiles,Automobile and Auto Components,Consumer Discretionary,110349.0
+ATHERENERG,2/3 Wheelers,Automobiles,Automobile and Auto Components,Consumer Discretionary,72301.0
+OLAELEC,2/3 Wheelers,Automobiles,Automobile and Auto Components,Consumer Discretionary,17100.0
+EBIX,2/3 Wheelers,Automobiles,Automobile and Auto Components,Consumer Discretionary,307.0
+TIMKEN,Abrasives & Bearings,Industrial Products,Capital Goods,Industrials,23000.0
+GRINDWELL,Abrasives & Bearings,Industrial Products,Capital Goods,Industrials,21248.0
+CARBORUNIV,Abrasives & Bearings,Industrial Products,Capital Goods,Industrials,19838.0
+SKFINDUS,Abrasives & Bearings,Industrial Products,Capital Goods,Industrials,11586.0
+SKFINDIA,Abrasives & Bearings,Industrial Products,Capital Goods,Industrials,7048.0
+WENDT,Abrasives & Bearings,Industrial Products,Capital Goods,Industrials,1430.0
+SIGNPOST,Advertising & Media Agencies,Media,"Media, Entertainment & Publication",Consumer Discretionary,1159.0
+BRIGHTOUTD,Advertising & Media Agencies,Media,"Media, Entertainment & Publication",Consumer Discretionary,776.0
+SIMCA,Advertising & Media Agencies,Media,"Media, Entertainment & Publication",Consumer Discretionary,585.0
+RKSWAMY,Advertising & Media Agencies,Media,"Media, Entertainment & Publication",Consumer Discretionary,406.0
+HAL,Aerospace & Defense,Aerospace & Defense,Capital Goods,Industrials,333050.0
+BEL,Aerospace & Defense,Aerospace & Defense,Capital Goods,Industrials,289467.0
+BDL,Aerospace & Defense,Aerospace & Defense,Capital Goods,Industrials,38856.0
+GRSE,Aerospace & Defense,Aerospace & Defense,Capital Goods,Industrials,24465.0
+DATAPATTNS,Aerospace & Defense,Aerospace & Defense,Capital Goods,Industrials,21093.0
+SIGMAADV,Aerospace & Defense,Aerospace & Defense,Capital Goods,Industrials,17269.0
+ZENTEC,Aerospace & Defense,Aerospace & Defense,Capital Goods,Industrials,15537.0
+APOLLO,Aerospace & Defense,Aerospace & Defense,Capital Goods,Industrials,15371.0
+ASTRAMICRO,Aerospace & Defense,Aerospace & Defense,Capital Goods,Industrials,14791.0
+AEQUS,Aerospace & Defense,Aerospace & Defense,Capital Goods,Industrials,14724.0
+PARAS,Aerospace & Defense,Aerospace & Defense,Capital Goods,Industrials,10019.0
+UNIMECH,Aerospace & Defense,Aerospace & Defense,Capital Goods,Industrials,8853.0
+TONBO,Aerospace & Defense,Aerospace & Defense,Capital Goods,Industrials,8434.0
+AXISCADES,Aerospace & Defense,Aerospace & Defense,Capital Goods,Industrials,7615.0
+MIDHANI,Aerospace & Defense,Aerospace & Defense,Capital Goods,Industrials,7108.0
+CYIENTDLM,Aerospace & Defense,Aerospace & Defense,Capital Goods,Industrials,6131.0
+CENTUM,Aerospace & Defense,Aerospace & Defense,Capital Goods,Industrials,6008.0
+ROSSTECH,Aerospace & Defense,Aerospace & Defense,Capital Goods,Industrials,5571.0
+AVANTEL,Aerospace & Defense,Aerospace & Defense,Capital Goods,Industrials,3686.0
+IDEAFORGE,Aerospace & Defense,Aerospace & Defense,Capital Goods,Industrials,3331.0
+JAYKAY,Aerospace & Defense,Aerospace & Defense,Capital Goods,Industrials,3033.0
+SIKA,Aerospace & Defense,Aerospace & Defense,Capital Goods,Industrials,1896.0
+KRISHNADEF,Aerospace & Defense,Aerospace & Defense,Capital Goods,Industrials,1805.0
+NIBE,Aerospace & Defense,Aerospace & Defense,Capital Goods,Industrials,1772.0
+DCXINDIA,Aerospace & Defense,Aerospace & Defense,Capital Goods,Industrials,1548.0
+TANAA,Aerospace & Defense,Aerospace & Defense,Capital Goods,Industrials,781.0
+APSISAERO,Aerospace & Defense,Aerospace & Defense,Capital Goods,Industrials,564.0
+KAVDEFENCE,Aerospace & Defense,Aerospace & Defense,Capital Goods,Industrials,490.0
+INDIGO,Airline,Transport Services,Services,Services,211739.0
+TAALTECH,Airline,Transport Services,Services,Services,1422.0
+SPICEJET,Airline,Transport Services,Services,Services,1151.0
+FLYSBS,Airline,Transport Services,Services,Services,961.0
+GMRAIRPORT,Airport & Airport services,Transport Infrastructure,Services,Services,105277.0
+DREAMFOLKS,Airport & Airport services,Transport Infrastructure,Services,Services,313.0
+HINDALCO,Aluminium,Non - Ferrous Metals,Metals & Mining,Commodities,215374.0
+VAML,Aluminium,Non - Ferrous Metals,Metals & Mining,Commodities,147050.0
+NATIONALUM,Aluminium,Non - Ferrous Metals,Metals & Mining,Commodities,59828.0
+ARFIN,Aluminium,Non - Ferrous Metals,Metals & Mining,Commodities,1589.0
+MMP,Aluminium,Non - Ferrous Metals,Metals & Mining,Commodities,1086.0
+MAANALU,Aluminium,Non - Ferrous Metals,Metals & Mining,Commodities,611.0
+PRECWIRE,"Aluminium, Copper & Zinc Products",Industrial Products,Capital Goods,Industrials,7339.0
+CMRGREEN,"Aluminium, Copper & Zinc Products",Industrial Products,Capital Goods,Industrials,4782.0
+VIDYAWIRES,"Aluminium, Copper & Zinc Products",Industrial Products,Capital Goods,Industrials,1442.0
+BELDING,"Aluminium, Copper & Zinc Products",Industrial Products,Capital Goods,Industrials,1187.0
+BAHETI,"Aluminium, Copper & Zinc Products",Industrial Products,Capital Goods,Industrials,855.0
+SUNLITE,"Aluminium, Copper & Zinc Products",Industrial Products,Capital Goods,Industrials,827.0
+AMCL,"Aluminium, Copper & Zinc Products",Industrial Products,Capital Goods,Industrials,468.0
+SHERA,"Aluminium, Copper & Zinc Products",Industrial Products,Capital Goods,Industrials,421.0
+EUROBOND,"Aluminium, Copper & Zinc Products",Industrial Products,Capital Goods,Industrials,337.0
+WONDERLA,Amusement Parks/ Other Recreation,Leisure Services,Consumer Services,Consumer Discretionary,3026.0
+IMAGICAA,Amusement Parks/ Other Recreation,Leisure Services,Consumer Services,Consumer Discretionary,2570.0
+DELTACORP,Amusement Parks/ Other Recreation,Leisure Services,Consumer Services,Consumer Discretionary,2012.0
+NICCOPAR,Amusement Parks/ Other Recreation,Leisure Services,Consumer Services,Consumer Discretionary,318.0
+GODREJAGRO,Animal Feed,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,11575.0
+AVANTIFEED,Animal Feed,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,9679.0
+MUKKA,Animal Feed,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,821.0
+KSE,Animal Feed,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,553.0
+ICICIAMC,Asset Management Company,Capital Markets,Financial Services,Financial Services,145104.0
+HDFCAMC,Asset Management Company,Capital Markets,Financial Services,Financial Services,113701.0
+SBIFUNDS,Asset Management Company,Capital Markets,Financial Services,Financial Services,101750.0
+NAM-INDIA,Asset Management Company,Capital Markets,Financial Services,Financial Services,68177.0
+ABSLAMC,Asset Management Company,Capital Markets,Financial Services,Financial Services,25438.0
+EDELALTS,Asset Management Company,Capital Markets,Financial Services,Financial Services,10876.0
+UTIAMC,Asset Management Company,Capital Markets,Financial Services,Financial Services,10708.0
+CRAMC,Asset Management Company,Capital Markets,Financial Services,Financial Services,4469.0
+GAJA,Asset Management Company,Capital Markets,Financial Services,Financial Services,1894.0
+MOTHERSON,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,168977.0
+BOSCHLTD,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,149545.0
+BHARATFORG,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,85029.0
+UNOMINDA,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,76572.0
+SONACOMS,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,56266.0
+SCHAEFFLER,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,55014.0
+TIINDIA,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,42005.0
+ENDURANCE,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,35192.0
+DHOOTTRANS,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,32771.0
+EXIDEIND,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,30375.0
+CRAFTSMAN,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,27371.0
+SANSERA,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,26981.0
+ASAHIINDIA,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,26371.0
+ZFCVINDIA,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,26088.0
+MSUMI,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,25956.0
+GABRIEL,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,24366.0
+SUNDRMFAST,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,22669.0
+BELRISE,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,20661.0
+SHRIPISTON,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,19823.0
+TENNIND,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,17083.0
+MINDACORP,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,17038.0
+LUMAXTECH,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,15863.0
+CIEINDIA,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,13439.0
+SEDEMAC,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,13370.0
+ARE&M,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,13329.0
+RKFORGE,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,12876.0
+ASKAUTOLTD,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,12122.0
+VARROC,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,12114.0
+JBMA,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,11721.0
+PRICOLLTD,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,8662.0
+BANCOINDIA,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,8556.0
+SSWL,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,8496.0
+SJS,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,6621.0
+SUPRAJIT,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,6611.0
+WHEELS,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,6218.0
+JAMNAAUTO,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,5479.0
+HEROMOTORS,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,5461.0
+LGBBROSLTD,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,5300.0
+ROLEXRINGS,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,5277.0
+LUMAXIND,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,5084.0
+SHARDAMOTR,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,4971.0
+FIEMIND,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,4838.0
+NRBBEARING,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,4178.0
+RML,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,3472.0
+JTEKTINDIA,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,3274.0
+UNIPARTS,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,3182.0
+MMFL,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,3039.0
+SANDHAR,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,2883.0
+CARRARO,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,2769.0
+DIVGIITTS,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,2705.0
+FMGOETZE,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,2595.0
+INDNIPPON,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,2551.0
+GNA,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,2425.0
+AUTOAXLES,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,2413.0
+SUNCLAY,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,2379.0
+TALBROAUTO,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,2335.0
+OBSCP,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,2255.0
+RAJRATAN,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,2149.0
+KROSS,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,1921.0
+MENONBE,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,1900.0
+NDRAUTO,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,1776.0
+RACLGEAR,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,1703.0
+FRONTSP,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,1586.0
+STUDDS,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,1567.0
+ALICON,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,1362.0
+RICOAUTO,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,1323.0
+JAYBARMARU,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,1321.0
+BHARATSE,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,1314.0
+IGARASHI,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,1153.0
+ACGL,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,1087.0
+MUNJALAU,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,1020.0
+PRADPME,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,1019.0
+SEKURITIND,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,980.0
+PRECAM,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,958.0
+VELJAN,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,921.0
+HITECHGEAR,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,912.0
+STERTOOLS,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,801.0
+ADROITIND,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,739.0
+ISTLTD,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,730.0
+ASAL,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,708.0
+ENKEIWHEL,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,701.0
+ZFSTEERING,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,681.0
+HINDCOMPOS,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,555.0
+TRITONV,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,550.0
+MUNJALSHOW,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,496.0
+MAXVOLT,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,445.0
+OMAXAUTO,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,422.0
+AUTOIND,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,347.0
+MENNPIS,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,344.0
+UCAL,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,316.0
+REMSONSIND,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,310.0
+PPAP,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,309.0
+SHIVAMAUTO,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,309.0
+TCL,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,307.0
+GOLDSTAR,Auto Components & Equipments,Auto Components,Automobile and Auto Components,Consumer Discretionary,306.0
+LANDMARK,Auto Dealer,Automobiles,Automobile and Auto Components,Consumer Discretionary,1934.0
+PVSL,Auto Dealer,Automobiles,Automobile and Auto Components,Consumer Discretionary,676.0
+ANTHEM,Biotechnology,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,51589.0
+ADVENZYMES,Biotechnology,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,3071.0
+UNITDSPR,Breweries & Distilleries,Beverages,Fast Moving Consumer Goods,Fast Moving Consumer Goods,103138.0
+RADICO,Breweries & Distilleries,Beverages,Fast Moving Consumer Goods,Fast Moving Consumer Goods,60499.0
+UBL,Breweries & Distilleries,Beverages,Fast Moving Consumer Goods,Fast Moving Consumer Goods,31456.0
+ABDL,Breweries & Distilleries,Beverages,Fast Moving Consumer Goods,Fast Moving Consumer Goods,19803.0
+TI,Breweries & Distilleries,Beverages,Fast Moving Consumer Goods,Fast Moving Consumer Goods,12035.0
+PICCADIL,Breweries & Distilleries,Beverages,Fast Moving Consumer Goods,Fast Moving Consumer Goods,5740.0
+GLOBUSSPR,Breweries & Distilleries,Beverages,Fast Moving Consumer Goods,Fast Moving Consumer Goods,2181.0
+INDIAGLYCO,Breweries & Distilleries,Beverages,Fast Moving Consumer Goods,Fast Moving Consumer Goods,1974.0
+GMBREW,Breweries & Distilleries,Beverages,Fast Moving Consumer Goods,Fast Moving Consumer Goods,1913.0
+SDBL,Breweries & Distilleries,Beverages,Fast Moving Consumer Goods,Fast Moving Consumer Goods,1527.0
+SULA,Breweries & Distilleries,Beverages,Fast Moving Consumer Goods,Fast Moving Consumer Goods,1164.0
+ASALCBR,Breweries & Distilleries,Beverages,Fast Moving Consumer Goods,Fast Moving Consumer Goods,1123.0
+BCLIND,Breweries & Distilleries,Beverages,Fast Moving Consumer Goods,Fast Moving Consumer Goods,854.0
+IFBAGRO,Breweries & Distilleries,Beverages,Fast Moving Consumer Goods,Fast Moving Consumer Goods,804.0
+FSL,Business Process Outsourcing (BPO)/ Knowledge Process Outsourcing (KPO),Commercial Services & Supplies,Services,Services,20762.0
+ECLERX,Business Process Outsourcing (BPO)/ Knowledge Process Outsourcing (KPO),Commercial Services & Supplies,Services,Services,15054.0
+FUSIONCX,Business Process Outsourcing (BPO)/ Knowledge Process Outsourcing (KPO),Commercial Services & Supplies,Services,Services,3908.0
+RPSGVENT,Business Process Outsourcing (BPO)/ Knowledge Process Outsourcing (KPO),Commercial Services & Supplies,Services,Services,2922.0
+ONEPOINT,Business Process Outsourcing (BPO)/ Knowledge Process Outsourcing (KPO),Commercial Services & Supplies,Services,Services,1987.0
+HGS,Business Process Outsourcing (BPO)/ Knowledge Process Outsourcing (KPO),Commercial Services & Supplies,Services,Services,1623.0
+ALLDIGI,Business Process Outsourcing (BPO)/ Knowledge Process Outsourcing (KPO),Commercial Services & Supplies,Services,Services,1269.0
+POLYCAB,Cables - Electricals,Industrial Products,Capital Goods,Industrials,118621.0
+KEI,Cables - Electricals,Industrial Products,Capital Goods,Industrials,38143.0
+RRKABEL,Cables - Electricals,Industrial Products,Capital Goods,Industrials,21726.0
+FINCABLES,Cables - Electricals,Industrial Products,Capital Goods,Industrials,16686.0
+KSHINTL,Cables - Electricals,Industrial Products,Capital Goods,Industrials,6811.0
+VMARCIND,Cables - Electricals,Industrial Products,Capital Goods,Industrials,4753.0
+UNIVCABLES,Cables - Electricals,Industrial Products,Capital Goods,Industrials,3812.0
+LASERPOWER,Cables - Electricals,Industrial Products,Capital Goods,Industrials,2873.0
+LUMINO,Cables - Electricals,Industrial Products,Capital Goods,Industrials,2845.0
+PARACABLES,Cables - Electricals,Industrial Products,Capital Goods,Industrials,2099.0
+DYCL,Cables - Electricals,Industrial Products,Capital Goods,Industrials,1802.0
+DPEL,Cables - Electricals,Industrial Products,Capital Goods,Industrials,1700.0
+QUADFUTURE,Cables - Electricals,Industrial Products,Capital Goods,Industrials,1688.0
+CORDSCABLE,Cables - Electricals,Industrial Products,Capital Goods,Industrials,398.0
+PRIMECAB,Cables - Electricals,Industrial Products,Capital Goods,Industrials,313.0
+HSCL,Carbon Black,Chemicals & Petrochemicals,Chemicals,Commodities,28667.0
+PCBL,Carbon Black,Chemicals & Petrochemicals,Chemicals,Commodities,10987.0
+PTCIL,Castings & Forgings,Industrial Products,Capital Goods,Industrials,38564.0
+AIAENG,Castings & Forgings,Industrial Products,Capital Goods,Industrials,29056.0
+HAPPYFORGE,Castings & Forgings,Industrial Products,Capital Goods,Industrials,15996.0
+BALUFORGE,Castings & Forgings,Industrial Products,Capital Goods,Industrials,6090.0
+STEELCAS,Castings & Forgings,Industrial Products,Capital Goods,Industrials,3654.0
+NELCAST,Castings & Forgings,Industrial Products,Capital Goods,Industrials,1369.0
+INVPRECQ,Castings & Forgings,Industrial Products,Capital Goods,Industrials,1325.0
+TIRUPATIFL,Castings & Forgings,Industrial Products,Capital Goods,Industrials,859.0
+SGIL,Castings & Forgings,Industrial Products,Capital Goods,Industrials,848.0
+KALYANIFRG,Castings & Forgings,Industrial Products,Capital Goods,Industrials,319.0
+ULTRACEMCO,Cement & Cement Products,Cement & Cement Products,Construction Materials,Commodities,366876.0
+GRASIM,Cement & Cement Products,Cement & Cement Products,Construction Materials,Commodities,219610.0
+AMBUJACEM,Cement & Cement Products,Cement & Cement Products,Construction Materials,Commodities,97057.0
+SHREECEM,Cement & Cement Products,Cement & Cement Products,Construction Materials,Commodities,90563.0
+JKCEMENT,Cement & Cement Products,Cement & Cement Products,Construction Materials,Commodities,40487.0
+DALBHARAT,Cement & Cement Products,Cement & Cement Products,Construction Materials,Commodities,27578.0
+ACC,Cement & Cement Products,Cement & Cement Products,Construction Materials,Commodities,23214.0
+RAMCOCEM,Cement & Cement Products,Cement & Cement Products,Construction Materials,Commodities,19313.0
+JSWCEMENT,Cement & Cement Products,Cement & Cement Products,Construction Materials,Commodities,16825.0
+NUVOCO,Cement & Cement Products,Cement & Cement Products,Construction Materials,Commodities,12250.0
+INDIACEM,Cement & Cement Products,Cement & Cement Products,Construction Materials,Commodities,10823.0
+STARCEMENT,Cement & Cement Products,Cement & Cement Products,Construction Materials,Commodities,6973.0
+BIRLACORPN,Cement & Cement Products,Cement & Cement Products,Construction Materials,Commodities,6359.0
+JKLAKSHMI,Cement & Cement Products,Cement & Cement Products,Construction Materials,Commodities,5648.0
+PRSMJOHNSN,Cement & Cement Products,Cement & Cement Products,Construction Materials,Commodities,5096.0
+HEIDELBERG,Cement & Cement Products,Cement & Cement Products,Construction Materials,Commodities,2726.0
+ORIENTCEM,Cement & Cement Products,Cement & Cement Products,Construction Materials,Commodities,2587.0
+MANGLMCEM,Cement & Cement Products,Cement & Cement Products,Construction Materials,Commodities,2511.0
+KCP,Cement & Cement Products,Cement & Cement Products,Construction Materials,Commodities,2040.0
+SAGCEM,Cement & Cement Products,Cement & Cement Products,Construction Materials,Commodities,1797.0
+SHREDIGCEM,Cement & Cement Products,Cement & Cement Products,Construction Materials,Commodities,837.0
+NCLIND,Cement & Cement Products,Cement & Cement Products,Construction Materials,Commodities,746.0
+VISAKAIND,Cement & Cement Products,Cement & Cement Products,Construction Materials,Commodities,732.0
+DECCANCE,Cement & Cement Products,Cement & Cement Products,Construction Materials,Commodities,671.0
+SAURASHCEM,Cement & Cement Products,Cement & Cement Products,Construction Materials,Commodities,540.0
+BIGBLOC,Cement & Cement Products,Cement & Cement Products,Construction Materials,Commodities,491.0
+SHIVACEM,Cement & Cement Products,Cement & Cement Products,Construction Materials,Commodities,383.0
+KESORAMIND,Cement & Cement Products,Cement & Cement Products,Construction Materials,Commodities,378.0
+ACL,Cement & Cement Products,Cement & Cement Products,Construction Materials,Commodities,352.0
+KAJARIACER,Ceramics,Consumer Durables,Consumer Durables,Consumer Discretionary,18554.0
+VARMORA,Ceramics,Consumer Durables,Consumer Durables,Consumer Discretionary,3111.0
+SOMANYCERA,Ceramics,Consumer Durables,Consumer Durables,Consumer Discretionary,2239.0
+NITCO,Ceramics,Consumer Durables,Consumer Durables,Consumer Discretionary,2138.0
+ASIANTILES,Ceramics,Consumer Durables,Consumer Durables,Consumer Discretionary,1323.0
+ORIENTBELL,Ceramics,Consumer Durables,Consumer Durables,Consumer Discretionary,538.0
+GODFRYPHLP,Cigarettes & Tobacco Products,Cigarettes & Tobacco Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,27921.0
+VSTIND,Cigarettes & Tobacco Products,Cigarettes & Tobacco Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,3297.0
+ELITECON,Cigarettes & Tobacco Products,Cigarettes & Tobacco Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,975.0
+LT,Civil Construction,Construction,Construction,Industrials,566561.0
+RVNL,Civil Construction,Construction,Construction,Industrials,40312.0
+CEMPRO,Civil Construction,Construction,Construction,Industrials,24405.0
+KPIL,Civil Construction,Construction,Construction,Industrials,23410.0
+NBCC,Civil Construction,Construction,Construction,Industrials,21060.0
+IRB,Civil Construction,Construction,Construction,Industrials,20557.0
+ENGINERSIN,Civil Construction,Construction,Construction,Industrials,16451.0
+CMPDI,Civil Construction,Construction,Construction,Industrials,12658.0
+TECHNOE,Civil Construction,Construction,Construction,Industrials,10798.0
+IRCON,Civil Construction,Construction,Construction,Industrials,10174.0
+WELENT,Civil Construction,Construction,Construction,Industrials,9375.0
+RITES,Civil Construction,Construction,Construction,Industrials,9358.0
+KEC,Civil Construction,Construction,Construction,Industrials,8874.0
+AFCONS,Civil Construction,Construction,Construction,Industrials,7940.0
+NCC,Civil Construction,Construction,Construction,Industrials,7712.0
+GRINFRA,Civil Construction,Construction,Construction,Industrials,7601.0
+POWERMECH,Civil Construction,Construction,Construction,Industrials,7183.0
+ISGEC,Civil Construction,Construction,Construction,Industrials,7058.0
+CEIGALL,Civil Construction,Construction,Construction,Industrials,6690.0
+DBL,Civil Construction,Construction,Construction,Industrials,6494.0
+SHREMINVIT,Civil Construction,Construction,Construction,Industrials,6206.0
+NXT-INFRA,Civil Construction,Construction,Construction,Industrials,5272.0
+HCC,Civil Construction,Construction,Construction,Industrials,4726.0
+CAPINVIT,Civil Construction,Construction,Construction,Industrials,3934.0
+LCCPROJECT,Civil Construction,Construction,Construction,Industrials,3904.0
+AHLUCONT,Civil Construction,Construction,Construction,Industrials,3547.0
+SWSOLAR,Civil Construction,Construction,Construction,Industrials,3483.0
+PNCINFRA,Civil Construction,Construction,Construction,Industrials,3340.0
+PSPPROJECT,Civil Construction,Construction,Construction,Industrials,3142.0
+JKIL,Civil Construction,Construction,Construction,Industrials,3136.0
+KNRCON,Civil Construction,Construction,Construction,Industrials,3084.0
+VINDHYATEL,Civil Construction,Construction,Construction,Industrials,2929.0
+ASHOKA,Civil Construction,Construction,Construction,Industrials,2865.0
+RAMKY,Civil Construction,Construction,Construction,Industrials,2713.0
+HGINFRA,Civil Construction,Construction,Construction,Industrials,2610.0
+INTERARCH,Civil Construction,Construction,Construction,Industrials,2592.0
+PATELENG,Civil Construction,Construction,Construction,Industrials,2474.0
+BGRENERGY,Civil Construction,Construction,Construction,Industrials,2162.0
+SIMPLEXINF,Civil Construction,Construction,Construction,Industrials,2155.0
+GKENERGY,Civil Construction,Construction,Construction,Industrials,2019.0
+MBEL,Civil Construction,Construction,Construction,Industrials,1612.0
+INDIANHUME,Civil Construction,Construction,Construction,Industrials,1557.0
+CAPACITE,Civil Construction,Construction,Construction,Industrials,1522.0
+GARUDA,Civil Construction,Construction,Construction,Industrials,1430.0
+GPTINFRA,Civil Construction,Construction,Construction,Industrials,1401.0
+VIKRAN,Civil Construction,Construction,Construction,Industrials,1390.0
+BLKASHYAP,Civil Construction,Construction,Construction,Industrials,1231.0
+SPMLINFRA,Civil Construction,Construction,Construction,Industrials,1168.0
+MBECL,Civil Construction,Construction,Construction,Industrials,1057.0
+SEPC,Civil Construction,Construction,Construction,Industrials,973.0
+SOLARWORLD,Civil Construction,Construction,Construction,Industrials,944.0
+GAYAPROJ,Civil Construction,Construction,Construction,Industrials,925.0
+SSEGL,Civil Construction,Construction,Construction,Industrials,925.0
+SRM,Civil Construction,Construction,Construction,Industrials,850.0
+LIKHITHA,Civil Construction,Construction,Construction,Industrials,834.0
+ABINFRA,Civil Construction,Construction,Construction,Industrials,765.0
+VIVIANA,Civil Construction,Construction,Construction,Industrials,721.0
+SUPREMEINF,Civil Construction,Construction,Construction,Industrials,689.0
+OMINFRAL,Civil Construction,Construction,Construction,Industrials,671.0
+SWASTIKAIN,Civil Construction,Construction,Construction,Industrials,666.0
+MOLDTECH,Civil Construction,Construction,Construction,Industrials,560.0
+UNIVASTU,Civil Construction,Construction,Construction,Industrials,543.0
+BRAHMINFRA,Civil Construction,Construction,Construction,Industrials,525.0
+IL&FSENGG,Civil Construction,Construction,Construction,Industrials,521.0
+WSI,Civil Construction,Construction,Construction,Industrials,511.0
+E2ERAIL,Civil Construction,Construction,Construction,Industrials,458.0
+OMPOWER,Civil Construction,Construction,Construction,Industrials,431.0
+RAVITA,Civil Construction,Construction,Construction,Industrials,388.0
+HAZOOR,Civil Construction,Construction,Construction,Industrials,381.0
+MARKOLINES,Civil Construction,Construction,Construction,Industrials,365.0
+GANESHIN,Civil Construction,Construction,Construction,Industrials,355.0
+VPRPL,Civil Construction,Construction,Construction,Industrials,335.0
+ZODIAC,Civil Construction,Construction,Construction,Industrials,306.0
+VNL,Civil Construction,Construction,Construction,Industrials,304.0
+CHAVDA,Civil Construction,Construction,Construction,Industrials,304.0
+SAVY,Civil Construction,Construction,Construction,Industrials,303.0
+MBLINFRA,Civil Construction,Construction,Construction,Industrials,301.0
+COALINDIA,Coal,Consumable Fuels,"Oil, Gas & Consumable Fuels",Energy,246509.0
+BHARATCOAL,Coal,Consumable Fuels,"Oil, Gas & Consumable Fuels",Energy,14697.0
+SINDHUTRAD,Coal,Consumable Fuels,"Oil, Gas & Consumable Fuels",Energy,3825.0
+CMLL,Coal,Consumable Fuels,"Oil, Gas & Consumable Fuels",Energy,3401.0
+TMCV,Commercial Vehicles,"Agricultural, Commercial & Construction Vehicles",Capital Goods,Industrials,156704.0
+ASHOKLEY,Commercial Vehicles,"Agricultural, Commercial & Construction Vehicles",Capital Goods,Industrials,101083.0
+SMLMAH,Commercial Vehicles,"Agricultural, Commercial & Construction Vehicles",Capital Goods,Industrials,7611.0
+ATULAUTO,Commercial Vehicles,"Agricultural, Commercial & Construction Vehicles",Capital Goods,Industrials,1108.0
+SRF,Commodity Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,72932.0
+TATACHEM,Commodity Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,15475.0
+DEEPAKFERT,Commodity Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,14584.0
+GNFC,Commodity Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,6639.0
+GUJALKALI,Commodity Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,4481.0
+GHCL,Commodity Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,3843.0
+GRAUWEIL,Commodity Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,3457.0
+JGCHEM,Commodity Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,2281.0
+IGPL,Commodity Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,1771.0
+TIRUMALCHM,Commodity Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,1414.0
+INDOBORAX,Commodity Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,1366.0
+TGVSL,Commodity Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,1254.0
+ANDHRSUGAR,Commodity Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,1167.0
+SRHHYPOLTD,Commodity Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,840.0
+OCCLLTD,Commodity Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,824.0
+AMNPLST,Commodity Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,795.0
+TRANSPEK,Commodity Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,715.0
+SADHNANIQ,Commodity Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,691.0
+TUTIALKA,Commodity Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,593.0
+PRIMO,Commodity Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,522.0
+CHEMFAB,Commodity Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,452.0
+ALUFLUOR,Commodity Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,428.0
+MANORG,Commodity Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,375.0
+LORDSCHLO,Commodity Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,372.0
+POEL,Commodity Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,345.0
+SHANTIINOR,Commodity Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,315.0
+CUMMINSIND,"Compressors, Pumps & Diesel Engines",Industrial Products,Capital Goods,Industrials,112233.0
+KIRLOSENG,"Compressors, Pumps & Diesel Engines",Industrial Products,Capital Goods,Industrials,23036.0
+ELGIEQUIP,"Compressors, Pumps & Diesel Engines",Industrial Products,Capital Goods,Industrials,17649.0
+KIRLOSBROS,"Compressors, Pumps & Diesel Engines",Industrial Products,Capital Goods,Industrials,12944.0
+INGERRAND,"Compressors, Pumps & Diesel Engines",Industrial Products,Capital Goods,Industrials,12527.0
+KSB,"Compressors, Pumps & Diesel Engines",Industrial Products,Capital Goods,Industrials,10946.0
+KIRLPNU,"Compressors, Pumps & Diesel Engines",Industrial Products,Capital Goods,Industrials,7998.0
+GREAVESCOT,"Compressors, Pumps & Diesel Engines",Industrial Products,Capital Goods,Industrials,4760.0
+SHAKTIPUMP,"Compressors, Pumps & Diesel Engines",Industrial Products,Capital Goods,Industrials,4302.0
+SWARAJENG,"Compressors, Pumps & Diesel Engines",Industrial Products,Capital Goods,Industrials,4247.0
+OSWALPUMPS,"Compressors, Pumps & Diesel Engines",Industrial Products,Capital Goods,Industrials,2614.0
+YUKEN,"Compressors, Pumps & Diesel Engines",Industrial Products,Capital Goods,Industrials,1434.0
+ROTO,"Compressors, Pumps & Diesel Engines",Industrial Products,Capital Goods,Industrials,1177.0
+TCS,Computers - Software & Consulting,IT - Software,Information Technology,Information Technology,903979.0
+INFY,Computers - Software & Consulting,IT - Software,Information Technology,Information Technology,479447.0
+HCLTECH,Computers - Software & Consulting,IT - Software,Information Technology,Information Technology,390768.0
+WIPRO,Computers - Software & Consulting,IT - Software,Information Technology,Information Technology,196134.0
+TECHM,Computers - Software & Consulting,IT - Software,Information Technology,Information Technology,179476.0
+LTM,Computers - Software & Consulting,IT - Software,Information Technology,Information Technology,128683.0
+PERSISTENT,Computers - Software & Consulting,IT - Software,Information Technology,Information Technology,100388.0
+COFORGE,Computers - Software & Consulting,IT - Software,Information Technology,Information Technology,91980.0
+MPHASIS,Computers - Software & Consulting,IT - Software,Information Technology,Information Technology,48119.0
+HEXT,Computers - Software & Consulting,IT - Software,Information Technology,Information Technology,30765.0
+TATAELXSI,Computers - Software & Consulting,IT - Software,Information Technology,Information Technology,24019.0
+KPITTECH,Computers - Software & Consulting,IT - Software,Information Technology,Information Technology,14816.0
+FRACTAL,Computers - Software & Consulting,IT - Software,Information Technology,Information Technology,14082.0
+ZENSARTECH,Computers - Software & Consulting,IT - Software,Information Technology,Information Technology,12954.0
+BSOFT,Computers - Software & Consulting,IT - Software,Information Technology,Information Technology,9438.0
+RATEGAIN,Computers - Software & Consulting,IT - Software,Information Technology,Information Technology,8611.0
+INTELLECT,Computers - Software & Consulting,IT - Software,Information Technology,Information Technology,7237.0
+SONATSOFTW,Computers - Software & Consulting,IT - Software,Information Technology,Information Technology,6719.0
+NEWGEN,Computers - Software & Consulting,IT - Software,Information Technology,Information Technology,6280.0
+HAPPSTMNDS,Computers - Software & Consulting,IT - Software,Information Technology,Information Technology,4782.0
+MASTEK,Computers - Software & Consulting,IT - Software,Information Technology,Information Technology,4579.0
+LATENTVIEW,Computers - Software & Consulting,IT - Software,Information Technology,Information Technology,4244.0
+63MOONS,Computers - Software & Consulting,IT - Software,Information Technology,Information Technology,4129.0
+AURIONPRO,Computers - Software & Consulting,IT - Software,Information Technology,Information Technology,3198.0
+KODYTECH,Computers - Software & Consulting,IT - Software,Information Technology,Information Technology,2125.0
+NINSYS,Computers - Software & Consulting,IT - Software,Information Technology,Information Technology,1808.0
+SAKSOFT,Computers - Software & Consulting,IT - Software,Information Technology,Information Technology,1768.0
+INFOBEAN,Computers - Software & Consulting,IT - Software,Information Technology,Information Technology,1654.0
+SILVERTUC,Computers - Software & Consulting,IT - Software,Information Technology,Information Technology,1574.0
+MCLOUD,Computers - Software & Consulting,IT - Software,Information Technology,Information Technology,1419.0
+ACCELYA,Computers - Software & Consulting,IT - Software,Information Technology,Information Technology,1413.0
+CEINSYS,Computers - Software & Consulting,IT - Software,Information Technology,Information Technology,1385.0
+TAC,Computers - Software & Consulting,IT - Software,Information Technology,Information Technology,816.0
+XCHANGING,Computers - Software & Consulting,IT - Software,Information Technology,Information Technology,676.0
+SOFTTECH,Computers - Software & Consulting,IT - Software,Information Technology,Information Technology,616.0
+INNOVANA,Computers - Software & Consulting,IT - Software,Information Technology,Information Technology,584.0
+KSOLVES,Computers - Software & Consulting,IT - Software,Information Technology,Information Technology,501.0
+MINDTECK,Computers - Software & Consulting,IT - Software,Information Technology,Information Technology,420.0
+CSM,Computers - Software & Consulting,IT - Software,Information Technology,Information Technology,405.0
+3IINFOLTD,Computers - Software & Consulting,IT - Software,Information Technology,Information Technology,391.0
+CYBERTECH,Computers - Software & Consulting,IT - Software,Information Technology,Information Technology,374.0
+XTGLOBAL,Computers - Software & Consulting,IT - Software,Information Technology,Information Technology,369.0
+SYSTANGO,Computers - Software & Consulting,IT - Software,Information Technology,Information Technology,324.0
+TREJHARA,Computers - Software & Consulting,IT - Software,Information Technology,Information Technology,317.0
+EBGNG,Computers Hardware & Equipments,IT - Hardware,Information Technology,Information Technology,6662.0
+RPTECH,Computers Hardware & Equipments,IT - Hardware,Information Technology,Information Technology,4904.0
+MOSCHIP,Computers Hardware & Equipments,IT - Hardware,Information Technology,Information Technology,3285.0
+NELCO,Computers Hardware & Equipments,IT - Hardware,Information Technology,Information Technology,1660.0
+DLINKINDIA,Computers Hardware & Equipments,IT - Hardware,Information Technology,Information Technology,1437.0
+CONTROLPR,Computers Hardware & Equipments,IT - Hardware,Information Technology,Information Technology,957.0
+TVSELECT,Computers Hardware & Equipments,IT - Hardware,Information Technology,Information Technology,737.0
+DCI,Computers Hardware & Equipments,IT - Hardware,Information Technology,Information Technology,540.0
+ESCONET,Computers Hardware & Equipments,IT - Hardware,Information Technology,Information Technology,474.0
+HCL-INSYS,Computers Hardware & Equipments,IT - Hardware,Information Technology,Information Technology,322.0
+BEML,Construction Vehicles,"Agricultural, Commercial & Construction Vehicles",Capital Goods,Industrials,16268.0
+ACE,Construction Vehicles,"Agricultural, Commercial & Construction Vehicles",Capital Goods,Industrials,13905.0
+AJAXENGG,Construction Vehicles,"Agricultural, Commercial & Construction Vehicles",Capital Goods,Industrials,6369.0
+TIL,Construction Vehicles,"Agricultural, Commercial & Construction Vehicles",Capital Goods,Industrials,1650.0
+INDOFARM,Construction Vehicles,"Agricultural, Commercial & Construction Vehicles",Capital Goods,Industrials,588.0
+IIRM,Consulting Services,Commercial Services & Supplies,Services,Services,803.0
+DIXON,Consumer Electronics,Consumer Durables,Consumer Durables,Consumer Discretionary,77276.0
+HAVELLS,Consumer Electronics,Consumer Durables,Consumer Durables,Consumer Discretionary,70789.0
+PGEL,Consumer Electronics,Consumer Durables,Consumer Durables,Consumer Discretionary,15661.0
+IKIO,Consumer Electronics,Consumer Durables,Consumer Durables,Consumer Discretionary,1520.0
+ONIDA,Consumer Electronics,Consumer Durables,Consumer Durables,Consumer Discretionary,969.0
+CELLECOR,Consumer Electronics,Consumer Durables,Consumer Durables,Consumer Discretionary,650.0
+UNIVPHOTO,Consumer Electronics,Consumer Durables,Consumer Durables,Consumer Discretionary,525.0
+ARHAM,Consumer Electronics,Consumer Durables,Consumer Durables,Consumer Discretionary,499.0
+FOCUS,Consumer Electronics,Consumer Durables,Consumer Durables,Consumer Discretionary,383.0
+HINDCOPPER,Copper,Non - Ferrous Metals,Metals & Mining,Commodities,40726.0
+ONIXSOLAR,Copper,Non - Ferrous Metals,Metals & Mining,Commodities,1092.0
+HATSUN,Dairy Products,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,23792.0
+MILKYMIST,Dairy Products,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,22880.0
+KWIL,Dairy Products,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,8994.0
+DODLA,Dairy Products,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,5916.0
+VADILALIND,Dairy Products,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,5110.0
+PARAGMILK,Dairy Products,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,4119.0
+HERITGFOOD,Dairy Products,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,3459.0
+VADILENT,Dairy Products,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,814.0
+SCPL,Dairy Products,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,629.0
+TRACXN,Data Processing Services,Commercial Services & Supplies,Services,Services,308.0
+JKIPL,"Dealers-Commercial Vehicles, Tractors, Construction Vehicles","Agricultural, Commercial & Construction Vehicles",Capital Goods,Industrials,403.0
+CDSL,"Depositories, Clearing Houses and Other Intermediaries",Capital Markets,Financial Services,Financial Services,27826.0
+CAMS,"Depositories, Clearing Houses and Other Intermediaries",Capital Markets,Financial Services,Financial Services,17694.0
+KFINTECH,"Depositories, Clearing Houses and Other Intermediaries",Capital Markets,Financial Services,Financial Services,15835.0
+NAZARA,Digital Entertainment,Entertainment,"Media, Entertainment & Publication",Consumer Discretionary,16837.0
+GODREJIND,Diversified,Diversified,Diversified,Diversified,32198.0
+3MINDIA,Diversified,Diversified,Diversified,Diversified,31071.0
+DCMSHRIRAM,Diversified,Diversified,Diversified,Diversified,14013.0
+BALMLAWRIE,Diversified,Diversified,Diversified,Diversified,2792.0
+TTKHLTCARE,Diversified,Diversified,Diversified,Diversified,1294.0
+EMPIND,Diversified,Diversified,Diversified,Diversified,605.0
+IGIL,Diversified Commercial Services,Commercial Services & Supplies,Services,Services,17606.0
+WEWORK,Diversified Commercial Services,Commercial Services & Supplies,Services,Services,9466.0
+NESCO,Diversified Commercial Services,Commercial Services & Supplies,Services,Services,7359.0
+NDRINVIT,Diversified Commercial Services,Commercial Services & Supplies,Services,Services,6928.0
+IBULLSLTD,Diversified Commercial Services,Commercial Services & Supplies,Services,Services,6901.0
+SMARTWORKS,Diversified Commercial Services,Commercial Services & Supplies,Services,Services,5900.0
+NIRLON,Diversified Commercial Services,Commercial Services & Supplies,Services,Services,5723.0
+LEAPIND,Diversified Commercial Services,Commercial Services & Supplies,Services,Services,5373.0
+INOXGREEN,Diversified Commercial Services,Commercial Services & Supplies,Services,Services,5071.0
+QUESS,Diversified Commercial Services,Commercial Services & Supplies,Services,Services,4782.0
+INDIQUBE,Diversified Commercial Services,Commercial Services & Supplies,Services,Services,3908.0
+CMSINFO,Diversified Commercial Services,Commercial Services & Supplies,Services,Services,3457.0
+SANGHVIMOV,Diversified Commercial Services,Commercial Services & Supplies,Services,Services,3232.0
+HEMIPROP,Diversified Commercial Services,Commercial Services & Supplies,Services,Services,3123.0
+EFCIL,Diversified Commercial Services,Commercial Services & Supplies,Services,Services,2476.0
+TVSINVIT,Diversified Commercial Services,Commercial Services & Supplies,Services,Services,2386.0
+BLUSPRING,Diversified Commercial Services,Commercial Services & Supplies,Services,Services,2335.0
+AWFIS,Diversified Commercial Services,Commercial Services & Supplies,Services,Services,2011.0
+KAPSTON,Diversified Commercial Services,Commercial Services & Supplies,Services,Services,1608.0
+TEXINFRA,Diversified Commercial Services,Commercial Services & Supplies,Services,Services,1604.0
+TEAMLEASE,Diversified Commercial Services,Commercial Services & Supplies,Services,Services,1542.0
+UDS,Diversified Commercial Services,Commercial Services & Supplies,Services,Services,1367.0
+KRYSTAL,Diversified Commercial Services,Commercial Services & Supplies,Services,Services,850.0
+VIESL,Diversified Commercial Services,Commercial Services & Supplies,Services,Services,832.0
+CREDENT,Diversified Commercial Services,Commercial Services & Supplies,Services,Services,710.0
+SOUTHWEST,Diversified Commercial Services,Commercial Services & Supplies,Services,Services,576.0
+ANLON,Diversified Commercial Services,Commercial Services & Supplies,Services,Services,541.0
+PTL,Diversified Commercial Services,Commercial Services & Supplies,Services,Services,521.0
+MAJESAUT,Diversified Commercial Services,Commercial Services & Supplies,Services,Services,400.0
+DEVX,Diversified Commercial Services,Commercial Services & Supplies,Services,Services,397.0
+TARACHAND,Diversified Commercial Services,Commercial Services & Supplies,Services,Services,377.0
+RADIANTCMS,Diversified Commercial Services,Commercial Services & Supplies,Services,Services,356.0
+VOEPL,Diversified consumer products,Consumer Durables,Consumer Durables,Consumer Discretionary,1748.0
+HINDUNILVR,Diversified FMCG,Diversified FMCG,Fast Moving Consumer Goods,Fast Moving Consumer Goods,469542.0
+ITC,Diversified FMCG,Diversified FMCG,Fast Moving Consumer Goods,Fast Moving Consumer Goods,354841.0
+HNDFDS,Diversified FMCG,Diversified FMCG,Fast Moving Consumer Goods,Fast Moving Consumer Goods,6660.0
+GODAVARIB,Diversified FMCG,Diversified FMCG,Fast Moving Consumer Goods,Fast Moving Consumer Goods,1157.0
+DAVANGERE,Diversified FMCG,Diversified FMCG,Fast Moving Consumer Goods,Fast Moving Consumer Goods,337.0
+VEDL,Diversified Metals,Diversified Metals,Metals & Mining,Commodities,102354.0
+JAINREC,Diversified Metals,Diversified Metals,Metals & Mining,Commodities,9887.0
+POCL,Diversified Metals,Diversified Metals,Metals & Mining,Commodities,2991.0
+ARDEE,Diversified Metals,Diversified Metals,Metals & Mining,Commodities,1446.0
+INNOMET,Diversified Metals,Diversified Metals,Metals & Mining,Commodities,436.0
+DMART,Diversified Retail,Retailing,Consumer Services,Consumer Discretionary,223416.0
+VMM,Diversified Retail,Retailing,Consumer Services,Consumer Discretionary,44037.0
+VMART,Diversified Retail,Retailing,Consumer Services,Consumer Discretionary,6041.0
+EMIL,Diversified Retail,Retailing,Consumer Services,Consumer Discretionary,5567.0
+SHOPERSTOP,Diversified Retail,Retailing,Consumer Services,Consumer Discretionary,4032.0
+PATELRMART,Diversified Retail,Retailing,Consumer Services,Consumer Discretionary,839.0
+KORE,Diversified Retail,Retailing,Consumer Services,Consumer Discretionary,370.0
+KMEW,Dredging,Engineering Services,Services,Services,8279.0
+DREDGECORP,Dredging,Engineering Services,Services,Services,2405.0
+SUDARSCHEM,Dyes And Pigments,Chemicals & Petrochemicals,Chemicals,Commodities,8492.0
+KIRIINDUS,Dyes And Pigments,Chemicals & Petrochemicals,Chemicals,Commodities,3260.0
+BODALCHEM,Dyes And Pigments,Chemicals & Petrochemicals,Chemicals,Commodities,1936.0
+SHREEPUSHK,Dyes And Pigments,Chemicals & Petrochemicals,Chemicals,Commodities,1815.0
+BHAGERIA,Dyes And Pigments,Chemicals & Petrochemicals,Chemicals,Commodities,1575.0
+ULTRAMAR,Dyes And Pigments,Chemicals & Petrochemicals,Chemicals,Commodities,1149.0
+SUDARCOLOR,Dyes And Pigments,Chemicals & Petrochemicals,Chemicals,Commodities,851.0
+ASAHISONG,Dyes And Pigments,Chemicals & Petrochemicals,Chemicals,Commodities,432.0
+PWL,E-Learning,Other Consumer Services,Consumer Services,Consumer Discretionary,37813.0
+JARO,E-Learning,Other Consumer Services,Consumer Services,Consumer Discretionary,757.0
+VERANDA,E-Learning,Other Consumer Services,Consumer Services,Consumer Discretionary,323.0
+ETERNAL,E-Retail/ E-Commerce,Retailing,Consumer Services,Consumer Discretionary,350452.0
+MEESHO,E-Retail/ E-Commerce,Retailing,Consumer Services,Consumer Discretionary,108125.0
+NYKAA,E-Retail/ E-Commerce,Retailing,Consumer Services,Consumer Discretionary,101123.0
+SWIGGY,E-Retail/ E-Commerce,Retailing,Consumer Services,Consumer Discretionary,52769.0
+URBANCO,E-Retail/ E-Commerce,Retailing,Consumer Services,Consumer Discretionary,24385.0
+CARTRADE,E-Retail/ E-Commerce,Retailing,Consumer Services,Consumer Discretionary,13126.0
+SHIPROCKET,E-Retail/ E-Commerce,Retailing,Consumer Services,Consumer Discretionary,9098.0
+FIRSTCRY,E-Retail/ E-Commerce,Retailing,Consumer Services,Consumer Discretionary,8333.0
+RENTOMOJO,E-Retail/ E-Commerce,Retailing,Consumer Services,Consumer Discretionary,6032.0
+RTNINDIA,E-Retail/ E-Commerce,Retailing,Consumer Services,Consumer Discretionary,3472.0
+ACEVECTOR,E-Retail/ E-Commerce,Retailing,Consumer Services,Consumer Discretionary,1024.0
+MARICO,Edible Oil,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,116726.0
+PATANJALI,Edible Oil,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,44776.0
+AWL,Edible Oil,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,21705.0
+GOKULAGRO,Edible Oil,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,6622.0
+KNAGRI,Edible Oil,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,497.0
+GOKUL,Edible Oil,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,357.0
+KRITINUT,Edible Oil,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,332.0
+SEIL,Education,Other Consumer Services,Consumer Services,Consumer Discretionary,2868.0
+NIITMTS,Education,Other Consumer Services,Consumer Services,Consumer Discretionary,2337.0
+NIITLTD,Education,Other Consumer Services,Consumer Services,Consumer Discretionary,969.0
+VINSYS,Education,Other Consumer Services,Consumer Services,Consumer Discretionary,913.0
+GLOBAL,Education,Other Consumer Services,Consumer Services,Consumer Discretionary,731.0
+APTECHT,Education,Other Consumer Services,Consumer Services,Consumer Discretionary,477.0
+CPEDU,Education,Other Consumer Services,Consumer Services,Consumer Discretionary,332.0
+GRAPHITE,Electrodes & Refractories,Industrial Products,Capital Goods,Industrials,14196.0
+HEGAM,Electrodes & Refractories,Industrial Products,Capital Goods,Industrials,9692.0
+RPEL,Electrodes & Refractories,Industrial Products,Capital Goods,Industrials,8178.0
+RHIM,Electrodes & Refractories,Industrial Products,Capital Goods,Industrials,7430.0
+VESUVIUS,Electrodes & Refractories,Industrial Products,Capital Goods,Industrials,7396.0
+MONOLITH,Electrodes & Refractories,Industrial Products,Capital Goods,Industrials,2904.0
+IFGLEXPOR,Electrodes & Refractories,Industrial Products,Capital Goods,Industrials,1238.0
+ORIENTCER,Electrodes & Refractories,Industrial Products,Capital Goods,Industrials,457.0
+DENORA,Electrodes & Refractories,Industrial Products,Capital Goods,Industrials,365.0
+QUINT,Electronic Media,Media,"Media, Entertainment & Publication",Consumer Discretionary,342.0
+BSE,Exchange and Data Platform,Capital Markets,Financial Services,Financial Services,154996.0
+MCX,Exchange and Data Platform,Capital Markets,Financial Services,Financial Services,89961.0
+IEX,Exchange and Data Platform,Capital Markets,Financial Services,Financial Services,9764.0
+SOLARINDS,Explosives,Chemicals & Petrochemicals,Chemicals,Commodities,168384.0
+PREMEXPLN,Explosives,Chemicals & Petrochemicals,Chemicals,Commodities,2740.0
+GOCLCORP,Explosives,Chemicals & Petrochemicals,Chemicals,Commodities,1640.0
+IMFA,Ferro & Silica Manganese,Ferrous Metals,Metals & Mining,Commodities,5970.0
+MAITHANALL,Ferro & Silica Manganese,Ferrous Metals,Metals & Mining,Commodities,2396.0
+VISACHROME,Ferro & Silica Manganese,Ferrous Metals,Metals & Mining,Commodities,486.0
+COROMANDEL,Fertilizers,Fertilizers & Agrochemicals,Chemicals,Commodities,53811.0
+FACT,Fertilizers,Fertilizers & Agrochemicals,Chemicals,Commodities,48547.0
+CHAMBLFERT,Fertilizers,Fertilizers & Agrochemicals,Chemicals,Commodities,15413.0
+PARADEEP,Fertilizers,Fertilizers & Agrochemicals,Chemicals,Commodities,14780.0
+MBAPL,Fertilizers,Fertilizers & Agrochemicals,Chemicals,Commodities,8917.0
+KRISHANA,Fertilizers,Fertilizers & Agrochemicals,Chemicals,Commodities,7536.0
+RCF,Fertilizers,Fertilizers & Agrochemicals,Chemicals,Commodities,5579.0
+GSFC,Fertilizers,Fertilizers & Agrochemicals,Chemicals,Commodities,5555.0
+NFL,Fertilizers,Fertilizers & Agrochemicals,Chemicals,Commodities,3042.0
+SPIC,Fertilizers,Fertilizers & Agrochemicals,Chemicals,Commodities,1201.0
+MADRASFERT,Fertilizers,Fertilizers & Agrochemicals,Chemicals,Commodities,893.0
+ZUARI,Fertilizers,Fertilizers & Agrochemicals,Chemicals,Commodities,799.0
+ARIES,Fertilizers,Fertilizers & Agrochemicals,Chemicals,Commodities,657.0
+KHAICHEM,Fertilizers,Fertilizers & Agrochemicals,Chemicals,Commodities,453.0
+RAMAPHO,Fertilizers,Fertilizers & Agrochemicals,Chemicals,Commodities,393.0
+BALAJIPHOS,Fertilizers,Fertilizers & Agrochemicals,Chemicals,Commodities,300.0
+PVRINOX,"Film Production, Distribution & Exhibition",Entertainment,"Media, Entertainment & Publication",Consumer Discretionary,15374.0
+MMWL,"Film Production, Distribution & Exhibition",Entertainment,"Media, Entertainment & Publication",Consumer Discretionary,2193.0
+PANORAMA,"Film Production, Distribution & Exhibition",Entertainment,"Media, Entertainment & Publication",Consumer Discretionary,1634.0
+SUNSHINE,"Film Production, Distribution & Exhibition",Entertainment,"Media, Entertainment & Publication",Consumer Discretionary,1251.0
+CONNPLEX,"Film Production, Distribution & Exhibition",Entertainment,"Media, Entertainment & Publication",Consumer Discretionary,442.0
+CINELINE,"Film Production, Distribution & Exhibition",Entertainment,"Media, Entertainment & Publication",Consumer Discretionary,331.0
+PFC,Financial Institution,Finance,Financial Services,Financial Services,108507.0
+IRFC,Financial Institution,Finance,Financial Services,Financial Services,105110.0
+RECLTD,Financial Institution,Finance,Financial Services,Financial Services,78115.0
+HUDCO,Financial Institution,Finance,Financial Services,Financial Services,32022.0
+IREDA,Financial Institution,Finance,Financial Services,Financial Services,31312.0
+IFCI,Financial Institution,Finance,Financial Services,Financial Services,16519.0
+TFCILTD,Financial Institution,Finance,Financial Services,Financial Services,7431.0
+ANANDRATHI,Financial Products Distributor,Capital Markets,Financial Services,Financial Services,39410.0
+PRUDENT,Financial Products Distributor,Capital Markets,Financial Services,Financial Services,12016.0
+PAYTM,Financial Technology (Fintech),Financial Technology (Fintech),Financial Services,Financial Services,115268.0
+POLICYBZR,Financial Technology (Fintech),Financial Technology (Fintech),Financial Services,Financial Services,44748.0
+PINELABS,Financial Technology (Fintech),Financial Technology (Fintech),Financial Services,Financial Services,18759.0
+MONEYVIEW,Financial Technology (Fintech),Financial Technology (Fintech),Financial Services,Financial Services,9672.0
+MPIMANIPAL,Financial Technology (Fintech),Financial Technology (Fintech),Financial Services,Financial Services,7251.0
+STYL,Financial Technology (Fintech),Financial Technology (Fintech),Financial Services,Financial Services,5189.0
+CCAVENUE,Financial Technology (Fintech),Financial Technology (Fintech),Financial Services,Financial Services,4510.0
+NPST,Financial Technology (Fintech),Financial Technology (Fintech),Financial Services,Financial Services,3706.0
+MOBIKWIK,Financial Technology (Fintech),Financial Technology (Fintech),Financial Services,Financial Services,1777.0
+TURTLEMINT,Financial Technology (Fintech),Financial Technology (Fintech),Financial Services,Financial Services,1658.0
+METROBRAND,Footwear,Consumer Durables,Consumer Durables,Consumer Discretionary,22478.0
+BATAINDIA,Footwear,Consumer Durables,Consumer Durables,Consumer Discretionary,8201.0
+RELAXO,Footwear,Consumer Durables,Consumer Durables,Consumer Discretionary,7272.0
+CAMPUS,Footwear,Consumer Durables,Consumer Durables,Consumer Discretionary,6052.0
+REDTAPE,Footwear,Consumer Durables,Consumer Durables,Consumer Discretionary,5891.0
+SREEL,Footwear,Consumer Durables,Consumer Durables,Consumer Discretionary,631.0
+LIBERTSHOE,Footwear,Consumer Durables,Consumer Durables,Consumer Discretionary,337.0
+SFL,"Furniture, Home Furnishing",Consumer Durables,Consumer Durables,Consumer Discretionary,5794.0
+WAKEFIT,"Furniture, Home Furnishing",Consumer Durables,Consumer Durables,Consumer Discretionary,4574.0
+RESPONIND,"Furniture, Home Furnishing",Consumer Durables,Consumer Durables,Consumer Discretionary,3690.0
+SAFEENTP,"Furniture, Home Furnishing",Consumer Durables,Consumer Durables,Consumer Discretionary,1065.0
+STANLEY,"Furniture, Home Furnishing",Consumer Durables,Consumer Durables,Consumer Discretionary,747.0
+PARIN,"Furniture, Home Furnishing",Consumer Durables,Consumer Durables,Consumer Discretionary,741.0
+HARDWYN,"Furniture, Home Furnishing",Consumer Durables,Consumer Durables,Consumer Discretionary,624.0
+PAGEIND,Garments & Apparels,Textiles & Apparels,Textiles,Consumer Discretionary,40076.0
+ARVIND,Garments & Apparels,Textiles & Apparels,Textiles,Consumer Discretionary,13459.0
+PGIL,Garments & Apparels,Textiles & Apparels,Textiles,Consumer Discretionary,12383.0
+GOKEX,Garments & Apparels,Textiles & Apparels,Textiles,Consumer Discretionary,5005.0
+LUXIND,Garments & Apparels,Textiles & Apparels,Textiles,Consumer Discretionary,3496.0
+SBC,Garments & Apparels,Textiles & Apparels,Textiles,Consumer Discretionary,3271.0
+KITEX,Garments & Apparels,Textiles & Apparels,Textiles,Consumer Discretionary,2674.0
+KKCL,Garments & Apparels,Textiles & Apparels,Textiles,Consumer Discretionary,2571.0
+SPAL,Garments & Apparels,Textiles & Apparels,Textiles,Consumer Discretionary,2155.0
+CANTABIL,Garments & Apparels,Textiles & Apparels,Textiles,Consumer Discretionary,2144.0
+DOLLAR,Garments & Apparels,Textiles & Apparels,Textiles,Consumer Discretionary,1517.0
+IRISDOREME,Garments & Apparels,Textiles & Apparels,Textiles,Consumer Discretionary,1109.0
+MONTECARLO,Garments & Apparels,Textiles & Apparels,Textiles,Consumer Discretionary,1032.0
+RUPA,Garments & Apparels,Textiles & Apparels,Textiles,Consumer Discretionary,976.0
+KARNIKA,Garments & Apparels,Textiles & Apparels,Textiles,Consumer Discretionary,831.0
+VIRAT,Garments & Apparels,Textiles & Apparels,Textiles,Consumer Discretionary,581.0
+PURPLEUTED,Garments & Apparels,Textiles & Apparels,Textiles,Consumer Discretionary,478.0
+THOMASCOTT,Garments & Apparels,Textiles & Apparels,Textiles,Consumer Discretionary,424.0
+VISHAL,Garments & Apparels,Textiles & Apparels,Textiles,Consumer Discretionary,415.0
+FORCAS,Garments & Apparels,Textiles & Apparels,Textiles,Consumer Discretionary,331.0
+GAIL,Gas Transmission/Marketing,Gas,"Oil, Gas & Consumable Fuels",Energy,122159.0
+TITAN,"Gems, Jewellery And Watches",Consumer Durables,Consumer Durables,Consumer Discretionary,443893.0
+KALYANKJIL,"Gems, Jewellery And Watches",Consumer Durables,Consumer Durables,Consumer Discretionary,61010.0
+LALITHAA,"Gems, Jewellery And Watches",Consumer Durables,Consumer Durables,Consumer Discretionary,20905.0
+PCJEWELLER,"Gems, Jewellery And Watches",Consumer Durables,Consumer Durables,Consumer Discretionary,15467.0
+SKYGOLD,"Gems, Jewellery And Watches",Consumer Durables,Consumer Durables,Consumer Discretionary,14743.0
+THANGAMAYL,"Gems, Jewellery And Watches",Consumer Durables,Consumer Durables,Consumer Discretionary,12893.0
+BLUESTONE,"Gems, Jewellery And Watches",Consumer Durables,Consumer Durables,Consumer Discretionary,10867.0
+PNGJL,"Gems, Jewellery And Watches",Consumer Durables,Consumer Durables,Consumer Discretionary,8679.0
+ETHOSLTD,"Gems, Jewellery And Watches",Consumer Durables,Consumer Durables,Consumer Discretionary,7175.0
+TIMEX,"Gems, Jewellery And Watches",Consumer Durables,Consumer Durables,Consumer Discretionary,7079.0
+SENCO,"Gems, Jewellery And Watches",Consumer Durables,Consumer Durables,Consumer Discretionary,5254.0
+KDDL,"Gems, Jewellery And Watches",Consumer Durables,Consumer Durables,Consumer Discretionary,4894.0
+GOLDIAM,"Gems, Jewellery And Watches",Consumer Durables,Consumer Durables,Consumer Discretionary,4767.0
+DPABHUSHAN,"Gems, Jewellery And Watches",Consumer Durables,Consumer Durables,Consumer Discretionary,4417.0
+TBZ,"Gems, Jewellery And Watches",Consumer Durables,Consumer Durables,Consumer Discretionary,3955.0
+SHRINGARMS,"Gems, Jewellery And Watches",Consumer Durables,Consumer Durables,Consumer Discretionary,2984.0
+VAIBHAVGBL,"Gems, Jewellery And Watches",Consumer Durables,Consumer Durables,Consumer Discretionary,2706.0
+SHANTIGOLD,"Gems, Jewellery And Watches",Consumer Durables,Consumer Durables,Consumer Discretionary,2088.0
+DEEPA,"Gems, Jewellery And Watches",Consumer Durables,Consumer Durables,Consumer Discretionary,2063.0
+UTSSAV,"Gems, Jewellery And Watches",Consumer Durables,Consumer Durables,Consumer Discretionary,2023.0
+PNGSREVA,"Gems, Jewellery And Watches",Consumer Durables,Consumer Durables,Consumer Discretionary,1912.0
+KHAZANCHI,"Gems, Jewellery And Watches",Consumer Durables,Consumer Durables,Consumer Discretionary,1759.0
+MOTISONS,"Gems, Jewellery And Watches",Consumer Durables,Consumer Durables,Consumer Discretionary,1651.0
+RGL,"Gems, Jewellery And Watches",Consumer Durables,Consumer Durables,Consumer Discretionary,1566.0
+RAMBHAJO,"Gems, Jewellery And Watches",Consumer Durables,Consumer Durables,Consumer Discretionary,1482.0
+RAJESHEXPO,"Gems, Jewellery And Watches",Consumer Durables,Consumer Durables,Consumer Discretionary,1477.0
+SHANKESH,"Gems, Jewellery And Watches",Consumer Durables,Consumer Durables,Consumer Discretionary,1346.0
+LGHL,"Gems, Jewellery And Watches",Consumer Durables,Consumer Durables,Consumer Discretionary,1270.0
+ASTAR,"Gems, Jewellery And Watches",Consumer Durables,Consumer Durables,Consumer Discretionary,1059.0
+MKJEWELS,"Gems, Jewellery And Watches",Consumer Durables,Consumer Durables,Consumer Discretionary,890.0
+MVGJL,"Gems, Jewellery And Watches",Consumer Durables,Consumer Durables,Consumer Discretionary,850.0
+UDAYJEW,"Gems, Jewellery And Watches",Consumer Durables,Consumer Durables,Consumer Discretionary,746.0
+RADHIKAJWE,"Gems, Jewellery And Watches",Consumer Durables,Consumer Durables,Consumer Discretionary,728.0
+RBZJEWEL,"Gems, Jewellery And Watches",Consumer Durables,Consumer Durables,Consumer Discretionary,681.0
+GJL,"Gems, Jewellery And Watches",Consumer Durables,Consumer Durables,Consumer Discretionary,677.0
+FOCE,"Gems, Jewellery And Watches",Consumer Durables,Consumer Durables,Consumer Discretionary,675.0
+KDGREEN,"Gems, Jewellery And Watches",Consumer Durables,Consumer Durables,Consumer Discretionary,477.0
+PRIORITY,"Gems, Jewellery And Watches",Consumer Durables,Consumer Durables,Consumer Discretionary,476.0
+NITYAS,"Gems, Jewellery And Watches",Consumer Durables,Consumer Durables,Consumer Discretionary,382.0
+DIVINEHIRA,"Gems, Jewellery And Watches",Consumer Durables,Consumer Durables,Consumer Discretionary,376.0
+ICICIGI,General Insurance,Insurance,Financial Services,Financial Services,82407.0
+GICRE,General Insurance,Insurance,Financial Services,Financial Services,60053.0
+STARHEALTH,General Insurance,Insurance,Financial Services,Financial Services,33243.0
+NIACL,General Insurance,Insurance,Financial Services,Financial Services,25928.0
+GODIGIT,General Insurance,Insurance,Financial Services,Financial Services,23045.0
+NIVABUPA,General Insurance,Insurance,Financial Services,Financial Services,14080.0
+LAOPALA,Glass - Consumer,Consumer Durables,Consumer Durables,Consumer Discretionary,1648.0
+BORORENEW,Glass - Industrial,Industrial Products,Capital Goods,Industrials,5934.0
+SEJALLTD,Glass - Industrial,Industrial Products,Capital Goods,Industrials,1003.0
+BOROSCI,Glass - Industrial,Industrial Products,Capital Goods,Industrials,990.0
+AGARWALTUF,Glass - Industrial,Industrial Products,Capital Goods,Industrials,332.0
+MIDWESTLTD,Granites & Marbles,Consumer Durables,Consumer Durables,Consumer Discretionary,3550.0
+POKARNA,Granites & Marbles,Consumer Durables,Consumer Durables,Consumer Discretionary,2299.0
+SYNGENE,"Healthcare Research, Analytics & Technology",Healthcare Services,Healthcare,Healthcare,16845.0
+INDGN,"Healthcare Research, Analytics & Technology",Healthcare Services,Healthcare,Healthcare,14695.0
+SUVEN,"Healthcare Research, Analytics & Technology",Healthcare Services,Healthcare,Healthcare,7484.0
+VIMTALABS,"Healthcare Research, Analytics & Technology",Healthcare Services,Healthcare,Healthcare,2219.0
+FABTECH,"Healthcare Research, Analytics & Technology",Healthcare Services,Healthcare,Healthcare,587.0
+LALPATHLAB,Healthcare Service Provider,Healthcare Services,Healthcare,Healthcare,33066.0
+VIJAYA,Healthcare Service Provider,Healthcare Services,Healthcare,Healthcare,15126.0
+METROPOLIS,Healthcare Service Provider,Healthcare Services,Healthcare,Healthcare,11803.0
+THYROCARE,Healthcare Service Provider,Healthcare Services,Healthcare,Healthcare,7848.0
+NEPHROPLUS,Healthcare Service Provider,Healthcare Services,Healthcare,Healthcare,6051.0
+SURAKSHA,Healthcare Service Provider,Healthcare Services,Healthcare,Healthcare,1737.0
+KRSNAA,Healthcare Service Provider,Healthcare Services,Healthcare,Healthcare,1541.0
+3BBLACKBIO,Healthcare Service Provider,Healthcare Services,Healthcare,Healthcare,1102.0
+HEALTHX,Healthcare Service Provider,Healthcare Services,Healthcare,Healthcare,867.0
+GAUDIUMIVF,Healthcare Service Provider,Healthcare Services,Healthcare,Healthcare,758.0
+ONEGLOBAL,Healthcare Service Provider,Healthcare Services,Healthcare,Healthcare,714.0
+CHANDAN,Healthcare Service Provider,Healthcare Services,Healthcare,Healthcare,573.0
+BHEL,Heavy Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,145829.0
+ABB,Heavy Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,143547.0
+SIEMENS,Heavy Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,126779.0
+POWERINDIA,Heavy Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,123911.0
+CGPOWER,Heavy Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,121785.0
+GVT&D,Heavy Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,102881.0
+ENRIN,Heavy Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,100034.0
+SUZLON,Heavy Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,52909.0
+THERMAX,Heavy Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,32724.0
+SCHNEIDER,Heavy Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,25426.0
+TDPOWERSYS,Heavy Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,18532.0
+TRITURBINE,Heavy Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,15665.0
+AZAD,Heavy Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,15646.0
+KARAMTARA,Heavy Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,12091.0
+ATLANTAELE,Heavy Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,11243.0
+INOXWIND,Heavy Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,11199.0
+QPOWER,Heavy Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,10560.0
+VOLTAMP,Heavy Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,9845.0
+ELECON,Heavy Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,9401.0
+TARIL,Heavy Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,9202.0
+KANOHAR,Heavy Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,7858.0
+SKIPPER,Heavy Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,6325.0
+POWERICA,Heavy Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,5943.0
+TRANSRAILL,Heavy Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,5923.0
+GVPIL,Heavy Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,4032.0
+BBL,Heavy Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,2816.0
+INDOTECH,Heavy Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,2768.0
+MARSONS,Heavy Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,2635.0
+EXICOM,Heavy Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,1906.0
+BAJEL,Heavy Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,1892.0
+DANISH,Heavy Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,1857.0
+JYOTISTRUC,Heavy Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,1183.0
+SWELECTES,Heavy Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,923.0
+ANAWIL,Heavy Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,919.0
+WAAREEINDO,Heavy Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,852.0
+NEUEON,Heavy Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,564.0
+APS,Heavy Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,453.0
+AVANA,Heavy Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,322.0
+BAJAJFINSV,Holding Company,Finance,Financial Services,Financial Services,298736.0
+BAJAJHLDNG,Holding Company,Finance,Financial Services,Financial Services,122909.0
+CHOICEIN,Holding Company,Finance,Financial Services,Financial Services,16668.0
+EDELWEISS,Holding Company,Finance,Financial Services,Financial Services,12065.0
+JMFINANCIL,Holding Company,Finance,Financial Services,Financial Services,10663.0
+KAMAHOLD,Holding Company,Finance,Financial Services,Financial Services,6899.0
+RANEHOLDIN,Holding Company,Finance,Financial Services,Financial Services,2128.0
+BFINVEST,Holding Company,Finance,Financial Services,Financial Services,1529.0
+BLIL,Holding Company,Finance,Financial Services,Financial Services,1449.0
+AFSL,Holding Company,Finance,Financial Services,Financial Services,1034.0
+MAXIND,Holding Company,Finance,Financial Services,Financial Services,832.0
+GFLLIMITED,Holding Company,Finance,Financial Services,Financial Services,562.0
+TAMBOLIIN,Holding Company,Finance,Financial Services,Financial Services,306.0
+APOLLOHOSP,Hospital,Healthcare Services,Healthcare,Healthcare,121441.0
+MAXHEALTH,Hospital,Healthcare Services,Healthcare,Healthcare,90909.0
+MANIPALHOS,Hospital,Healthcare Services,Healthcare,Healthcare,85065.0
+ASTERDM,Hospital,Healthcare Services,Healthcare,Healthcare,62163.0
+FORTIS,Hospital,Healthcare Services,Healthcare,Healthcare,57898.0
+NH,Hospital,Healthcare Services,Healthcare,Healthcare,38890.0
+MEDANTA,Hospital,Healthcare Services,Healthcare,Healthcare,37309.0
+KIMS,Hospital,Healthcare Services,Healthcare,Healthcare,30366.0
+AGARWALEYE,Hospital,Healthcare Services,Healthcare,Healthcare,16371.0
+RAINBOW,Hospital,Healthcare Services,Healthcare,Healthcare,12639.0
+PARKHOSPS,Hospital,Healthcare Services,Healthcare,Healthcare,10858.0
+YATHARTH,Hospital,Healthcare Services,Healthcare,Healthcare,9895.0
+JLHL,Hospital,Healthcare Services,Healthcare,Healthcare,9428.0
+HCG,Hospital,Healthcare Services,Healthcare,Healthcare,8962.0
+PARASHLTH,Hospital,Healthcare Services,Healthcare,Healthcare,7948.0
+KOVAI,Hospital,Healthcare Services,Healthcare,Healthcare,6508.0
+ARTEMISMED,Hospital,Healthcare Services,Healthcare,Healthcare,4846.0
+INDRAMEDCO,Hospital,Healthcare Services,Healthcare,Healthcare,3027.0
+KMCSHIL,Hospital,Healthcare Services,Healthcare,Healthcare,2670.0
+DRAGARWQ,Hospital,Healthcare Services,Healthcare,Healthcare,2600.0
+SHALBY,Hospital,Healthcare Services,Healthcare,Healthcare,1285.0
+GKSL,Hospital,Healthcare Services,Healthcare,Healthcare,1229.0
+GPTHEALTH,Hospital,Healthcare Services,Healthcare,Healthcare,1181.0
+UNIHEALTH,Hospital,Healthcare Services,Healthcare,Healthcare,942.0
+MOMSBELIEF,Hospital,Healthcare Services,Healthcare,Healthcare,514.0
+INDHOTEL,Hotels & Resorts,Leisure Services,Consumer Services,Consumer Discretionary,126401.0
+ITCHOTELS,Hotels & Resorts,Leisure Services,Consumer Services,Consumer Discretionary,36333.0
+THELEELA,Hotels & Resorts,Leisure Services,Consumer Services,Consumer Discretionary,23120.0
+EIHOTEL,Hotels & Resorts,Leisure Services,Consumer Services,Consumer Discretionary,19577.0
+CHALET,Hotels & Resorts,Leisure Services,Consumer Services,Consumer Discretionary,17754.0
+VENTIVE,Hotels & Resorts,Leisure Services,Consumer Services,Consumer Discretionary,12624.0
+LEMONTREE,Hotels & Resorts,Leisure Services,Consumer Services,Consumer Discretionary,9300.0
+ITDC,Hotels & Resorts,Leisure Services,Consumer Services,Consumer Discretionary,5409.0
+JUNIPER,Hotels & Resorts,Leisure Services,Consumer Services,Consumer Discretionary,4629.0
+MHRIL,Hotels & Resorts,Leisure Services,Consumer Services,Consumer Discretionary,3998.0
+SAMHI,Hotels & Resorts,Leisure Services,Consumer Services,Consumer Discretionary,3744.0
+ORIENTHOT,Hotels & Resorts,Leisure Services,Consumer Services,Consumer Discretionary,3131.0
+PARKHOTELS,Hotels & Resorts,Leisure Services,Consumer Services,Consumer Discretionary,2218.0
+TAJGVK,Hotels & Resorts,Leisure Services,Consumer Services,Consumer Discretionary,2045.0
+BRIGHOTEL,Hotels & Resorts,Leisure Services,Consumer Services,Consumer Discretionary,2033.0
+EIHAHOTELS,Hotels & Resorts,Leisure Services,Consumer Services,Consumer Discretionary,1731.0
+ASIANHOTNR,Hotels & Resorts,Leisure Services,Consumer Services,Consumer Discretionary,1326.0
+BENARAS,Hotels & Resorts,Leisure Services,Consumer Services,Consumer Discretionary,1324.0
+VHLTD,Hotels & Resorts,Leisure Services,Consumer Services,Consumer Discretionary,1108.0
+MCCHRLS-B,Hotels & Resorts,Leisure Services,Consumer Services,Consumer Discretionary,872.0
+UPHOT,Hotels & Resorts,Leisure Services,Consumer Services,Consumer Discretionary,810.0
+ROHLTD,Hotels & Resorts,Leisure Services,Consumer Services,Consumer Discretionary,792.0
+KAMATHOTEL,Hotels & Resorts,Leisure Services,Consumer Services,Consumer Discretionary,648.0
+ADVENTHTL,Hotels & Resorts,Leisure Services,Consumer Services,Consumer Discretionary,640.0
+AHLWEST,Hotels & Resorts,Leisure Services,Consumer Services,Consumer Discretionary,584.0
+PRAVEG,Hotels & Resorts,Leisure Services,Consumer Services,Consumer Discretionary,536.0
+SAYAJIHOTL,Hotels & Resorts,Leisure Services,Consumer Services,Consumer Discretionary,526.0
+ADVANIHOTR,Hotels & Resorts,Leisure Services,Consumer Services,Consumer Discretionary,417.0
+SINCLAIR,Hotels & Resorts,Leisure Services,Consumer Services,Consumer Discretionary,386.0
+HLVLTD,Hotels & Resorts,Leisure Services,Consumer Services,Consumer Discretionary,373.0
+LGEINDIA,Household Appliances,Consumer Durables,Consumer Durables,Consumer Discretionary,119063.0
+VOLTAS,Household Appliances,Consumer Durables,Consumer Durables,Consumer Discretionary,36364.0
+BLUESTARCO,Household Appliances,Consumer Durables,Consumer Durables,Consumer Discretionary,32384.0
+AMBER,Household Appliances,Consumer Durables,Consumer Durables,Consumer Discretionary,22582.0
+CROMPTON,Household Appliances,Consumer Durables,Consumer Durables,Consumer Discretionary,13887.0
+VGUARD,Household Appliances,Consumer Durables,Consumer Durables,Consumer Discretionary,12774.0
+WHIRLPOOL,Household Appliances,Consumer Durables,Consumer Durables,Consumer Discretionary,10488.0
+TTKPRESTIG,Household Appliances,Consumer Durables,Consumer Durables,Consumer Discretionary,8338.0
+EUREKAFORB,Household Appliances,Consumer Durables,Consumer Durables,Consumer Discretionary,7096.0
+BOSCH-HCIL,Household Appliances,Consumer Durables,Consumer Durables,Consumer Discretionary,4599.0
+IFBIND,Household Appliances,Consumer Durables,Consumer Durables,Consumer Discretionary,4465.0
+ORIENTELEC,Household Appliances,Consumer Durables,Consumer Durables,Consumer Discretionary,4259.0
+SYMPHONY,Household Appliances,Consumer Durables,Consumer Durables,Consumer Discretionary,3518.0
+BAJAJELEC,Household Appliances,Consumer Durables,Consumer Durables,Consumer Discretionary,3185.0
+CARYSIL,Household Appliances,Consumer Durables,Consumer Durables,Consumer Discretionary,2691.0
+STOVEKRAFT,Household Appliances,Consumer Durables,Consumer Durables,Consumer Discretionary,2637.0
+EPACK,Household Appliances,Consumer Durables,Consumer Durables,Consumer Discretionary,1493.0
+BUTTERFLY,Household Appliances,Consumer Durables,Consumer Durables,Consumer Discretionary,1046.0
+WEL,Household Appliances,Consumer Durables,Consumer Durables,Consumer Discretionary,1012.0
+SINGERIND,Household Appliances,Consumer Durables,Consumer Durables,Consumer Discretionary,542.0
+ELIN,Household Appliances,Consumer Durables,Consumer Durables,Consumer Discretionary,375.0
+JYOTHYLAB,Household Products,Household Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,7297.0
+EVEREADY,Household Products,Household Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,2206.0
+CELLO,Houseware,Consumer Durables,Consumer Durables,Consumer Discretionary,8204.0
+HAWKINCOOK,Houseware,Consumer Durables,Consumer Durables,Consumer Discretionary,4241.0
+BOROLTD,Houseware,Consumer Durables,Consumer Durables,Consumer Discretionary,3805.0
+ALLTIME,Houseware,Consumer Durables,Consumer Durables,Consumer Discretionary,1298.0
+CLAYCRAFT,Houseware,Consumer Durables,Consumer Durables,Consumer Discretionary,323.0
+BAJAJHFL,Housing Finance Company,Finance,Financial Services,Financial Services,66659.0
+PIRAMALFIN,Housing Finance Company,Finance,Financial Services,Financial Services,51155.0
+LICHSGFIN,Housing Finance Company,Finance,Financial Services,Financial Services,29483.0
+PNBHOUSING,Housing Finance Company,Finance,Financial Services,Financial Services,28694.0
+AADHARHFC,Housing Finance Company,Finance,Financial Services,Financial Services,18836.0
+SAMMAANCAP,Housing Finance Company,Finance,Financial Services,Financial Services,16513.0
+HOMEFIRST,Housing Finance Company,Finance,Financial Services,Financial Services,11408.0
+CANFINHOME,Housing Finance Company,Finance,Financial Services,Financial Services,9973.0
+AAVAS,Housing Finance Company,Finance,Financial Services,Financial Services,9021.0
+APTUS,Housing Finance Company,Finance,Financial Services,Financial Services,8759.0
+INDIASHLTR,Housing Finance Company,Finance,Financial Services,Financial Services,6821.0
+REPCOHOME,Housing Finance Company,Finance,Financial Services,Financial Services,2072.0
+GICHSGFIN,Housing Finance Company,Finance,Financial Services,Financial Services,680.0
+LINDEINDIA,Industrial Gases,Chemicals & Petrochemicals,Chemicals,Commodities,58494.0
+ELLEN,Industrial Gases,Chemicals & Petrochemicals,Chemicals,Commodities,4089.0
+STEAMHOUSE,Industrial Gases,Chemicals & Petrochemicals,Chemicals,Commodities,3645.0
+STALLION,Industrial Gases,Chemicals & Petrochemicals,Chemicals,Commodities,2324.0
+LLOYDSME,Industrial Minerals,Minerals & Mining,Metals & Mining,Commodities,100532.0
+NMDC,Industrial Minerals,Minerals & Mining,Metals & Mining,Commodities,61894.0
+GMDCLTD,Industrial Minerals,Minerals & Mining,Metals & Mining,Commodities,14746.0
+GRAVITA,Industrial Minerals,Minerals & Mining,Metals & Mining,Commodities,11026.0
+MOIL,Industrial Minerals,Minerals & Mining,Metals & Mining,Commodities,4389.0
+ASHAPURMIN,Industrial Minerals,Minerals & Mining,Metals & Mining,Commodities,3977.0
+ORISSAMINE,Industrial Minerals,Minerals & Mining,Metals & Mining,Commodities,2030.0
+PCCL,Industrial Minerals,Minerals & Mining,Metals & Mining,Commodities,998.0
+20MICRONS,Industrial Minerals,Minerals & Mining,Metals & Mining,Commodities,647.0
+NILE,Industrial Minerals,Minerals & Mining,Metals & Mining,Commodities,396.0
+GOACARBON,Industrial Minerals,Minerals & Mining,Metals & Mining,Commodities,359.0
+INDOMIM,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,60302.0
+CPPLUS,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,50682.0
+SYRMA,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,28140.0
+ZETWERK,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,27937.0
+HONAUT,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,26591.0
+JYOTICNC,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,23195.0
+KAYNES,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,21733.0
+LMW,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,18201.0
+LLOYDSENGG,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,12891.0
+TEGA,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,12771.0
+BONFIG,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,12597.0
+DYNAMATECH,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,8708.0
+KENNAMET,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,7881.0
+SPECTRUM,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,7542.0
+SETL,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,7520.0
+OMNI,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,7472.0
+RAYMOND,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,7220.0
+MARINE,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,5476.0
+LCL,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,5237.0
+GMMPFAUDLR,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,5015.0
+PRAJIND,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,4597.0
+HDFIRE,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,4574.0
+TEMPSENS,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,4386.0
+DEEDEV,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,4084.0
+AIMTRON,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,3955.0
+SHANTIGEAR,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,3758.0
+WPIL,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,3574.0
+PITTIENG,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,3420.0
+JASH,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,3418.0
+COCKERILL,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,3387.0
+HIRECT,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,3301.0
+WINDMACHIN,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,3051.0
+HLEGLAS,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,2880.0
+ANUP,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,2694.0
+KABRAEXTRU,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,2614.0
+KLBRENG-B,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,2339.0
+MACPOWER,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,2300.0
+PENIND,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,2157.0
+THEJO,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,2077.0
+JNKINDIA,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,2047.0
+HONDAPOWER,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,2028.0
+MVELECTRO,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,2001.0
+EPACKPEB,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,1938.0
+VINYAS,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,1920.0
+HMT,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,1881.0
+HPL,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,1710.0
+DISAQ,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,1636.0
+PRIZOR,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,1604.0
+GALAPREC,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,1494.0
+EIMCOELECO,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,1403.0
+WALCHANNAG,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,1291.0
+ICEMAKE,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,1251.0
+ETL,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,1246.0
+EKC,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,1177.0
+RAJOOENG,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,990.0
+LOKESHMACH,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,804.0
+MAMATA,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,788.0
+SALASAR,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,734.0
+KANORICHEM,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,717.0
+PATILAUTOM,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,716.0
+BAJAJST,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,685.0
+AXTEL,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,626.0
+MAZDA,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,595.0
+TAURIAN,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,579.0
+BAJAJINDEF,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,572.0
+INTLCONV,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,489.0
+GUJAPOLLO,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,458.0
+ADISOFT,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,455.0
+BATLIBOI,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,419.0
+UNIDT,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,370.0
+BIRLAPREC,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,363.0
+SPECTRAA,Industrial Products,Industrial Manufacturing,Capital Goods,Industrials,311.0
+MEDIASSIST,Insurance Distributors,Insurance,Financial Services,Financial Services,2114.0
+ADANIPOWER,Integrated Power Utilities,Power,Power,Utilities,393967.0
+TATAPOWER,Integrated Power Utilities,Power,Power,Utilities,112636.0
+TORNTPOWER,Integrated Power Utilities,Power,Power,Utilities,64051.0
+CESC,Integrated Power Utilities,Power,Power,Utilities,16735.0
+RELINFRA,Integrated Power Utilities,Power,Power,Utilities,2089.0
+DPSCLTD,Integrated Power Utilities,Power,Power,Utilities,628.0
+NAUKRI,Internet & Catalogue Retail,Retailing,Consumer Services,Consumer Discretionary,77285.0
+INDIAMART,Internet & Catalogue Retail,Retailing,Consumer Services,Consumer Discretionary,9305.0
+JUSTDIAL,Internet & Catalogue Retail,Retailing,Consumer Services,Consumer Discretionary,5763.0
+CRIZAC,Internet & Catalogue Retail,Retailing,Consumer Services,Consumer Discretionary,2750.0
+MATRIMONY,Internet & Catalogue Retail,Retailing,Consumer Services,Consumer Discretionary,1135.0
+TCC,Internet & Catalogue Retail,Retailing,Consumer Services,Consumer Discretionary,952.0
+JIOFIN,Investment Company,Finance,Financial Services,Financial Services,158445.0
+ABCAPITAL,Investment Company,Finance,Financial Services,Financial Services,109198.0
+TATAINVEST,Investment Company,Finance,Financial Services,Financial Services,28951.0
+CHOLAHLDNG,Investment Company,Finance,Financial Services,Financial Services,27314.0
+TVSHLTD,Investment Company,Finance,Financial Services,Financial Services,26265.0
+MAHSCOOTER,Investment Company,Finance,Financial Services,Financial Services,13783.0
+JSWHL,Investment Company,Finance,Financial Services,Financial Services,12159.0
+TSFINV,Investment Company,Finance,Financial Services,Financial Services,8996.0
+RELIGARE,Investment Company,Finance,Financial Services,Financial Services,8048.0
+PILANIINVS,Investment Company,Finance,Financial Services,Financial Services,4400.0
+NSIL,Investment Company,Finance,Financial Services,Financial Services,2510.0
+ELCIDIN,Investment Company,Finance,Financial Services,Financial Services,2000.0
+KICL,Investment Company,Finance,Financial Services,Financial Services,1897.0
+SCILAL,Investment Company,Finance,Financial Services,Financial Services,1680.0
+PNBGILTS,Investment Company,Finance,Financial Services,Financial Services,1454.0
+SUMMITSEC,Investment Company,Finance,Financial Services,Financial Services,1445.0
+JINDALPHOT,Investment Company,Finance,Financial Services,Financial Services,1134.0
+VHL,Investment Company,Finance,Financial Services,Financial Services,1085.0
+INDPRUD,Investment Company,Finance,Financial Services,Financial Services,1041.0
+GKWLIMITED,Investment Company,Finance,Financial Services,Financial Services,1014.0
+JPOLYINVST,Investment Company,Finance,Financial Services,Financial Services,965.0
+STEL,Investment Company,Finance,Financial Services,Financial Services,961.0
+HEXATRADEX,Investment Company,Finance,Financial Services,Financial Services,852.0
+WELINV,Investment Company,Finance,Financial Services,Financial Services,764.0
+BLAL,Investment Company,Finance,Financial Services,Financial Services,687.0
+VLSFINANCE,Investment Company,Finance,Financial Services,Financial Services,669.0
+OSWALGREEN,Investment Company,Finance,Financial Services,Financial Services,485.0
+SILINV,Investment Company,Finance,Financial Services,Financial Services,457.0
+NAHARCAP,Investment Company,Finance,Financial Services,Financial Services,378.0
+JSWSTEEL,Iron & Steel,Ferrous Metals,Metals & Mining,Commodities,331873.0
+TATASTEEL,Iron & Steel,Ferrous Metals,Metals & Mining,Commodities,232568.0
+JINDALSTEL,Iron & Steel,Ferrous Metals,Metals & Mining,Commodities,118840.0
+SAIL,Iron & Steel,Ferrous Metals,Metals & Mining,Commodities,70880.0
+JSL,Iron & Steel,Ferrous Metals,Metals & Mining,Commodities,57610.0
+SARDAEN,Iron & Steel,Ferrous Metals,Metals & Mining,Commodities,15367.0
+NSLNISP,Iron & Steel,Ferrous Metals,Metals & Mining,Commodities,11605.0
+VISL,Iron & Steel,Ferrous Metals,Metals & Mining,Commodities,10484.0
+SANDUMA,Iron & Steel,Ferrous Metals,Metals & Mining,Commodities,8640.0
+JAIBALAJI,Iron & Steel,Ferrous Metals,Metals & Mining,Commodities,6139.0
+PRAKASH,Iron & Steel,Ferrous Metals,Metals & Mining,Commodities,2032.0
+MANAKSTEEL,Iron & Steel,Ferrous Metals,Metals & Mining,Commodities,762.0
+APLAPOLLO,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,60677.0
+WELCORP,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,58163.0
+SHYAMMETL,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,36304.0
+RATNAMANI,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,17214.0
+JINDALSAW,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,16052.0
+USHAMART,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,14548.0
+GPIL,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,14073.0
+GALLANTT,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,12894.0
+JAYNECOIND,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,8685.0
+MAHSEAMLES,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,7652.0
+SUNFLAG,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,6885.0
+AEROFLEX,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,6388.0
+TIIL,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,6182.0
+MANINDS,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,5984.0
+SBCL,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,5747.0
+GOODLUCK,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,5390.0
+BANSALWIRE,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,4878.0
+SAMBHV,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,4815.0
+SURYAROSNI,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,4717.0
+ELECTCAST,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,4253.0
+VENUSPIPES,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,3952.0
+KSL,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,3700.0
+KIRLOSIND,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,3593.0
+VSSL,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,3506.0
+RATNAVEER,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,3070.0
+AONESTEELS,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,3055.0
+WELSPLSOL,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,2970.0
+JTLIND,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,2886.0
+MAHASTEEL,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,2398.0
+MUKANDLTD,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,2153.0
+BLEL,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,1919.0
+MSPL,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,1719.0
+MANAKCOAT,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,1697.0
+HITECH,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,1576.0
+STEELXIND,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,1463.0
+RSL,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,1394.0
+AEROENTER,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,1354.0
+HARIOMPIPE,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,1133.0
+TEMBO,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,1055.0
+RHETAN,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,1038.0
+KAMDHENU,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,1029.0
+BHARATWIRE,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,1024.0
+GANDHITUBE,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,1013.0
+ELECTHERM,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,853.0
+JSIPL,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,811.0
+GERMAN,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,809.0
+BEEKAY,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,781.0
+SCODATUBES,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,677.0
+RAMASTEEL,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,663.0
+PANCHMAHQ,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,576.0
+MANAKSIA,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,391.0
+AZADIND,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,389.0
+SURAJLTD,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,363.0
+BEDMUTHA,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,355.0
+PSRAJ,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,339.0
+METALIC,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,324.0
+KRISHCA,Iron & Steel Products,Industrial Products,Capital Goods,Industrials,305.0
+LTTS,IT Enabled Services,IT - Services,Information Technology,Information Technology,45193.0
+IKS,IT Enabled Services,IT - Services,Information Technology,Information Technology,28446.0
+TATATECH,IT Enabled Services,IT - Services,Information Technology,Information Technology,27029.0
+AFFLE,IT Enabled Services,IT - Services,Information Technology,Information Technology,22736.0
+NETWEB,IT Enabled Services,IT - Services,Information Technology,Information Technology,22420.0
+SAGILITY,IT Enabled Services,IT - Services,Information Technology,Information Technology,20345.0
+BBOX,IT Enabled Services,IT - Services,Information Technology,Information Technology,14402.0
+ESDS,IT Enabled Services,IT - Services,Information Technology,Information Technology,13075.0
+AMAGI,IT Enabled Services,IT - Services,Information Technology,Information Technology,12509.0
+CYIENT,IT Enabled Services,IT - Services,Information Technology,Information Technology,12320.0
+E2E,IT Enabled Services,IT - Services,Information Technology,Information Technology,10012.0
+DATAMATICS,IT Enabled Services,IT - Services,Information Technology,Information Technology,4291.0
+RSYSTEMS,IT Enabled Services,IT - Services,Information Technology,Information Technology,3176.0
+EMUDHRA,IT Enabled Services,IT - Services,Information Technology,Information Technology,3060.0
+BLSE,IT Enabled Services,IT - Services,Information Technology,Information Technology,2722.0
+PROTEAN,IT Enabled Services,IT - Services,Information Technology,Information Technology,2704.0
+SASKEN,IT Enabled Services,IT - Services,Information Technology,Information Technology,2475.0
+ZAGGLE,IT Enabled Services,IT - Services,Information Technology,Information Technology,2222.0
+BCG,IT Enabled Services,IT - Services,Information Technology,Information Technology,1699.0
+AURUM,IT Enabled Services,IT - Services,Information Technology,Information Technology,1515.0
+XTRANET,IT Enabled Services,IT - Services,Information Technology,Information Technology,1384.0
+DSSL,IT Enabled Services,IT - Services,Information Technology,Information Technology,1299.0
+EXPLEOSOL,IT Enabled Services,IT - Services,Information Technology,Information Technology,1289.0
+GENESYS,IT Enabled Services,IT - Services,Information Technology,Information Technology,1235.0
+IVALUE,IT Enabled Services,IT - Services,Information Technology,Information Technology,1210.0
+IZMO,IT Enabled Services,IT - Services,Information Technology,Information Technology,1162.0
+PANACHE,IT Enabled Services,IT - Services,Information Technology,Information Technology,1099.0
+SAHANA,IT Enabled Services,IT - Services,Information Technology,Information Technology,1043.0
+DIGITIDE,IT Enabled Services,IT - Services,Information Technology,Information Technology,903.0
+ORIENTTECH,IT Enabled Services,IT - Services,Information Technology,Information Technology,894.0
+ARMEE,IT Enabled Services,IT - Services,Information Technology,Information Technology,894.0
+EXCELSOFT,IT Enabled Services,IT - Services,Information Technology,Information Technology,852.0
+ONWARDTEC,IT Enabled Services,IT - Services,Information Technology,Information Technology,839.0
+SRIT,IT Enabled Services,IT - Services,Information Technology,Information Technology,792.0
+KELLTONTEC,IT Enabled Services,IT - Services,Information Technology,Information Technology,621.0
+VAKRANGEE,IT Enabled Services,IT - Services,Information Technology,Information Technology,621.0
+ADSL,IT Enabled Services,IT - Services,Information Technology,Information Technology,598.0
+ACSTECH,IT Enabled Services,IT - Services,Information Technology,Information Technology,520.0
+OPTIVALUE,IT Enabled Services,IT - Services,Information Technology,Information Technology,479.0
+SIGMA,IT Enabled Services,IT - Services,Information Technology,Information Technology,425.0
+TECHD,IT Enabled Services,IT - Services,Information Technology,Information Technology,413.0
+DIGISPICE,IT Enabled Services,IT - Services,Information Technology,Information Technology,381.0
+INSPIRISYS,IT Enabled Services,IT - Services,Information Technology,Information Technology,380.0
+TERASOFT,IT Enabled Services,IT - Services,Information Technology,Information Technology,325.0
+BMISL,IT Enabled Services,IT - Services,Information Technology,Information Technology,312.0
+CHEVIOT,Jute & Jute Products,"Paper, Forest & Jute Products",Forest Materials,Commodities,642.0
+GLOSTERLTD,Jute & Jute Products,"Paper, Forest & Jute Products",Forest Materials,Commodities,579.0
+MAYURUNIQ,Leather And Leather Products,Consumer Durables,Consumer Durables,Consumer Discretionary,3239.0
+BIL,Leather And Leather Products,Consumer Durables,Consumer Durables,Consumer Discretionary,1436.0
+KOTIC,Leather And Leather Products,Consumer Durables,Consumer Durables,Consumer Discretionary,1401.0
+MIRZAINT,Leather And Leather Products,Consumer Durables,Consumer Durables,Consumer Discretionary,376.0
+LICI,Life Insurance,Insurance,Financial Services,Financial Services,498410.0
+SBILIFE,Life Insurance,Insurance,Financial Services,Financial Services,179008.0
+HDFCLIFE,Life Insurance,Insurance,Financial Services,Financial Services,122816.0
+ICICILIFE,Life Insurance,Insurance,Financial Services,Financial Services,63695.0
+MFSL,Life Insurance,Insurance,Financial Services,Financial Services,44327.0
+CANHLIFE,Life Insurance,Insurance,Financial Services,Financial Services,11595.0
+CONCOR,Logistics Solution Provider,Transport Services,Services,Services,33496.0
+DELHIVERY,Logistics Solution Provider,Transport Services,Services,Services,32080.0
+SHADOWFAX,Logistics Solution Provider,Transport Services,Services,Services,16920.0
+BLUEDART,Logistics Solution Provider,Transport Services,Services,Services,10777.0
+TCI,Logistics Solution Provider,Transport Services,Services,Services,6485.0
+VRLLOG,Logistics Solution Provider,Transport Services,Services,Services,5931.0
+TVSSCS,Logistics Solution Provider,Transport Services,Services,Services,5174.0
+MAHLOG,Logistics Solution Provider,Transport Services,Services,Services,4181.0
+GATEWAY,Logistics Solution Provider,Transport Services,Services,Services,2347.0
+TCIEXP,Logistics Solution Provider,Transport Services,Services,Services,1877.0
+SKYWAYS,Logistics Solution Provider,Transport Services,Services,Services,1541.0
+ALLCARGO,Logistics Solution Provider,Transport Services,Services,Services,1475.0
+NAVKARCORP,Logistics Solution Provider,Transport Services,Services,Services,1259.0
+AGL,Logistics Solution Provider,Transport Services,Services,Services,1120.0
+RIIL,Logistics Solution Provider,Transport Services,Services,Services,1058.0
+WCIL,Logistics Solution Provider,Transport Services,Services,Services,942.0
+TEJASCARGO,Logistics Solution Provider,Transport Services,Services,Services,922.0
+SVLL,Logistics Solution Provider,Transport Services,Services,Services,886.0
+RITCO,Logistics Solution Provider,Transport Services,Services,Services,787.0
+SICALLOG,Logistics Solution Provider,Transport Services,Services,Services,609.0
+TREL,Logistics Solution Provider,Transport Services,Services,Services,596.0
+SJLOGISTIC,Logistics Solution Provider,Transport Services,Services,Services,588.0
+SNOWMAN,Logistics Solution Provider,Transport Services,Services,Services,568.0
+BLUEWATER,Logistics Solution Provider,Transport Services,Services,Services,564.0
+GLOTTIS,Logistics Solution Provider,Transport Services,Services,Services,542.0
+COMMITTED,Logistics Solution Provider,Transport Services,Services,Services,526.0
+IWARE,Logistics Solution Provider,Transport Services,Services,Services,456.0
+LANCER,Logistics Solution Provider,Transport Services,Services,Services,407.0
+OMFREIGHT,Logistics Solution Provider,Transport Services,Services,Services,386.0
+OLIL,Logistics Solution Provider,Transport Services,Services,Services,333.0
+GICL,Logistics Solution Provider,Transport Services,Services,Services,321.0
+AVG,Logistics Solution Provider,Transport Services,Services,Services,301.0
+ATGL,LPG/CNG/PNG/LNG Supplier,Gas,"Oil, Gas & Consumable Fuels",Energy,63283.0
+PETRONET,LPG/CNG/PNG/LNG Supplier,Gas,"Oil, Gas & Consumable Fuels",Energy,47550.0
+GUJENERGY,LPG/CNG/PNG/LNG Supplier,Gas,"Oil, Gas & Consumable Fuels",Energy,20283.0
+IGL,LPG/CNG/PNG/LNG Supplier,Gas,"Oil, Gas & Consumable Fuels",Energy,19876.0
+MGL,LPG/CNG/PNG/LNG Supplier,Gas,"Oil, Gas & Consumable Fuels",Energy,11158.0
+GSPLTRANS,LPG/CNG/PNG/LNG Supplier,Gas,"Oil, Gas & Consumable Fuels",Energy,3338.0
+CONFIPET,LPG/CNG/PNG/LNG Supplier,Gas,"Oil, Gas & Consumable Fuels",Energy,1999.0
+IRMENERGY,LPG/CNG/PNG/LNG Supplier,Gas,"Oil, Gas & Consumable Fuels",Energy,989.0
+CASTROLIND,Lubricants,Petroleum Products,"Oil, Gas & Consumable Fuels",Energy,18922.0
+GULFOILLUB,Lubricants,Petroleum Products,"Oil, Gas & Consumable Fuels",Energy,5411.0
+SOTL,Lubricants,Petroleum Products,"Oil, Gas & Consumable Fuels",Energy,4641.0
+PANAMAPET,Lubricants,Petroleum Products,"Oil, Gas & Consumable Fuels",Energy,2651.0
+GANDHAR,Lubricants,Petroleum Products,"Oil, Gas & Consumable Fuels",Energy,2462.0
+VEEDOL,Lubricants,Petroleum Products,"Oil, Gas & Consumable Fuels",Energy,2392.0
+GULFPETRO,Lubricants,Petroleum Products,"Oil, Gas & Consumable Fuels",Energy,320.0
+VENKEYS,Meat Products including Poultry,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,2237.0
+HMAAGRO,Meat Products including Poultry,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,1356.0
+SKMEGGPROD,Meat Products including Poultry,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,1243.0
+PFOCUS,Media & Entertainment,Entertainment,"Media, Entertainment & Publication",Consumer Discretionary,22211.0
+SAREGAMA,Media & Entertainment,Entertainment,"Media, Entertainment & Publication",Consumer Discretionary,11947.0
+TIPSMUSIC,Media & Entertainment,Entertainment,"Media, Entertainment & Publication",Consumer Discretionary,9782.0
+NETWORK18,Media & Entertainment,Entertainment,"Media, Entertainment & Publication",Consumer Discretionary,4137.0
+BALAJITELE,Media & Entertainment,Entertainment,"Media, Entertainment & Publication",Consumer Discretionary,1054.0
+BASILIC,Media & Entertainment,Entertainment,"Media, Entertainment & Publication",Consumer Discretionary,403.0
+ENIL,Media & Entertainment,Entertainment,"Media, Entertainment & Publication",Consumer Discretionary,384.0
+GRETEX,Media & Entertainment,Entertainment,"Media, Entertainment & Publication",Consumer Discretionary,329.0
+OPTIMYSTIX,Media & Entertainment,Entertainment,"Media, Entertainment & Publication",Consumer Discretionary,304.0
+POLYMED,Medical Equipment & Supplies,Healthcare Equipment & Supplies,Healthcare,Healthcare,16343.0
+MOLBIO,Medical Equipment & Supplies,Healthcare Equipment & Supplies,Healthcare,Healthcare,15434.0
+SMT,Medical Equipment & Supplies,Healthcare Equipment & Supplies,Healthcare,Healthcare,5346.0
+FISCHER,Medical Equipment & Supplies,Healthcare Equipment & Supplies,Healthcare,Healthcare,1698.0
+TARSONS,Medical Equipment & Supplies,Healthcare Equipment & Supplies,Healthcare,Healthcare,1686.0
+QLINE,Medical Equipment & Supplies,Healthcare Equipment & Supplies,Healthcare,Healthcare,1194.0
+LAXMIDENTL,Medical Equipment & Supplies,Healthcare Equipment & Supplies,Healthcare,Healthcare,1081.0
+DENTALKART,Medical Equipment & Supplies,Healthcare Equipment & Supplies,Healthcare,Healthcare,782.0
+OSELDEVICE,Medical Equipment & Supplies,Healthcare Equipment & Supplies,Healthcare,Healthcare,658.0
+QMSMEDI,Medical Equipment & Supplies,Healthcare Equipment & Supplies,Healthcare,Healthcare,326.0
+CREDITACC,Microfinance Institutions,Finance,Financial Services,Financial Services,17390.0
+SATIN,Microfinance Institutions,Finance,Financial Services,Financial Services,2900.0
+MUTHOOTMF,Microfinance Institutions,Finance,Financial Services,Financial Services,2624.0
+FUSION,Microfinance Institutions,Finance,Financial Services,Financial Services,2502.0
+SPANDANA,Microfinance Institutions,Finance,Financial Services,Financial Services,1924.0
+BAJFINANCE,Non Banking Financial Company (NBFC),Finance,Financial Services,Financial Services,677228.0
+SHRIRAMFIN,Non Banking Financial Company (NBFC),Finance,Financial Services,Financial Services,226167.0
+CHOLAFIN,Non Banking Financial Company (NBFC),Finance,Financial Services,Financial Services,153066.0
+TATACAP,Non Banking Financial Company (NBFC),Finance,Financial Services,Financial Services,151988.0
+MUTHOOTFIN,Non Banking Financial Company (NBFC),Finance,Financial Services,Financial Services,115181.0
+LTF,Non Banking Financial Company (NBFC),Finance,Financial Services,Financial Services,69554.0
+SBICARD,Non Banking Financial Company (NBFC),Finance,Financial Services,Financial Services,55671.0
+AIIL,Non Banking Financial Company (NBFC),Finance,Financial Services,Financial Services,48410.0
+SUNDARMFIN,Non Banking Financial Company (NBFC),Finance,Financial Services,Financial Services,46827.0
+HDBFS,Non Banking Financial Company (NBFC),Finance,Financial Services,Financial Services,44433.0
+POONAWALLA,Non Banking Financial Company (NBFC),Finance,Financial Services,Financial Services,41732.0
+M&MFIN,Non Banking Financial Company (NBFC),Finance,Financial Services,Financial Services,38905.0
+MANAPPURAM,Non Banking Financial Company (NBFC),Finance,Financial Services,Financial Services,30566.0
+IIFL,Non Banking Financial Company (NBFC),Finance,Financial Services,Financial Services,26720.0
+CGCL,Non Banking Financial Company (NBFC),Finance,Financial Services,Financial Services,23064.0
+FIVESTAR,Non Banking Financial Company (NBFC),Finance,Financial Services,Financial Services,12555.0
+SBFC,Non Banking Financial Company (NBFC),Finance,Financial Services,Financial Services,10230.0
+PAISALO,Non Banking Financial Company (NBFC),Finance,Financial Services,Financial Services,7096.0
+BENGALASM,Non Banking Financial Company (NBFC),Finance,Financial Services,Financial Services,6498.0
+FEDFINA,Non Banking Financial Company (NBFC),Finance,Financial Services,Financial Services,5865.0
+MASFIN,Non Banking Financial Company (NBFC),Finance,Financial Services,Financial Services,4817.0
+NORTHARC,Non Banking Financial Company (NBFC),Finance,Financial Services,Financial Services,4604.0
+SGFIN,Non Banking Financial Company (NBFC),Finance,Financial Services,Financial Services,4593.0
+AYE,Non Banking Financial Company (NBFC),Finance,Financial Services,Financial Services,3631.0
+INDOSTAR,Non Banking Financial Company (NBFC),Finance,Financial Services,Financial Services,3106.0
+MUFIN,Non Banking Financial Company (NBFC),Finance,Financial Services,Financial Services,2804.0
+ASHIKAG,Non Banking Financial Company (NBFC),Finance,Financial Services,Financial Services,2738.0
+ARMANFIN,Non Banking Financial Company (NBFC),Finance,Financial Services,Financial Services,1688.0
+GRANDOAK,Non Banking Financial Company (NBFC),Finance,Financial Services,Financial Services,1626.0
+PFS,Non Banking Financial Company (NBFC),Finance,Financial Services,Financial Services,1619.0
+FEDDERSHOL,Non Banking Financial Company (NBFC),Finance,Financial Services,Financial Services,1266.0
+AKCAPIT,Non Banking Financial Company (NBFC),Finance,Financial Services,Financial Services,1170.0
+UGROCAP,Non Banking Financial Company (NBFC),Finance,Financial Services,Financial Services,1112.0
+CREST,Non Banking Financial Company (NBFC),Finance,Financial Services,Financial Services,1060.0
+CONSOFINVT,Non Banking Financial Company (NBFC),Finance,Financial Services,Financial Services,1055.0
+ZSARACOM,Non Banking Financial Company (NBFC),Finance,Financial Services,Financial Services,1052.0
+FINKURVE,Non Banking Financial Company (NBFC),Finance,Financial Services,Financial Services,953.0
+ARYAMAN,Non Banking Financial Company (NBFC),Finance,Financial Services,Financial Services,845.0
+MANBA,Non Banking Financial Company (NBFC),Finance,Financial Services,Financial Services,718.0
+YOGI,Non Banking Financial Company (NBFC),Finance,Financial Services,Financial Services,703.0
+CIFL,Non Banking Financial Company (NBFC),Finance,Financial Services,Financial Services,700.0
+UYFINCORP,Non Banking Financial Company (NBFC),Finance,Financial Services,Financial Services,577.0
+DHUNINV,Non Banking Financial Company (NBFC),Finance,Financial Services,Financial Services,547.0
+KIRANVYPAR,Non Banking Financial Company (NBFC),Finance,Financial Services,Financial Services,545.0
+LAXMIINDIA,Non Banking Financial Company (NBFC),Finance,Financial Services,Financial Services,535.0
+NBIFIN,Non Banking Financial Company (NBFC),Finance,Financial Services,Financial Services,526.0
+CSLFINANCE,Non Banking Financial Company (NBFC),Finance,Financial Services,Financial Services,516.0
+MANCREDIT,Non Banking Financial Company (NBFC),Finance,Financial Services,Financial Services,509.0
+AVONMORE,Non Banking Financial Company (NBFC),Finance,Financial Services,Financial Services,339.0
+MUTHOOTCAP,Non Banking Financial Company (NBFC),Finance,Financial Services,Financial Services,321.0
+VIJIFIN,Non Banking Financial Company (NBFC),Finance,Financial Services,Financial Services,313.0
+AFIL,Non Banking Financial Company (NBFC),Finance,Financial Services,Financial Services,313.0
+DOLPHIN,Offshore Support Solution Drilling,Oil,"Oil, Gas & Consumable Fuels",Energy,2548.0
+JINDRILL,Offshore Support Solution Drilling,Oil,"Oil, Gas & Consumable Fuels",Energy,1493.0
+DEEPINDS,Oil Equipment & Services,Oil,"Oil, Gas & Consumable Fuels",Energy,4107.0
+ASIANENE,Oil Equipment & Services,Oil,"Oil, Gas & Consumable Fuels",Energy,1970.0
+OILCOUNTUB,Oil Equipment & Services,Oil,"Oil, Gas & Consumable Fuels",Energy,354.0
+ONGC,Oil Exploration & Production,Oil,"Oil, Gas & Consumable Fuels",Energy,291561.0
+OIL,Oil Exploration & Production,Oil,"Oil, Gas & Consumable Fuels",Energy,72205.0
+VOGL,Oil Exploration & Production,Oil,"Oil, Gas & Consumable Fuels",Energy,12021.0
+ANTELOPUS,Oil Exploration & Production,Oil,"Oil, Gas & Consumable Fuels",Energy,3140.0
+PRABHA,Oil Exploration & Production,Oil,"Oil, Gas & Consumable Fuels",Energy,3104.0
+HINDOILEXP,Oil Exploration & Production,Oil,"Oil, Gas & Consumable Fuels",Energy,2008.0
+GNRL,Oil Exploration & Production,Oil,"Oil, Gas & Consumable Fuels",Energy,1660.0
+AEGISVOPAK,Oil Storage & Transportation,Oil,"Oil, Gas & Consumable Fuels",Energy,27312.0
+GANESHBE,Oil Storage & Transportation,Oil,"Oil, Gas & Consumable Fuels",Energy,648.0
+LTFOODS,Other Agricultural Products,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,14595.0
+KRBL,Other Agricultural Products,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,9340.0
+GAEL,Other Agricultural Products,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,6893.0
+KSCL,Other Agricultural Products,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,3522.0
+TRUALT,Other Agricultural Products,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,3029.0
+AEROPLANE,Other Agricultural Products,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,2472.0
+GRMOVER,Other Agricultural Products,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,1920.0
+SANSTAR,Other Agricultural Products,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,1883.0
+AVTNPL,Other Agricultural Products,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,1518.0
+CLSEL,Other Agricultural Products,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,1448.0
+GULPOLY,Other Agricultural Products,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,994.0
+BSHSL,Other Agricultural Products,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,953.0
+REGAAL,Other Agricultural Products,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,915.0
+MGEL,Other Agricultural Products,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,599.0
+SHETHJI,Other Agricultural Products,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,492.0
+SHEETAL,Other Agricultural Products,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,476.0
+SUKHJITS,Other Agricultural Products,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,453.0
+SARVESHWAR,Other Agricultural Products,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,444.0
+MODINATUR,Other Agricultural Products,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,418.0
+HALDER,Other Agricultural Products,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,367.0
+AUBANK,Other Bank,Banks,Financial Services,Financial Services,70050.0
+UJJIVANSFB,Other Bank,Banks,Financial Services,Financial Services,11569.0
+EQUITASBNK,Other Bank,Banks,Financial Services,Financial Services,6257.0
+JSFB,Other Bank,Banks,Financial Services,Financial Services,4310.0
+ESAFSFB,Other Bank,Banks,Financial Services,Financial Services,2170.0
+UTKARSHBNK,Other Bank,Banks,Financial Services,Financial Services,2087.0
+SURYODAY,Other Bank,Banks,Financial Services,Financial Services,1549.0
+CAPITALSFB,Other Bank,Banks,Financial Services,Financial Services,1232.0
+FINOPB,Other Bank,Banks,Financial Services,Financial Services,1020.0
+VBL,Other Beverages,Beverages,Fast Moving Consumer Goods,Fast Moving Consumer Goods,148153.0
+GCSL,Other Capital Market related Services,Capital Markets,Financial Services,Financial Services,1966.0
+RAMCOIND,Other Construction Materials,Other Construction Materials,Construction Materials,Commodities,2731.0
+GLASSWALL,Other Construction Materials,Other Construction Materials,Construction Materials,Commodities,2160.0
+ARIS,Other Construction Materials,Other Construction Materials,Construction Materials,Commodities,1214.0
+BIRLANU,Other Construction Materials,Other Construction Materials,Construction Materials,Commodities,943.0
+EVERESTIND,Other Construction Materials,Other Construction Materials,Construction Materials,Commodities,708.0
+TEAMTECH,Other Construction Materials,Other Construction Materials,Construction Materials,Commodities,508.0
+VISHNUINFR,Other Construction Materials,Other Construction Materials,Construction Materials,Commodities,393.0
+SAHYADRI,Other Construction Materials,Other Construction Materials,Construction Materials,Commodities,356.0
+SIS,Other Consumer Services,Other Consumer Services,Consumer Services,Consumer Discretionary,5301.0
+WAAREEENER,Other Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,70129.0
+APARINDS,Other Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,59069.0
+PREMIERENE,Other Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,40402.0
+DIACABS,Other Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,22168.0
+EMMVEE,Other Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,17399.0
+MTARTECH,Other Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,16759.0
+AVALON,Other Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,12668.0
+UTLSOLAR,Other Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,10811.0
+GENUSPOWER,Other Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,8724.0
+WAAREERTL,Other Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,7655.0
+VIKRAMSOLR,Other Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,5160.0
+RAMRAT,Other Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,4800.0
+SAATVIKGL,Other Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,4558.0
+SHILCTECH,Other Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,4042.0
+WEBELSOLAR,Other Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,3121.0
+RELTD,Other Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,2759.0
+RISHABH,Other Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,2426.0
+ORIANA,Other Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,2416.0
+ADVAIT,Other Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,2002.0
+ALPEXSOLAR,Other Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,1814.0
+SERVOTECH,Other Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,1515.0
+RIR,Other Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,1175.0
+MODISONLTD,Other Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,1154.0
+VIVIDEL,Other Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,949.0
+PERMAGN,Other Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,927.0
+SALZERELEC,Other Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,842.0
+PROSTARM,Other Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,805.0
+KECL,Other Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,779.0
+SAAKSHI,Other Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,732.0
+PARTH,Other Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,712.0
+SOLEX,Other Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,709.0
+MEIL,Other Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,705.0
+SUPREMEPWR,Other Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,684.0
+URJA,Other Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,485.0
+GPECO,Other Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,454.0
+GGBL,Other Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,441.0
+SPELS,Other Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,425.0
+AEPL,Other Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,367.0
+S&SPOWER,Other Electrical Equipment,Electrical Equipment,Capital Goods,Industrials,365.0
+CRISIL,Other Financial Services,Finance,Financial Services,Financial Services,32144.0
+KISSHT,Other Financial Services,Finance,Financial Services,Financial Services,7067.0
+ARCIL,Other Financial Services,Finance,Financial Services,Financial Services,3971.0
+ALGOQUANT,Other Financial Services,Finance,Financial Services,Financial Services,2312.0
+GYFTR,Other Financial Services,Finance,Financial Services,Financial Services,1620.0
+PRIMESECU,Other Financial Services,Finance,Financial Services,Financial Services,1031.0
+CENTRUM,Other Financial Services,Finance,Financial Services,Financial Services,947.0
+WEALTH,Other Financial Services,Finance,Financial Services,Financial Services,900.0
+RNFI,Other Financial Services,Finance,Financial Services,Financial Services,791.0
+AKIKO,Other Financial Services,Finance,Financial Services,Financial Services,481.0
+THEINVEST,Other Financial Services,Finance,Financial Services,Financial Services,457.0
+NDLVENTURE,Other Financial Services,Finance,Financial Services,Financial Services,374.0
+MANORAMA,Other Food Products,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,12358.0
+EIDPARRY,Other Food Products,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,11462.0
+ORKLAINDIA,Other Food Products,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,7785.0
+KRISHIVAL,Other Food Products,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,1019.0
+FRESHARA,Other Food Products,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,955.0
+SHRIAHIMSA,Other Food Products,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,945.0
+PROV,Other Food Products,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,685.0
+MADHUSUDAN,Other Food Products,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,424.0
+HOACFOODS,Other Food Products,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,412.0
+MEGASTAR,Other Food Products,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,339.0
+HBLENGINE,Other Industrial Products,Industrial Products,Capital Goods,Industrials,23264.0
+INOXINDIA,Other Industrial Products,Industrial Products,Capital Goods,Industrials,17013.0
+ESABINDIA,Other Industrial Products,Industrial Products,Capital Goods,Industrials,7703.0
+KRN,Other Industrial Products,Industrial Products,Capital Goods,Industrials,6152.0
+HARSHA,Other Industrial Products,Industrial Products,Capital Goods,Industrials,4162.0
+SUBROS,Other Industrial Products,Industrial Products,Capital Goods,Industrials,3935.0
+ADOR,Other Industrial Products,Industrial Products,Capital Goods,Industrials,2461.0
+DIFFNKG,Other Industrial Products,Industrial Products,Capital Goods,Industrials,1570.0
+MICEL,Other Industrial Products,Industrial Products,Capital Goods,Industrials,1134.0
+SAHASRA,Other Industrial Products,Industrial Products,Capital Goods,Industrials,1035.0
+TANKUP,Other Industrial Products,Industrial Products,Capital Goods,Industrials,951.0
+VILAS,Other Industrial Products,Industrial Products,Capital Goods,Industrials,829.0
+ORIRAIL,Other Industrial Products,Industrial Products,Capital Goods,Industrials,773.0
+HTEL,Other Industrial Products,Industrial Products,Capital Goods,Industrials,719.0
+MALLCOM,Other Industrial Products,Industrial Products,Capital Goods,Industrials,561.0
+MEGATHERM,Other Industrial Products,Industrial Products,Capital Goods,Industrials,439.0
+CGRAPHICS,Other Industrial Products,Industrial Products,Capital Goods,Industrials,384.0
+UHTL,Other Industrial Products,Industrial Products,Capital Goods,Industrials,315.0
+RAILTEL,Other Telecom Services,Telecom - Services,Telecommunication,Telecommunication,7736.0
+ROUTE,Other Telecom Services,Telecom - Services,Telecommunication,Telecommunication,2845.0
+STLNETWORK,Other Telecom Services,Telecom - Services,Telecommunication,Telecommunication,1920.0
+KPRMILL,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,39801.0
+WELSPUNLIV,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,22797.0
+VTL,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,14734.0
+TRIDENT,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,12169.0
+ICIL,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,9702.0
+GARFIBRES,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,6988.0
+KUSUMGAR,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,5799.0
+SANATHAN,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,4677.0
+ALOKINDS,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,4181.0
+FILATEX,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,4031.0
+JINDWORLD,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,3766.0
+NITINSPIN,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,3686.0
+RAYMONDLSL,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,3233.0
+SANGAMIND,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,2923.0
+SPORTKING,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,2469.0
+GANECOS,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,2344.0
+SIYSIL,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,2265.0
+BOMDYEING,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,2154.0
+INDORAMA,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,1999.0
+PASHUPATI,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,1711.0
+RUBYMILLS,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,1585.0
+AYMSYNTEX,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,1534.0
+FAZE3Q,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,1353.0
+GHCLTEXTIL,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,1222.0
+UNITEDPOLY,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,1200.0
+RAJRILTD,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,1173.0
+SUNRAKSHAK,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,1120.0
+SWARAJ,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,995.0
+CENTENKA,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,968.0
+RSWM,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,915.0
+NAHARSPING,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,895.0
+AMBIKCO,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,869.0
+MAFATIND,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,785.0
+PRECOT,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,775.0
+SUMEETINDS,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,742.0
+HIMATSEIDE,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,731.0
+SARLAPOLY,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,711.0
+RAJPALAYAM,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,681.0
+ORBTEXP,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,614.0
+VOITHPAPR,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,607.0
+SONA,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,597.0
+DCMSIL,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,567.0
+BORANA,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,560.0
+SUTLEJTEX,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,559.0
+LAKSHMIMIL,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,558.0
+NAHARINDUS,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,520.0
+MANOMAY,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,447.0
+VTMLTD,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,422.0
+DONEAR,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,417.0
+NDL,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,360.0
+ABCIND,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,355.0
+SHREEKARNI,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,342.0
+GINNIFILA,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,342.0
+BANSWRAS,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,338.0
+SHREEDHAR,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,334.0
+VARDHACRLC,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,325.0
+DCMNVL,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,322.0
+LEMERITE,Other Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,300.0
+NESTLEIND,Packaged Foods,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,247229.0
+BRITANNIA,Packaged Foods,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,115255.0
+ZYDUSWELL,Packaged Foods,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,14909.0
+BIKAJI,Packaged Foods,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,11944.0
+BBTC,Packaged Foods,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,8961.0
+BECTORFOOD,Packaged Foods,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,6448.0
+GOPAL,Packaged Foods,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,3062.0
+ADFFOODS,Packaged Foods,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,2642.0
+TASTYBITE,Packaged Foods,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,2548.0
+DIAMONDYD,Packaged Foods,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,2470.0
+SUNDROP,Packaged Foods,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,2365.0
+GANESHCP,Packaged Foods,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,758.0
+HEXAGON,Packaged Foods,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,725.0
+LOTUSCHO,Packaged Foods,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,661.0
+EIFFL,Packaged Foods,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,565.0
+FOODSIN,Packaged Foods,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,321.0
+EPL,Packaging,Industrial Products,Capital Goods,Industrials,7101.0
+AGI,Packaging,Industrial Products,Capital Goods,Industrials,4177.0
+UFLEX,Packaging,Industrial Products,Capital Goods,Industrials,4154.0
+TCPLPACK,Packaging,Industrial Products,Capital Goods,Industrials,4032.0
+JINDALPOLY,Packaging,Industrial Products,Capital Goods,Industrials,3054.0
+POLYPLEX,Packaging,Industrial Products,Capital Goods,Industrials,2744.0
+XPROINDIA,Packaging,Industrial Products,Capital Goods,Industrials,2580.0
+KNACK,Packaging,Industrial Products,Capital Goods,Industrials,2444.0
+MOLDTKPAC,Packaging,Industrial Products,Capital Goods,Industrials,2261.0
+COSMOFIRST,Packaging,Industrial Products,Capital Goods,Industrials,2116.0
+HUHTAMAKI,Packaging,Industrial Products,Capital Goods,Industrials,1603.0
+ARROWGREEN,Packaging,Industrial Products,Capital Goods,Industrials,1091.0
+COMSYN,Packaging,Industrial Products,Capital Goods,Industrials,1033.0
+DVL,Packaging,Industrial Products,Capital Goods,Industrials,1015.0
+ESTER,Packaging,Industrial Products,Capital Goods,Industrials,964.0
+ORICONENT,Packaging,Industrial Products,Capital Goods,Industrials,870.0
+HITECHCORP,Packaging,Industrial Products,Capital Goods,Industrials,706.0
+HALDYNGL,Packaging,Industrial Products,Capital Goods,Industrials,687.0
+SHREERAMA,Packaging,Industrial Products,Capital Goods,Industrials,641.0
+SHRJAGP,Packaging,Industrial Products,Capital Goods,Industrials,634.0
+KANPRPLA,Packaging,Industrial Products,Capital Goods,Industrials,609.0
+NAHARPOLY,Packaging,Industrial Products,Capital Goods,Industrials,574.0
+PYRAMID,Packaging,Industrial Products,Capital Goods,Industrials,543.0
+TPLPLASTEH,Packaging,Industrial Products,Capital Goods,Industrials,529.0
+BBTCL,Packaging,Industrial Products,Capital Goods,Industrials,444.0
+ECOLINE,Packaging,Industrial Products,Capital Goods,Industrials,369.0
+ASIANPAINT,Paints,Consumer Durables,Consumer Durables,Consumer Discretionary,244212.0
+BERGEPAINT,Paints,Consumer Durables,Consumer Durables,Consumer Discretionary,55776.0
+KANSAINER,Paints,Consumer Durables,Consumer Durables,Consumer Discretionary,15855.0
+JSWDULUX,Paints,Consumer Durables,Consumer Durables,Consumer Discretionary,12392.0
+INDIGOPNTS,Paints,Consumer Durables,Consumer Durables,Consumer Discretionary,4364.0
+SIRCA,Paints,Consumer Durables,Consumer Durables,Consumer Discretionary,2307.0
+SHALPAINTS,Paints,Consumer Durables,Consumer Durables,Consumer Discretionary,663.0
+JKPAPER,Paper & Paper Products,"Paper, Forest & Jute Products",Forest Materials,Commodities,6673.0
+WSTCSTPAPR,Paper & Paper Products,"Paper, Forest & Jute Products",Forest Materials,Commodities,4875.0
+SESHAPAPER,Paper & Paper Products,"Paper, Forest & Jute Products",Forest Materials,Commodities,1365.0
+ANDHRAPAP,Paper & Paper Products,"Paper, Forest & Jute Products",Forest Materials,Commodities,1223.0
+NRAIL,Paper & Paper Products,"Paper, Forest & Jute Products",Forest Materials,Commodities,1145.0
+TNPL,Paper & Paper Products,"Paper, Forest & Jute Products",Forest Materials,Commodities,943.0
+PDMJEPAPER,Paper & Paper Products,"Paper, Forest & Jute Products",Forest Materials,Commodities,834.0
+EMAMIPAP,Paper & Paper Products,"Paper, Forest & Jute Products",Forest Materials,Commodities,695.0
+SATIA,Paper & Paper Products,"Paper, Forest & Jute Products",Forest Materials,Commodities,662.0
+KUANTUM,Paper & Paper Products,"Paper, Forest & Jute Products",Forest Materials,Commodities,574.0
+RAMANEWS,Paper & Paper Products,"Paper, Forest & Jute Products",Forest Materials,Commodities,386.0
+PAKKA,Paper & Paper Products,"Paper, Forest & Jute Products",Forest Materials,Commodities,365.0
+ORIENTPPR,Paper & Paper Products,"Paper, Forest & Jute Products",Forest Materials,Commodities,324.0
+RUCHIRA,Paper & Paper Products,"Paper, Forest & Jute Products",Forest Materials,Commodities,300.0
+M&M,Passenger Cars & Utility Vehicles,Automobiles,Automobile and Auto Components,Consumer Discretionary,408773.0
+MARUTI,Passenger Cars & Utility Vehicles,Automobiles,Automobile and Auto Components,Consumer Discretionary,400863.0
+HYUNDAI,Passenger Cars & Utility Vehicles,Automobiles,Automobile and Auto Components,Consumer Discretionary,173071.0
+TMPV,Passenger Cars & Utility Vehicles,Automobiles,Automobile and Auto Components,Consumer Discretionary,107543.0
+FORCEMOT,Passenger Cars & Utility Vehicles,Automobiles,Automobile and Auto Components,Consumer Discretionary,24993.0
+OLECTRA,Passenger Cars & Utility Vehicles,Automobiles,Automobile and Auto Components,Consumer Discretionary,8424.0
+MERCURYEV,Passenger Cars & Utility Vehicles,Automobiles,Automobile and Auto Components,Consumer Discretionary,581.0
+GODREJCP,Personal Care,Personal Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,87097.0
+DABUR,Personal Care,Personal Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,67472.0
+COLPAL,Personal Care,Personal Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,45666.0
+CUPID,Personal Care,Personal Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,45571.0
+GILLETTE,Personal Care,Personal Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,24138.0
+PGHH,Personal Care,Personal Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,22664.0
+EMAMILTD,Personal Care,Personal Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,16901.0
+HONASA,Personal Care,Personal Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,15206.0
+BAJAJCON,Personal Care,Personal Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,5182.0
+ANONDITA,Personal Care,Personal Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,1851.0
+UPL,Pesticides & Agrochemicals,Fertilizers & Agrochemicals,Chemicals,Commodities,45140.0
+PIIND,Pesticides & Agrochemicals,Fertilizers & Agrochemicals,Chemicals,Commodities,26323.0
+SUMICHEM,Pesticides & Agrochemicals,Fertilizers & Agrochemicals,Chemicals,Commodities,16419.0
+BAYERCROP,Pesticides & Agrochemicals,Fertilizers & Agrochemicals,Chemicals,Commodities,14904.0
+SHARDACROP,Pesticides & Agrochemicals,Fertilizers & Agrochemicals,Chemicals,Commodities,6186.0
+DHANUKA,Pesticides & Agrochemicals,Fertilizers & Agrochemicals,Chemicals,Commodities,4055.0
+RALLIS,Pesticides & Agrochemicals,Fertilizers & Agrochemicals,Chemicals,Commodities,3684.0
+NACLIND,Pesticides & Agrochemicals,Fertilizers & Agrochemicals,Chemicals,Commodities,2746.0
+BHAGCHEM,Pesticides & Agrochemicals,Fertilizers & Agrochemicals,Chemicals,Commodities,2549.0
+GSPCROP,Pesticides & Agrochemicals,Fertilizers & Agrochemicals,Chemicals,Commodities,1993.0
+BHARATRAS,Pesticides & Agrochemicals,Fertilizers & Agrochemicals,Chemicals,Commodities,1613.0
+INSECTICID,Pesticides & Agrochemicals,Fertilizers & Agrochemicals,Chemicals,Commodities,1586.0
+MOL,Pesticides & Agrochemicals,Fertilizers & Agrochemicals,Chemicals,Commodities,1380.0
+IPL,Pesticides & Agrochemicals,Fertilizers & Agrochemicals,Chemicals,Commodities,1338.0
+ASTEC,Pesticides & Agrochemicals,Fertilizers & Agrochemicals,Chemicals,Commodities,1248.0
+PUNJABCHEM,Pesticides & Agrochemicals,Fertilizers & Agrochemicals,Chemicals,Commodities,1115.0
+DHARMAJ,Pesticides & Agrochemicals,Fertilizers & Agrochemicals,Chemicals,Commodities,823.0
+ADVANCE,Pesticides & Agrochemicals,Fertilizers & Agrochemicals,Chemicals,Commodities,770.0
+HERANBA,Pesticides & Agrochemicals,Fertilizers & Agrochemicals,Chemicals,Commodities,603.0
+SHIVALIK,Pesticides & Agrochemicals,Fertilizers & Agrochemicals,Chemicals,Commodities,511.0
+BESTAGRO,Pesticides & Agrochemicals,Fertilizers & Agrochemicals,Chemicals,Commodities,507.0
+IGCL,Pesticides & Agrochemicals,Fertilizers & Agrochemicals,Chemicals,Commodities,387.0
+SPLPETRO,Petrochemicals,Chemicals & Petrochemicals,Chemicals,Commodities,13030.0
+SWANCORP,Petrochemicals,Chemicals & Petrochemicals,Chemicals,Commodities,7540.0
+RAIN,Petrochemicals,Chemicals & Petrochemicals,Chemicals,Commodities,6101.0
+BEPL,Petrochemicals,Chemicals & Petrochemicals,Chemicals,Commodities,2733.0
+DCW,Petrochemicals,Chemicals & Petrochemicals,Chemicals,Commodities,1403.0
+MANALIPETC,Petrochemicals,Chemicals & Petrochemicals,Chemicals,Commodities,1299.0
+TNPETRO,Petrochemicals,Chemicals & Petrochemicals,Chemicals,Commodities,1013.0
+KOTHARIPET,Petrochemicals,Chemicals & Petrochemicals,Chemicals,Commodities,716.0
+PASUPTAC,Petrochemicals,Chemicals & Petrochemicals,Chemicals,Commodities,636.0
+AGARIND,Petrochemicals,Chemicals & Petrochemicals,Chemicals,Commodities,583.0
+NEPTUNE,Petrochemicals,Chemicals & Petrochemicals,Chemicals,Commodities,412.0
+SUNPHARMA,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,446276.0
+DIVISLAB,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,273977.0
+TORNTPHARM,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,180675.0
+LAURUSLABS,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,126433.0
+ZYDUSLIFE,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,119491.0
+DRREDDY,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,114683.0
+CIPLA,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,113991.0
+MANKIND,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,104913.0
+AUROPHARMA,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,103568.0
+LUPIN,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,90914.0
+GLENMARK,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,73096.0
+ALKEM,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,63334.0
+BIOCON,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,59500.0
+ABBOTINDIA,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,55983.0
+GLAND,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,52297.0
+IPCALAB,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,49264.0
+GLAXO,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,42772.0
+EMCURE,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,41979.0
+AJANTPHARM,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,41333.0
+SAILIFE,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,37929.0
+PPLPHARMA,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,31862.0
+WOCKPHARMA,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,31641.0
+ACUTAAS,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,31001.0
+RUBICON,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,27468.0
+NEULANDLAB,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,25275.0
+GRANULES,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,21813.0
+APLLTD,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,18971.0
+SHILPAMED,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,18431.0
+ONESOURCE,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,18346.0
+ALIVUS,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,18207.0
+CAPLIPOINT,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,18110.0
+PFIZER,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,17640.0
+ERIS,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,17122.0
+COHANCE,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,16588.0
+ASTRAZEN,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,15934.0
+NATCOPHARM,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,15831.0
+JUBLPHARMA,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,14968.0
+CORONA,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,14930.0
+MARKSANS,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,13764.0
+SUDEEPPHRM,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,13309.0
+CONCORDBIO,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,13236.0
+AKUMS,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,11568.0
+BLUEJET,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,10482.0
+VIYASH,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,10143.0
+SYMBIOTEC,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,9726.0
+PGHL,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,9223.0
+STAR,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,9214.0
+AARTIPHARM,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,8425.0
+SANOFICONR,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,7877.0
+SANOFI,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,7561.0
+BLISSGVS,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,6535.0
+FDC,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,6349.0
+SPARC,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,6280.0
+INNOVACAP,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,5843.0
+SUPRIYA,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,5600.0
+IOLCP,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,5380.0
+SENORES,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,5347.0
+ORCHPHARMA,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,5198.0
+MOREPENLAB,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,5055.0
+GUJTHEM,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,4948.0
+SMSPHARMA,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,4669.0
+EVONILE,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,4342.0
+GUFICBIO,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,4316.0
+ZOTA,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,4264.0
+RPGLIFE,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,4224.0
+AARTIDRUGS,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,4077.0
+KPL,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,3782.0
+SHUKRAPHAR,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,3535.0
+UNICHEMLAB,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,3532.0
+SOLARA,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,3075.0
+INDSWFTLAB,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,3028.0
+HIKAL,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,2707.0
+FREDUN,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,2522.0
+DCAL,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,2456.0
+SAKAR,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,2171.0
+PANACEABIO,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,2107.0
+SAIPARENT,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,2060.0
+WINDLAS,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,2052.0
+HESTERBIO,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,2017.0
+BETA,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,2008.0
+INDOCO,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,1985.0
+VENUSREM,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,1935.0
+SYNCOMF,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,1899.0
+NGLFINE,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,1750.0
+AMRUTANJAN,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,1487.0
+ACCENTMIC,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,1466.0
+AHCL,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,1435.0
+JAGSNPHARM,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,1408.0
+FERMENTA,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,1314.0
+BPLPHARMA,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,1297.0
+KOPRAN,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,1265.0
+BAFNAPH,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,1075.0
+SIGACHI,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,1053.0
+BAJAJHCARE,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,1046.0
+LINCOLN,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,1017.0
+REMUS,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,943.0
+THEMISMED,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,933.0
+ANUHPHR,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,817.0
+SGRL,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,803.0
+AMANTA,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,758.0
+ZIMLAB,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,707.0
+WANBURY,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,696.0
+KILITCH,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,683.0
+VALIANTLAB,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,631.0
+INFLUX,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,581.0
+KRMAYURVED,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,485.0
+ALBERTDAVD,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,445.0
+INFINIUM,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,435.0
+HALEOSLABS,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,423.0
+JENBURPH,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,415.0
+MEDICAMEQ,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,388.0
+AAREYDRUGS,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,343.0
+ENTERO,Pharmacy Retail,Retailing,Consumer Services,Consumer Discretionary,8279.0
+MEDPLUS,Pharmacy Retail,Retailing,Consumer Services,Consumer Discretionary,7265.0
+KIRLFER,Pig Iron,Ferrous Metals,Metals & Mining,Commodities,6367.0
+SHAILY,Plastic Products - Consumer,Consumer Durables,Consumer Durables,Consumer Discretionary,14010.0
+SAFARI,Plastic Products - Consumer,Consumer Durables,Consumer Durables,Consumer Discretionary,6146.0
+VIPIND,Plastic Products - Consumer,Consumer Durables,Consumer Durables,Consumer Discretionary,3403.0
+NILKAMAL,Plastic Products - Consumer,Consumer Durables,Consumer Durables,Consumer Discretionary,3000.0
+SUPREMEIND,Plastic Products - Industrial,Industrial Products,Capital Goods,Industrials,40101.0
+ASTRAL,Plastic Products - Industrial,Industrial Products,Capital Goods,Industrials,33678.0
+GRWRHITECH,Plastic Products - Industrial,Industrial Products,Capital Goods,Industrials,17781.0
+FINPIPE,Plastic Products - Industrial,Industrial Products,Capital Goods,Industrials,8808.0
+TIMETECHNO,Plastic Products - Industrial,Industrial Products,Capital Goods,Industrials,8424.0
+KINGFA,Plastic Products - Industrial,Industrial Products,Capital Goods,Industrials,8039.0
+PRINCEPIPE,Plastic Products - Industrial,Industrial Products,Capital Goods,Industrials,3389.0
+APOLLOPIPE,Plastic Products - Industrial,Industrial Products,Capital Goods,Industrials,2296.0
+JISLJALEQS,Plastic Products - Industrial,Industrial Products,Capital Goods,Industrials,2042.0
+JAICORPLTD,Plastic Products - Industrial,Industrial Products,Capital Goods,Industrials,1587.0
+PREMIERPOL,Plastic Products - Industrial,Industrial Products,Capital Goods,Industrials,957.0
+RMDRIP,Plastic Products - Industrial,Industrial Products,Capital Goods,Industrials,818.0
+MANIKA,Plastic Products - Industrial,Industrial Products,Capital Goods,Industrials,564.0
+PPL,Plastic Products - Industrial,Industrial Products,Capital Goods,Industrials,518.0
+DHABRIYA,Plastic Products - Industrial,Industrial Products,Capital Goods,Industrials,514.0
+CPL,Plastic Products - Industrial,Industrial Products,Capital Goods,Industrials,372.0
+TIRUPATI,Plastic Products - Industrial,Industrial Products,Capital Goods,Industrials,303.0
+CENTURYPLY,Plywood Boards/ Laminates,Consumer Durables,Consumer Durables,Consumer Discretionary,14202.0
+STYLAMIND,Plywood Boards/ Laminates,Consumer Durables,Consumer Durables,Consumer Discretionary,5320.0
+GREENLAM,Plywood Boards/ Laminates,Consumer Durables,Consumer Durables,Consumer Discretionary,5197.0
+GREENPLY,Plywood Boards/ Laminates,Consumer Durables,Consumer Durables,Consumer Discretionary,3326.0
+EUROPRATIK,Plywood Boards/ Laminates,Consumer Durables,Consumer Durables,Consumer Discretionary,1875.0
+GREENPANEL,Plywood Boards/ Laminates,Consumer Durables,Consumer Durables,Consumer Discretionary,1746.0
+RUSHIL,Plywood Boards/ Laminates,Consumer Durables,Consumer Durables,Consumer Discretionary,566.0
+ADANIPORTS,Port & Port services,Transport Infrastructure,Services,Services,446185.0
+JSWINFRA,Port & Port services,Transport Infrastructure,Services,Services,78824.0
+GPPL,Port & Port services,Transport Infrastructure,Services,Services,8049.0
+ATL,Port & Port services,Transport Infrastructure,Services,Services,774.0
+POWERGRID,Power - Transmission,Power,Power,Utilities,241723.0
+INDIGRID,Power - Transmission,Power,Power,Utilities,19507.0
+PGINVIT,Power - Transmission,Power,Power,Utilities,9590.0
+TRIVENIPT,Power - Transmission,Power,Power,Utilities,4678.0
+ANZEN,Power - Transmission,Power,Power,Utilities,3373.0
+ADANIENSOL,Power Distribution,Power,Power,Utilities,178233.0
+NTPC,Power Generation,Power,Power,Utilities,313639.0
+ADANIGREEN,Power Generation,Power,Power,Utilities,234574.0
+JSWENERGY,Power Generation,Power,Power,Utilities,96249.0
+NHPC,Power Generation,Power,Power,Utilities,82450.0
+NTPCGREEN,Power Generation,Power,Power,Utilities,69627.0
+NLCINDIA,Power Generation,Power,Power,Utilities,32948.0
+ACMESOLAR,Power Generation,Power,Power,Utilities,27918.0
+SJVN,Power Generation,Power,Power,Utilities,22459.0
+NAVA,Power Generation,Power,Power,Utilities,14993.0
+CLEANMAX,Power Generation,Power,Power,Utilities,14815.0
+JNPR,Power Generation,Power,Power,Utilities,14556.0
+VEDPOWER,Power Generation,Power,Power,Utilities,13815.0
+JPPOWER,Power Generation,Power,Power,Utilities,9499.0
+RPOWER,Power Generation,Power,Power,Utilities,7622.0
+GMRP&UI,Power Generation,Power,Power,Utilities,7202.0
+KPIGREEN,Power Generation,Power,Power,Utilities,5819.0
+SEITINVIT,Power Generation,Power,Power,Utilities,3963.0
+RTNPOWER,Power Generation,Power,Power,Utilities,3566.0
+GIPCL,Power Generation,Power,Power,Utilities,2551.0
+UEL,Power Generation,Power,Power,Utilities,2415.0
+INA,Power Generation,Power,Power,Utilities,1583.0
+KPEL,Power Generation,Power,Power,Utilities,1131.0
+GREENPOWER,Power Generation,Power,Power,Utilities,1033.0
+GVKPIL,Power Generation,Power,Power,Utilities,332.0
+PTC,Power Trading,Power,Power,Utilities,4128.0
+AUGMONT,Precious Metals,Non - Ferrous Metals,Metals & Mining,Commodities,8420.0
+DECNGOLD,Precious Metals,Non - Ferrous Metals,Metals & Mining,Commodities,3676.0
+DBCORP,Print Media,Media,"Media, Entertainment & Publication",Consumer Discretionary,2761.0
+JAGRAN,Print Media,Media,"Media, Entertainment & Publication",Consumer Discretionary,1434.0
+SANDESH,Print Media,Media,"Media, Entertainment & Publication",Consumer Discretionary,738.0
+HMVL,Print Media,Media,"Media, Entertainment & Publication",Consumer Discretionary,628.0
+HTMEDIA,Print Media,Media,"Media, Entertainment & Publication",Consumer Discretionary,565.0
+MPSLTD,Printing & Publication,Printing & Publication,"Media, Entertainment & Publication",Consumer Discretionary,3820.0
+SCHAND,Printing & Publication,Printing & Publication,"Media, Entertainment & Publication",Consumer Discretionary,467.0
+REPRO,Printing & Publication,Printing & Publication,"Media, Entertainment & Publication",Consumer Discretionary,449.0
+DICIND,Printing Inks,Chemicals & Petrochemicals,Chemicals,Commodities,442.0
+HDFCBANK,Private Sector Bank,Banks,Financial Services,Financial Services,1216460.0
+ICICIBANK,Private Sector Bank,Banks,Financial Services,Financial Services,1128308.0
+KOTAKBANK,Private Sector Bank,Banks,Financial Services,Financial Services,477498.0
+AXISBANK,Private Sector Bank,Banks,Financial Services,Financial Services,411985.0
+IDBI,Private Sector Bank,Banks,Financial Services,Financial Services,85482.0
+FEDERALBNK,Private Sector Bank,Banks,Financial Services,Financial Services,84113.0
+INDUSINDBK,Private Sector Bank,Banks,Financial Services,Financial Services,70922.0
+IDFCFIRSTB,Private Sector Bank,Banks,Financial Services,Financial Services,66696.0
+RBLBANK,Private Sector Bank,Banks,Financial Services,Financial Services,58852.0
+YESBANK,Private Sector Bank,Banks,Financial Services,Financial Services,53992.0
+KARURVYSYA,Private Sector Bank,Banks,Financial Services,Financial Services,35768.0
+BANDHANBNK,Private Sector Bank,Banks,Financial Services,Financial Services,26584.0
+CUB,Private Sector Bank,Banks,Financial Services,Financial Services,21748.0
+SOUTHBANK,Private Sector Bank,Banks,Financial Services,Financial Services,15132.0
+J&KBANK,Private Sector Bank,Banks,Financial Services,Financial Services,13557.0
+TMB,Private Sector Bank,Banks,Financial Services,Financial Services,13102.0
+KTKBANK,Private Sector Bank,Banks,Financial Services,Financial Services,12067.0
+DCBBANK,Private Sector Bank,Banks,Financial Services,Financial Services,6501.0
+CSBBANK,Private Sector Bank,Banks,Financial Services,Financial Services,5183.0
+DHANBANK,Private Sector Bank,Banks,Financial Services,Financial Services,1294.0
+SBIN,Public Sector Bank,Banks,Financial Services,Financial Services,940154.0
+PNB,Public Sector Bank,Banks,Financial Services,Financial Services,145443.0
+UNIONBANK,Public Sector Bank,Banks,Financial Services,Financial Services,142748.0
+BANKBARODA,Public Sector Bank,Banks,Financial Services,Financial Services,129444.0
+INDIANB,Public Sector Bank,Banks,Financial Services,Financial Services,121496.0
+CANBK,Public Sector Bank,Banks,Financial Services,Financial Services,111506.0
+MAHABANK,Public Sector Bank,Banks,Financial Services,Financial Services,66847.0
+BANKINDIA,Public Sector Bank,Banks,Financial Services,Financial Services,63086.0
+IOB,Public Sector Bank,Banks,Financial Services,Financial Services,58848.0
+UCOBANK,Public Sector Bank,Banks,Financial Services,Financial Services,29894.0
+CENTRALBK,Public Sector Bank,Banks,Financial Services,Financial Services,27724.0
+PSB,Public Sector Bank,Banks,Financial Services,Financial Services,14333.0
+TITAGARH,Railway Wagons,Industrial Manufacturing,Capital Goods,Industrials,9129.0
+JWL,Railway Wagons,Industrial Manufacturing,Capital Goods,Industrials,8459.0
+TEXRAIL,Railway Wagons,Industrial Manufacturing,Capital Goods,Industrials,4270.0
+CARERATING,Ratings,Capital Markets,Financial Services,Financial Services,4716.0
+ICRA,Ratings,Capital Markets,Financial Services,Financial Services,4277.0
+KRT,Real Estate Investment Trusts (REITs),Realty,Realty,Consumer Discretionary,49182.0
+EMBASSY,Real Estate Investment Trusts (REITs),Realty,Realty,Consumer Discretionary,39511.0
+BAGMANE,Real Estate Investment Trusts (REITs),Realty,Realty,Consumer Discretionary,36210.0
+MINDSPACE,Real Estate Investment Trusts (REITs),Realty,Realty,Consumer Discretionary,32971.0
+BIRET,Real Estate Investment Trusts (REITs),Realty,Realty,Consumer Discretionary,26628.0
+NXST,Real Estate Investment Trusts (REITs),Realty,Realty,Consumer Discretionary,24087.0
+ELEVATE,Real Estate related services,Realty,Realty,Consumer Discretionary,4706.0
+RELIANCE,Refineries & Marketing,Petroleum Products,"Oil, Gas & Consumable Fuels",Energy,1786295.0
+IOC,Refineries & Marketing,Petroleum Products,"Oil, Gas & Consumable Fuels",Energy,206523.0
+BPCL,Refineries & Marketing,Petroleum Products,"Oil, Gas & Consumable Fuels",Energy,138789.0
+HINDPETRO,Refineries & Marketing,Petroleum Products,"Oil, Gas & Consumable Fuels",Energy,82379.0
+MRPL,Refineries & Marketing,Petroleum Products,"Oil, Gas & Consumable Fuels",Energy,30788.0
+CHENNPETRO,Refineries & Marketing,Petroleum Products,"Oil, Gas & Consumable Fuels",Energy,21470.0
+KOTYARK,Refineries & Marketing,Petroleum Products,"Oil, Gas & Consumable Fuels",Energy,451.0
+DLF,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,186366.0
+LODHA,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,117841.0
+PHOENIXLTD,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,77079.0
+PRESTIGE,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,70166.0
+OBEROIRLTY,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,63230.0
+GODREJPROP,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,54501.0
+BRIGADE,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,18212.0
+ANANTRAJ,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,16031.0
+SOBHA,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,13638.0
+HORIZONIND,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,12520.0
+ABREL,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,11934.0
+LOTUSDEV,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,11427.0
+SIGNATURE,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,10521.0
+MAXESTATES,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,8219.0
+EMBDL,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,7359.0
+MAHLIFE,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,6651.0
+GANESHHOU,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,5392.0
+KALPATARU,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,5122.0
+PURVA,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,4719.0
+DBREALTY,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,4533.0
+MANINFRA,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,4454.0
+SUNTECK,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,4381.0
+RUSTOMJEE,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,4374.0
+KOLTEPATIL,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,4060.0
+AGIIL,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,3762.0
+TARC,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,3697.0
+RAYMONDREL,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,3677.0
+ASHIANA,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,3536.0
+RUNWALENTR,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,3113.0
+ELPROINTL,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,2874.0
+ARVSMART,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,2785.0
+MARATHON,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,2688.0
+ALEMBICLTD,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,2599.0
+HUBTOWN,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,2598.0
+AJMERA,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,2549.0
+ARKADE,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,2065.0
+OMAXE,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,1890.0
+MIIL,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,1532.0
+SHRIRAMPPS,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,1232.0
+PVP,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,1148.0
+UNITECH,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,1013.0
+PRANAV,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,957.0
+ARIHANTSUP,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,918.0
+ARIHANT,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,902.0
+SURAJEST,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,900.0
+MODIS,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,840.0
+PROZONER,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,820.0
+ELDEHSG,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,792.0
+SHRADDHA,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,743.0
+GEECEE,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,723.0
+VASCONEQ,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,722.0
+VEEGALAND,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,671.0
+CCCL,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,506.0
+PANSARI,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,482.0
+PENINLAND,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,471.0
+NILASPACES,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,394.0
+SBGLP,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,390.0
+EMAMIREAL,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,355.0
+NIMBSPROJ,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,342.0
+RRECL,"Residential, Commercial Projects",Realty,Realty,Consumer Discretionary,325.0
+JUBLFOOD,Restaurants,Leisure Services,Consumer Services,Consumer Discretionary,30168.0
+DEVYANI,Restaurants,Leisure Services,Consumer Services,Consumer Discretionary,15862.0
+TRAVELFOOD,Restaurants,Leisure Services,Consumer Services,Consumer Discretionary,15474.0
+WESTLIFE,Restaurants,Leisure Services,Consumer Services,Consumer Discretionary,10222.0
+SAPPHIRE,Restaurants,Leisure Services,Consumer Services,Consumer Discretionary,6751.0
+RBA,Restaurants,Leisure Services,Consumer Services,Consumer Discretionary,6312.0
+UFBL,Restaurants,Leisure Services,Consumer Services,Consumer Discretionary,2108.0
+COFFEEDAY,Restaurants,Leisure Services,Consumer Services,Consumer Discretionary,665.0
+SPECIALITY,Restaurants,Leisure Services,Consumer Services,Consumer Discretionary,664.0
+NHIT,"Road AssetsToll, Annuity, Hybrid-Annuity",Transport Infrastructure,Services,Services,32926.0
+CUBEINVIT,"Road AssetsToll, Annuity, Hybrid-Annuity",Transport Infrastructure,Services,Services,20470.0
+VERTIS,"Road AssetsToll, Annuity, Hybrid-Annuity",Transport Infrastructure,Services,Services,17365.0
+IRBINVIT,"Road AssetsToll, Annuity, Hybrid-Annuity",Transport Infrastructure,Services,Services,10049.0
+INDUSINVIT,"Road AssetsToll, Annuity, Hybrid-Annuity",Transport Infrastructure,Services,Services,7947.0
+RIIT,"Road AssetsToll, Annuity, Hybrid-Annuity",Transport Infrastructure,Services,Services,7183.0
+CITIUSINVT,"Road AssetsToll, Annuity, Hybrid-Annuity",Transport Infrastructure,Services,Services,7107.0
+ROADSTAR,"Road AssetsToll, Annuity, Hybrid-Annuity",Transport Infrastructure,Services,Services,2778.0
+ANANTAM,"Road AssetsToll, Annuity, Hybrid-Annuity",Transport Infrastructure,Services,Services,2218.0
+BFUTILITIE,"Road AssetsToll, Annuity, Hybrid-Annuity",Transport Infrastructure,Services,Services,1660.0
+INNOVISION,"Road AssetsToll, Annuity, Hybrid-Annuity",Transport Infrastructure,Services,Services,637.0
+HILINFRA,"Road AssetsToll, Annuity, Hybrid-Annuity",Transport Infrastructure,Services,Services,517.0
+ECOSMOBLTY,Road Transport,Transport Services,Services,Services,695.0
+VOLERCAR,Road Transport,Transport Services,Services,Services,339.0
+APCOTEXIND,Rubber,Industrial Products,Capital Goods,Industrials,2513.0
+PIXTRANS,Rubber,Industrial Products,Capital Goods,Industrials,2318.0
+TINNARUBR,Rubber,Industrial Products,Capital Goods,Industrials,1534.0
+GRPLTD,Rubber,Industrial Products,Capital Goods,Industrials,1029.0
+GRCL,Rubber,Industrial Products,Capital Goods,Industrials,363.0
+RUBFILA,Rubber,Industrial Products,Capital Goods,Industrials,316.0
+HARRMALAYA,Rubber,Industrial Products,Capital Goods,Industrials,308.0
+CERA,Sanitary Ware,Consumer Durables,Consumer Durables,Consumer Discretionary,6189.0
+HINDWAREAP,Sanitary Ware,Consumer Durables,Consumer Durables,Consumer Discretionary,1408.0
+APEX,Seafood,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,1014.0
+SHINDL,Seafood,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,549.0
+MAZDOCK,Ship Building & Allied Services,Industrial Manufacturing,Capital Goods,Industrials,74222.0
+COCHINSHIP,Ship Building & Allied Services,Industrial Manufacturing,Capital Goods,Industrials,32096.0
+SWANDEF,Ship Building & Allied Services,Industrial Manufacturing,Capital Goods,Industrials,14526.0
+GESHIP,Shipping,Transport Services,Services,Services,20397.0
+SHREEJISPG,Shipping,Transport Services,Services,Services,14411.0
+SCI,Shipping,Transport Services,Services,Services,12161.0
+SEAMECLTD,Shipping,Transport Services,Services,Services,3748.0
+ABSMARINE,Shipping,Transport Services,Services,Services,714.0
+TRANSWORLD,Shipping,Transport Services,Services,Services,362.0
+ESSARSHPNG,Shipping,Transport Services,Services,Services,334.0
+OFSS,Software Products,IT - Software,Information Technology,Information Technology,89010.0
+TANLA,Software Products,IT - Software,Information Technology,Information Technology,8641.0
+MAPMYINDIA,Software Products,IT - Software,Information Technology,Information Technology,4600.0
+CAPILLARY,Software Products,IT - Software,Information Technology,Information Technology,4046.0
+TECHNVISN,Software Products,IT - Software,Information Technology,Information Technology,2456.0
+RAMCOSYS,Software Products,IT - Software,Information Technology,Information Technology,1980.0
+NUCLEUS,Software Products,IT - Software,Information Technology,Information Technology,1655.0
+BLUECLOUDS,Software Products,IT - Software,Information Technology,Information Technology,1628.0
+UNIECOM,Software Products,IT - Software,Information Technology,Information Technology,947.0
+SUBEXLTD,Software Products,IT - Software,Information Technology,Information Technology,944.0
+QUICKHEAL,Software Products,IT - Software,Information Technology,Information Technology,809.0
+IRIS,Software Products,IT - Software,Information Technology,Information Technology,444.0
+ABMKNO,Software Products,IT - Software,Information Technology,Information Technology,338.0
+VGINFOTECH,Software Products,IT - Software,Information Technology,Information Technology,317.0
+TRENT,Speciality Retail,Retailing,Consumer Services,Consumer Discretionary,164182.0
+LENSKART,Speciality Retail,Retailing,Consumer Services,Consumer Discretionary,126090.0
+MANYAVAR,Speciality Retail,Retailing,Consumer Services,Consumer Discretionary,11488.0
+ABLBL,Speciality Retail,Retailing,Consumer Services,Consumer Discretionary,9397.0
+AVL,Speciality Retail,Retailing,Consumer Services,Consumer Discretionary,6762.0
+V2RETAIL,Speciality Retail,Retailing,Consumer Services,Consumer Discretionary,6326.0
+ABFRL,Speciality Retail,Retailing,Consumer Services,Consumer Discretionary,4762.0
+SSRETAIL,Speciality Retail,Retailing,Consumer Services,Consumer Discretionary,4720.0
+ARVINDFASN,Speciality Retail,Retailing,Consumer Services,Consumer Discretionary,4584.0
+PERNIASPOP,Speciality Retail,Retailing,Consumer Services,Consumer Discretionary,3931.0
+STYLEBAAZA,Speciality Retail,Retailing,Consumer Services,Consumer Discretionary,2974.0
+BUILDPRO,Speciality Retail,Retailing,Consumer Services,Consumer Discretionary,2251.0
+GOCOLORS,Speciality Retail,Retailing,Consumer Services,Consumer Discretionary,1422.0
+KALAMANDIR,Speciality Retail,Retailing,Consumer Services,Consumer Discretionary,1366.0
+MUFTI,Speciality Retail,Retailing,Consumer Services,Consumer Discretionary,501.0
+PIDILITIND,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,160827.0
+FLUOROCHEM,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,51251.0
+NAVINFLUOR,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,46234.0
+DEEPAKNTR,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,20917.0
+AETHER,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,20731.0
+AARTIIND,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,16108.0
+FINEORG,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,15561.0
+ATUL,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,15405.0
+ANURAS,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,13266.0
+PRIVISCL,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,13145.0
+BASF,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,12785.0
+VINATIORGA,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,10810.0
+ELANTAS,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,9455.0
+JUBLINGREA,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,9117.0
+ALKYLAMINE,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,8044.0
+GALAXYSURF,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,7726.0
+NEOGEN,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,7657.0
+CLEAN,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,7110.0
+FCL,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,6003.0
+BALAMINES,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,5707.0
+ACI,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,5141.0
+PRASOLCHEM,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,4554.0
+LXCHEM,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,4534.0
+FOSECOIND,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,4491.0
+YASHO,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,4157.0
+EPIGRAL,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,3940.0
+TATVA,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,3756.0
+VISHNU,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,3710.0
+CHEMPLASTS,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,3357.0
+STYRENIX,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,3255.0
+JUBLCPL,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,2817.0
+DDEVPLSTIK,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,2598.0
+ROSSARI,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,2367.0
+NOCIL,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,2266.0
+SHK,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,1800.0
+INDOKEM,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,1787.0
+OAL,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,1662.0
+NITTAGELA,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,1661.0
+VIDHIING,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,1550.0
+PAUSHAKLTD,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,1485.0
+BLSPOLY,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,1463.0
+CAMLINFINE,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,1461.0
+EXCELINDUS,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,1236.0
+PLATIND,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,1173.0
+JYOTIRES,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,1049.0
+VALIANTORG,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,982.0
+INDOAMIN,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,888.0
+SACHEEROME,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,873.0
+SUDARSHAN,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,822.0
+FAIRCHEMOR,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,819.0
+SUNSHIEL,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,814.0
+KRONOX,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,721.0
+AMAL,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,716.0
+GEMAROMA,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,713.0
+CHEMCON,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,700.0
+JAYAGROGN,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,689.0
+DMCC,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,606.0
+CHEMBONDCH,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,601.0
+BLACKROSE,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,517.0
+PLASTIBLEN,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,447.0
+AARTISURF,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,395.0
+SILKFLEX,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,338.0
+AGASTYAEN,Specialty Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,325.0
+KIOCL,Sponge Iron,Ferrous Metals,Metals & Mining,Commodities,20344.0
+SALSTEEL,Sponge Iron,Ferrous Metals,Metals & Mining,Commodities,1309.0
+VRAJ,Sponge Iron,Ferrous Metals,Metals & Mining,Commodities,417.0
+DOMS,Stationary,Household Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,12465.0
+NAVNETEDUL,Stationary,Household Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,2861.0
+FLAIR,Stationary,Household Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,2622.0
+KOKUYOCMLN,Stationary,Household Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,722.0
+LINC,Stationary,Household Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,531.0
+GROWW,Stockbroking & Allied,Capital Markets,Financial Services,Financial Services,134933.0
+MOTILALOFS,Stockbroking & Allied,Capital Markets,Financial Services,Financial Services,66448.0
+360ONE,Stockbroking & Allied,Capital Markets,Financial Services,Financial Services,49054.0
+NUVAMA,Stockbroking & Allied,Capital Markets,Financial Services,Financial Services,34107.0
+ANGELONE,Stockbroking & Allied,Capital Markets,Financial Services,Financial Services,30290.0
+IIFLCAPS,Stockbroking & Allied,Capital Markets,Financial Services,Financial Services,11037.0
+SHAREINDIA,Stockbroking & Allied,Capital Markets,Financial Services,Financial Services,4111.0
+ARSSBL,Stockbroking & Allied,Capital Markets,Financial Services,Financial Services,3076.0
+MONARCH,Stockbroking & Allied,Capital Markets,Financial Services,Financial Services,2740.0
+GEOJITFSL,Stockbroking & Allied,Capital Markets,Financial Services,Financial Services,1984.0
+SMCGLOBAL,Stockbroking & Allied,Capital Markets,Financial Services,Financial Services,1964.0
+5PAISA,Stockbroking & Allied,Capital Markets,Financial Services,Financial Services,1590.0
+DOLATALGO,Stockbroking & Allied,Capital Markets,Financial Services,Financial Services,1084.0
+SYSTMTXC,Stockbroking & Allied,Capital Markets,Financial Services,Financial Services,1051.0
+ARIHANTCAP,Stockbroking & Allied,Capital Markets,Financial Services,Financial Services,1013.0
+DAMCAPITAL,Stockbroking & Allied,Capital Markets,Financial Services,Financial Services,986.0
+MASTERTR,Stockbroking & Allied,Capital Markets,Financial Services,Financial Services,954.0
+EMKAY,Stockbroking & Allied,Capital Markets,Financial Services,Financial Services,708.0
+BIRLAMONEY,Stockbroking & Allied,Capital Markets,Financial Services,Financial Services,631.0
+INDOTHAI,Stockbroking & Allied,Capital Markets,Financial Services,Financial Services,418.0
+ALMONDZ,Stockbroking & Allied,Capital Markets,Financial Services,Financial Services,349.0
+SHARDUL,Stockbroking & Allied,Capital Markets,Financial Services,Financial Services,326.0
+BALRAMCHIN,Sugar,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,14186.0
+TRIVENI,Sugar,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,5289.0
+BAJAJHIND,Sugar,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,4444.0
+BANARISUG,Sugar,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,4007.0
+RENUKA,Sugar,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,3872.0
+DALMIASUG,Sugar,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,3865.0
+AVADHSUGAR,Sugar,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,1650.0
+UTTAMSUGAR,Sugar,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,1371.0
+DHAMPURSUG,Sugar,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,1061.0
+MVKAGRO,Sugar,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,1040.0
+DBOL,Sugar,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,845.0
+DWARKESH,Sugar,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,790.0
+MAGADSUGAR,Sugar,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,768.0
+ZUARIIND,Sugar,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,709.0
+MAWANASUG,Sugar,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,586.0
+CKKRETAIL,Sugar,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,543.0
+DCMSRIND,Sugar,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,525.0
+UGARSUGAR,Sugar,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,460.0
+KMSUGAR,Sugar,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,303.0
+TATACONSUM,Tea & Coffee,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,107511.0
+CCL,Tea & Coffee,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,12913.0
+VINCOFE,Tea & Coffee,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,2343.0
+ANDREWYU,Tea & Coffee,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,1148.0
+MCLEODRUSS,Tea & Coffee,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,452.0
+STLTECH,Telecom -  Equipment & Accessories,Telecom -  Equipment & Accessories,Telecommunication,Telecommunication,37018.0
+ITI,Telecom -  Equipment & Accessories,Telecom -  Equipment & Accessories,Telecommunication,Telecommunication,23968.0
+TEJASNET,Telecom -  Equipment & Accessories,Telecom -  Equipment & Accessories,Telecommunication,Telecommunication,7432.0
+OPTIEMUS,Telecom -  Equipment & Accessories,Telecom -  Equipment & Accessories,Telecommunication,Telecommunication,6733.0
+ORIENTCABL,Telecom -  Equipment & Accessories,Telecom -  Equipment & Accessories,Telecommunication,Telecommunication,3847.0
+BIRLACABLE,Telecom -  Equipment & Accessories,Telecom -  Equipment & Accessories,Telecommunication,Telecommunication,1047.0
+FROG,Telecom -  Equipment & Accessories,Telecom -  Equipment & Accessories,Telecommunication,Telecommunication,416.0
+BHARTIARTL,Telecom - Cellular & Fixed line services,Telecom - Services,Telecommunication,Telecommunication,1315233.0
+JPL,Telecom - Cellular & Fixed line services,Telecom - Services,Telecommunication,Telecommunication,1295158.0
+IDEA,Telecom - Cellular & Fixed line services,Telecom - Services,Telecommunication,Telecommunication,138246.0
+BHARTIHEXA,Telecom - Cellular & Fixed line services,Telecom - Services,Telecommunication,Telecommunication,83220.0
+TATACOMM,Telecom - Cellular & Fixed line services,Telecom - Services,Telecommunication,Telecommunication,48601.0
+TTML,Telecom - Cellular & Fixed line services,Telecom - Services,Telecommunication,Telecommunication,7775.0
+MTNL,Telecom - Cellular & Fixed line services,Telecom - Services,Telecommunication,Telecommunication,1692.0
+INDUSTOWER,Telecom - Infrastructure,Telecom - Services,Telecommunication,Telecommunication,101068.0
+HFCL,Telecom - Infrastructure,Telecom - Services,Telecommunication,Telecommunication,32244.0
+PACEDIGITK,Telecom - Infrastructure,Telecom - Services,Telecommunication,Telecommunication,3413.0
+BONDADA,Telecom - Infrastructure,Telecom - Services,Telecommunication,Telecommunication,3089.0
+GTLINFRA,Telecom - Infrastructure,Telecom - Services,Telecommunication,Telecommunication,1383.0
+SUYOG,Telecom - Infrastructure,Telecom - Services,Telecommunication,Telecommunication,588.0
+SARTELE,Telecom - Infrastructure,Telecom - Services,Telecommunication,Telecommunication,374.0
+IRCTC,"Tour, Travel Related Services",Leisure Services,Consumer Services,Consumer Discretionary,36560.0
+TBOTEK,"Tour, Travel Related Services",Leisure Services,Consumer Services,Consumer Discretionary,16991.0
+BLS,"Tour, Travel Related Services",Leisure Services,Consumer Services,Consumer Discretionary,9196.0
+IXIGO,"Tour, Travel Related Services",Leisure Services,Consumer Services,Consumer Discretionary,7320.0
+CORDELIA,"Tour, Travel Related Services",Leisure Services,Consumer Services,Consumer Discretionary,6392.0
+THOMASCOOK,"Tour, Travel Related Services",Leisure Services,Consumer Services,Consumer Discretionary,4717.0
+EASEMYTRIP,"Tour, Travel Related Services",Leisure Services,Consumer Services,Consumer Discretionary,2399.0
+YATRA,"Tour, Travel Related Services",Leisure Services,Consumer Services,Consumer Discretionary,1214.0
+ESCORTS,Tractors,"Agricultural, Commercial & Construction Vehicles",Capital Goods,Industrials,27336.0
+VSTTILLERS,Tractors,"Agricultural, Commercial & Construction Vehicles",Capital Goods,Industrials,3411.0
+IMPAL,Trading - Auto components,Auto Components,Automobile and Auto Components,Consumer Discretionary,1269.0
+UNIENTER,Trading - Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,655.0
+VINYLINDIA,Trading - Chemicals,Chemicals & Petrochemicals,Chemicals,Commodities,436.0
+AEGISLOG,Trading - Gas,Gas,"Oil, Gas & Consumable Fuels",Energy,40053.0
+SGMART,Trading - Metals,Metals & Minerals Trading,Metals & Mining,Commodities,10832.0
+LLOYDSENT,Trading - Metals,Metals & Minerals Trading,Metals & Mining,Commodities,9355.0
+NRL,Trading - Metals,Metals & Minerals Trading,Metals & Mining,Commodities,1153.0
+MWL,Trading - Metals,Metals & Minerals Trading,Metals & Mining,Commodities,1142.0
+BMWVENTLTD,Trading - Metals,Metals & Minerals Trading,Metals & Mining,Commodities,561.0
+ADANIENT,Trading - Minerals,Metals & Minerals Trading,Metals & Mining,Commodities,371625.0
+PDSL,Trading - Textile Products,Textiles & Apparels,Textiles,Consumer Discretionary,5715.0
+REDINGTON,Trading & Distributors,Commercial Services & Supplies,Services,Services,25603.0
+MMTC,Trading & Distributors,Commercial Services & Supplies,Services,Services,8000.0
+MSTCLTD,Trading & Distributors,Commercial Services & Supplies,Services,Services,4152.0
+CNL,Trading & Distributors,Commercial Services & Supplies,Services,Services,1994.0
+BNAGROCHEM,Trading & Distributors,Commercial Services & Supplies,Services,Services,1246.0
+SHIVAUM,Trading & Distributors,Commercial Services & Supplies,Services,Services,754.0
+STCINDIA,Trading & Distributors,Commercial Services & Supplies,Services,Services,626.0
+HPTL,Trading & Distributors,Commercial Services & Supplies,Services,Services,599.0
+OSWALAGRO,Trading & Distributors,Commercial Services & Supplies,Services,Services,537.0
+KOTHARIPRO,Trading & Distributors,Commercial Services & Supplies,Services,Services,357.0
+ENCOMPAS,Trading & Distributors,Commercial Services & Supplies,Services,Services,324.0
+BLACKBUCK,Transport Related Services,Transport Services,Services,Services,10161.0
+KERNEX,Transport Related Services,Transport Services,Services,Services,2854.0
+SUNTV,TV Broadcasting & Software Production,Entertainment,"Media, Entertainment & Publication",Consumer Discretionary,23466.0
+ZEEL,TV Broadcasting & Software Production,Entertainment,"Media, Entertainment & Publication",Consumer Discretionary,6144.0
+HATHWAY,TV Broadcasting & Software Production,Entertainment,"Media, Entertainment & Publication",Consumer Discretionary,1650.0
+DEN,TV Broadcasting & Software Production,Entertainment,"Media, Entertainment & Publication",Consumer Discretionary,1247.0
+NDTV,TV Broadcasting & Software Production,Entertainment,"Media, Entertainment & Publication",Consumer Discretionary,728.0
+GTPL,TV Broadcasting & Software Production,Entertainment,"Media, Entertainment & Publication",Consumer Discretionary,606.0
+TVTODAY,TV Broadcasting & Software Production,Entertainment,"Media, Entertainment & Publication",Consumer Discretionary,604.0
+ZEEMEDIA,TV Broadcasting & Software Production,Entertainment,"Media, Entertainment & Publication",Consumer Discretionary,465.0
+DISHTV,TV Broadcasting & Software Production,Entertainment,"Media, Entertainment & Publication",Consumer Discretionary,366.0
+AQYLON,TV Broadcasting & Software Production,Entertainment,"Media, Entertainment & Publication",Consumer Discretionary,324.0
+MRF,Tyres & Rubber Products,Auto Components,Automobile and Auto Components,Consumer Discretionary,53139.0
+BALKRISIND,Tyres & Rubber Products,Auto Components,Automobile and Auto Components,Consumer Discretionary,46589.0
+APOLLOTYRE,Tyres & Rubber Products,Auto Components,Automobile and Auto Components,Consumer Discretionary,26417.0
+CEATLTD,Tyres & Rubber Products,Auto Components,Automobile and Auto Components,Consumer Discretionary,14343.0
+JKTYRE,Tyres & Rubber Products,Auto Components,Automobile and Auto Components,Consumer Discretionary,10357.0
+TVSSRICHAK,Tyres & Rubber Products,Auto Components,Automobile and Auto Components,Consumer Discretionary,3274.0
+GOODYEAR,Tyres & Rubber Products,Auto Components,Automobile and Auto Components,Consumer Discretionary,1570.0
+TOLINS,Tyres & Rubber Products,Auto Components,Automobile and Auto Components,Consumer Discretionary,330.0
+SFCTECH,Waste Management,Other Utilities,Utilities,Utilities,4047.0
+REFEX,Waste Management,Other Utilities,Utilities,Utilities,3105.0
+EMSLIMITED,Waste Management,Other Utilities,Utilities,Utilities,1684.0
+AWHCL,Waste Management,Other Utilities,Utilities,Utilities,864.0
+NAMOEWASTE,Waste Management,Other Utilities,Utilities,Utilities,776.0
+ECORECO,Waste Management,Other Utilities,Utilities,Utilities,764.0
+EFFWA,Waste Management,Other Utilities,Utilities,Utilities,736.0
+ZTECH,Waste Management,Other Utilities,Utilities,Utilities,563.0
+CEWATER,Waste Management,Other Utilities,Utilities,Utilities,472.0
+HIGREEN,Waste Management,Other Utilities,Utilities,Utilities,326.0
+WABAG,Water Supply & Management,Other Utilities,Utilities,Utilities,12434.0
+IONEXCHANG,Water Supply & Management,Other Utilities,Utilities,Utilities,4453.0
+EIEL,Water Supply & Management,Other Utilities,Utilities,Utilities,3013.0
+TECHNOCRAF,Water Supply & Management,Other Utilities,Utilities,Utilities,2021.0
+JITFINFRA,Water Supply & Management,Other Utilities,Utilities,Utilities,668.0
+DENTA,Water Supply & Management,Other Utilities,Utilities,Utilities,629.0
+APEXECO,Water Supply & Management,Other Utilities,Utilities,Utilities,347.0
+FELIX,Water Supply & Management,Other Utilities,Utilities,Utilities,313.0
+ONMOBILE,Web based media and service,Media,"Media, Entertainment & Publication",Consumer Discretionary,567.0
+PELATRO,Web based media and service,Media,"Media, Entertainment & Publication",Consumer Discretionary,393.0
+JSLL,Wellness,Leisure Services,Consumer Services,Consumer Discretionary,4007.0
+KAYA,Wellness,Leisure Services,Consumer Services,Consumer Discretionary,564.0
+HINDZINC,Zinc,Non - Ferrous Metals,Metals & Mining,Commodities,240040.0
