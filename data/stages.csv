@@ -3223,3 +3223,98 @@ date,industry,stage
 2026-11-24,Real Estate Services,quiet
 2026-11-24,Auto & Truck Dealerships,quiet
 2026-11-24,Oil & Gas Equipment & Services,quiet
+2026-11-25,Travel Services,breakout
+2026-11-25,Business Equipment & Supplies,breakout
+2026-11-25,Medical Care Facilities,breakout
+2026-11-25,Lodging,accum
+2026-11-25,Utilities - Regulated Gas,base
+2026-11-25,Marine Shipping,base
+2026-11-25,Banks,running
+2026-11-25,Auto Manufacturers,running
+2026-11-25,Household & Personal Products,running
+2026-11-25,Resorts & Casinos,running
+2026-11-25,Consumer Electronics,running
+2026-11-25,Building Materials,running
+2026-11-25,Insurance - Life,running
+2026-11-25,Rental & Leasing Services,running
+2026-11-25,Diagnostics & Research,running
+2026-11-25,Health Information Services,running
+2026-11-25,Steel,quiet
+2026-11-25,Apparel Retail (Showrooms),quiet
+2026-11-25,Capital Markets (Brokers/AMC),quiet
+2026-11-25,Pharma (Generic),quiet
+2026-11-25,Industrial Distribution,quiet
+2026-11-25,Packaged Foods,quiet
+2026-11-25,EPC / Construction,quiet
+2026-11-25,Real Estate - Development,quiet
+2026-11-25,Internet Retail,quiet
+2026-11-25,Electrical Equipment,quiet
+2026-11-25,Infrastructure Operations,quiet
+2026-11-25,NBFC,quiet
+2026-11-25,Auto Ancillary,quiet
+2026-11-25,Pharmaceutical Retailers,quiet
+2026-11-25,Metal Fabrication,quiet
+2026-11-25,Education & Training Services,quiet
+2026-11-25,Specialty Chemicals,quiet
+2026-11-25,Textiles,quiet
+2026-11-25,Farm Products,quiet
+2026-11-25,Beverages - Wineries & Distilleries,quiet
+2026-11-25,Luxury Goods,quiet
+2026-11-25,Packaging & Containers,quiet
+2026-11-25,Real Estate - Diversified,quiet
+2026-11-25,Precision Engg / Industrial Machinery,quiet
+2026-11-25,Electronics & Computer Distribution,quiet
+2026-11-25,Footwear & Accessories,quiet
+2026-11-25,IT Services,quiet
+2026-11-25,Defence & Aerospace,quiet
+2026-11-25,Communication Equipment,quiet
+2026-11-25,Readymade Garments,quiet
+2026-11-25,Software Products,quiet
+2026-11-25,Commodity Chemicals,quiet
+2026-11-25,Entertainment,quiet
+2026-11-25,Integrated Freight & Logistics,quiet
+2026-11-25,Tobacco,quiet
+2026-11-25,"Furnishings, Fixtures & Appliances",quiet
+2026-11-25,Railroads,quiet
+2026-11-25,Drug Manufacturers - General,quiet
+2026-11-25,Financial Conglomerates,quiet
+2026-11-25,Medical Instruments & Supplies,quiet
+2026-11-25,Software - Infrastructure,quiet
+2026-11-25,Electronic Components,quiet
+2026-11-25,Conglomerates,quiet
+2026-11-25,Lumber & Wood Production,quiet
+2026-11-25,Staffing & Employment Services,quiet
+2026-11-25,Mortgage Finance,quiet
+2026-11-25,Asset Management,quiet
+2026-11-25,Building Products & Equipment,quiet
+2026-11-25,Telecom Services,quiet
+2026-11-25,Aluminum,quiet
+2026-11-25,Agrochem & Fertilisers,quiet
+2026-11-25,Restaurants,quiet
+2026-11-25,Utilities - Renewable,quiet
+2026-11-25,Publishing,quiet
+2026-11-25,Other Industrial Metals & Mining,quiet
+2026-11-25,Airports & Air Services,quiet
+2026-11-25,Utilities - Independent Power Producers,quiet
+2026-11-25,Financial Data & Stock Exchanges,quiet
+2026-11-25,Biotechnology,quiet
+2026-11-25,Specialty Business Services,quiet
+2026-11-25,Confectioners,quiet
+2026-11-25,Utilities - Regulated Electric,quiet
+2026-11-25,Oil & Gas Refining & Marketing,quiet
+2026-11-25,Farm & Heavy Construction Machinery,quiet
+2026-11-25,Computer Hardware,quiet
+2026-11-25,Solar,quiet
+2026-11-25,Thermal Coal,quiet
+2026-11-25,Internet Content & Information,quiet
+2026-11-25,Broadcasting,quiet
+2026-11-25,Waste Management,quiet
+2026-11-25,Oil & Gas E&P,quiet
+2026-11-25,Advertising Agencies,quiet
+2026-11-25,Auto & Truck Dealerships,quiet
+2026-11-25,Value Retail / Dept Stores,quiet
+2026-11-25,Tools & Accessories,quiet
+2026-11-25,Paper & Paper Products,quiet
+2026-11-25,Real Estate Services,quiet
+2026-11-25,Specialty Retail,quiet
+2026-11-25,Oil & Gas Equipment & Services,quiet
